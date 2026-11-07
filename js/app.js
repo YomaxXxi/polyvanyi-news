@@ -300,13 +300,13 @@
     elements.breakingTicker.innerHTML = breakingArticles
       .map(
         a => `
-        <a href="?article=${a.slug}" class="inline-flex items-center gap-2 hover:text-indigo-400 transition breaking-link px-4 group" data-slug="${a.slug}">
-          <span class="w-1.5 h-1.5 rounded-full bg-red-500 animate-ping"></span>
-          <span class="font-medium group-hover:underline text-slate-800 dark:text-slate-200">${escapeHtml(a.title)}</span>
+        <a href="?article=${a.slug}" class="inline-flex items-center gap-2 text-white hover:text-indigo-300 transition breaking-link px-3 py-1 rounded-lg hover:bg-slate-800/80 group flex-shrink-0" data-slug="${a.slug}">
+          <span class="w-1.5 h-1.5 rounded-full bg-red-400 group-hover:scale-125 transition-transform flex-shrink-0"></span>
+          <span class="font-semibold text-white group-hover:text-indigo-300 transition-colors">${escapeHtml(a.title)}</span>
         </a>
       `
       )
-      .join('<span class="text-slate-400 dark:text-slate-600 select-none">•</span>');
+      .join('<span class="text-slate-600 select-none px-1 flex-shrink-0">•</span>');
   }
 
   /**
