@@ -654,19 +654,11 @@
       const insertIndex = secondPIndex !== -1 ? secondPIndex + pTag.length : firstPIndex + pTag.length;
 
       const inArticleAdHtml = `
-        <div class="my-8 p-4 sm:p-6 bg-slate-50 dark:bg-slate-900 border border-dashed border-slate-300 dark:border-slate-700 rounded-2xl" data-ad-slot="in-article-native">
-          <div class="flex items-center justify-between mb-3">
-            <span class="text-[10px] font-bold uppercase tracking-wider text-slate-400 dark:text-slate-500">Реклама / Sponsored</span>
-            <span class="text-xs text-slate-400">партнерський блок</span>
-          </div>
-          <div class="bg-gradient-to-r from-indigo-500/10 via-purple-500/10 to-pink-500/10 rounded-xl p-5 border border-indigo-200/50 dark:border-indigo-800/50 flex flex-col sm:flex-row items-center justify-between gap-4">
-            <div>
-              <p class="font-bold text-slate-900 dark:text-white text-base">Шукаєте надійний хмарний хостинг або GPU сервери для AI?</p>
-              <p class="text-xs sm:text-sm text-slate-600 dark:text-slate-400 mt-1">Отримайте $100 безкоштовних кредитів на запуск LLM та Docker контейнерів за промокодом <span class="font-mono font-bold text-indigo-600 dark:text-indigo-400">POLYVANYI</span></p>
-            </div>
-            <a href="https://t.me/polyvanyi_news" target="_blank" rel="noopener noreferrer" class="px-5 py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white font-medium text-xs sm:text-sm rounded-xl transition whitespace-nowrap shadow-md">
-              Дізнатися більше →
-            </a>
+        <div class="my-8 p-4 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl text-center shadow-sm" data-ad-slot="in-article-native">
+          <span class="text-[9px] font-semibold uppercase tracking-wider text-slate-400 dark:text-slate-500 block mb-2">Реклама</span>
+          <div class="w-full min-h-[140px] sm:min-h-[180px] flex flex-col items-center justify-center bg-slate-50 dark:bg-slate-950/60 rounded-xl border border-dashed border-slate-200 dark:border-slate-800 p-4">
+            <span class="text-xs text-slate-400 dark:text-slate-500 font-mono font-medium">Google AdSense</span>
+            <span class="text-[10px] text-slate-400 dark:text-slate-600 mt-1 font-mono">In-Article Native Responsive Ad</span>
           </div>
         </div>
       `;
