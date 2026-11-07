@@ -1,0 +1,6 @@
+# robots.txt for TechFlow Modern News Portal
+User-agent: *
+Allow: /
+
+# Sitemap location (update with your custom domain or GitHub Pages repo URL)
+Sitemap: https://yomaxxxi.github.io/polyvanyi-news/sitemap.xml

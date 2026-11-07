@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="uk" class="dark scroll-smooth">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Primary Meta Tags -->
+  <title>TechFlow — Незалежний новинний портал про технології, AI та бізнес</title>
+  <meta name="title" content="TechFlow — Незалежний новинний портал про технології, AI та бізнес">
+  <meta name="description" content="Найголовніші новини про штучний інтелект, хардвер, квантові обчислення, кібербезпеку та IT-бізнес в Україні та світі.">
+  <meta name="keywords" content="новини технологій, штучний інтелект, AI, Claude, Apple M5, роботаксі, стартапи, кібербезпека">
+  <meta name="author" content="Редакція TechFlow">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://yomaxxxi.github.io/polyvanyi-news/">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://yomaxxxi.github.io/polyvanyi-news/">
+  <meta property="og:site_name" content="TechFlow">
+  <meta property="og:title" content="TechFlow — Незалежний новинний портал про технології, AI та бізнес">
+  <meta property="og:description" content="Найголовніші новини про штучний інтелект, хардвер, квантові обчислення, кібербезпеку та IT-бізнес.">
+  <meta property="og:image" content="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&auto=format&fit=crop&q=80">
+  <meta property="og:locale" content="uk_UA">
+
+  <!-- Twitter / X -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="https://yomaxxxi.github.io/polyvanyi-news/">
+  <meta name="twitter:title" content="TechFlow — Незалежний новинний портал про технології, AI та бізнес">
+  <meta name="twitter:description" content="Найголовніші новини про штучний інтелект, хардвер, квантові обчислення, кібербезпеку та IT-бізнес.">
+  <meta name="twitter:image" content="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&auto=format&fit=crop&q=80">
+
+  <!-- Favicon (SVG) -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%236366f1'><path d='M13 2L3 14h9l-1 8 10-12h-9l1-8z'/></svg>">
+
+  <!-- Google Fonts: Inter & Montserrat -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Montserrat:wght@700;800;900&display=swap" rel="stylesheet">
+
+  <!-- Tailwind CSS Play CDN with typography -->
+  <script src="https://cdn.tailwindcss.com?plugins=typography,aspect-ratio"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            brand: {
+              50: '#eef2ff',
+              100: '#e0e7ff',
+              500: '#6366f1',
+              600: '#4f46e5',
+              700: '#4338ca',
+            }
+          },
+          fontFamily: {
+            sans: ['Inter', 'system-ui', '-apple-system', 'sans-serif'],
+            display: ['Montserrat', 'Inter', 'sans-serif'],
+          }
+        }
+      }
+    }
+  </script>
+
+  <style>
+    /* Editorial Typography Fine-Tuning */
+    body {
+      font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';
+      -webkit-font-smoothing: antialiased;
+    }
+    .line-clamp-2 {
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .line-clamp-3 {
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    /* Custom Scrollbar */
+    ::-webkit-scrollbar {
+      width: 7px;
+      height: 7px;
+    }
+    ::-webkit-scrollbar-track {
+      background: transparent;
+    }
+    ::-webkit-scrollbar-thumb {
+      background: #475569;
+      border-radius: 4px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+      background: #64748b;
+    }
+  </style>
+</head>
+
+<body class="bg-slate-50 text-slate-800 dark:bg-[#0B0F19] dark:text-slate-100 min-h-screen flex flex-col transition-colors duration-200">
+
+  <!-- 1. Breaking News Ticker Bar -->
+  <aside class="bg-slate-900 border-b border-slate-800 text-slate-300 text-xs py-2 px-4 z-40 relative">
+    <div class="max-w-7xl mx-auto flex items-center justify-between gap-4">
+      <div class="flex items-center gap-3 overflow-hidden">
+        <span class="flex-shrink-0 flex items-center gap-1.5 px-2.5 py-0.5 rounded-full bg-red-600 text-white font-bold text-[11px] tracking-wide uppercase shadow-sm">
+          <span class="w-2 h-2 rounded-full bg-white animate-pulse"></span>
+          Терміново
+        </span>
+        <div id="breaking-ticker-content" class="overflow-x-auto whitespace-nowrap scrollbar-none flex items-center gap-3 text-slate-200 text-xs">
+          <!-- Populated dynamically via JS -->
+          <span class="text-slate-400">Завантаження стрічки термінових повідомлень...</span>
+        </div>
+      </div>
+
+      <!-- Quick Date & Telegram Link -->
+      <div class="hidden lg:flex items-center gap-4 flex-shrink-0 text-slate-400">
+        <span>7 листопада 2026</span>
+        <span>•</span>
+        <a href="https://t.me/polyvanyi_news" target="_blank" rel="noopener noreferrer" class="hover:text-sky-400 transition flex items-center gap-1 font-medium">
+          <svg class="w-3.5 h-3.5 fill-current" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69a.2.2 0 00-.05-.18c-.06-.05-.14-.03-.21-.02-.09.02-1.49.95-4.22 2.79-.4.27-.76.41-1.08.4-.36-.01-1.04-.2-1.55-.37-.63-.2-1.12-.31-1.08-.66.02-.18.27-.36.75-.55 2.92-1.27 4.86-2.11 5.83-2.51 2.78-1.16 3.35-1.36 3.73-1.36.08 0 .27.02.39.12.1.08.13.19.14.27-.01.06.01.24 0 .38z"/></svg>
+          @polyvanyi_news
+        </a>
+      </div>
+    </div>
+  </aside>
+
+  <!-- 2. Sticky Header & Main Navigation -->
+  <header class="sticky top-0 z-30 bg-white/90 dark:bg-[#0B0F19]/90 backdrop-blur-md border-b border-slate-200 dark:border-slate-800 transition-colors">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between h-20">
+        
+        <!-- Logo -->
+        <div class="flex items-center gap-8">
+          <a href="./" class="brand-logo-link flex items-center gap-2.5 group">
+            <span class="w-10 h-10 rounded-2xl bg-gradient-to-tr from-indigo-600 to-violet-500 flex items-center justify-center text-white shadow-lg shadow-indigo-500/25 group-hover:scale-105 transition-transform">
+              <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>
+            </span>
+            <div class="flex flex-col">
+              <span class="font-display font-black text-2xl tracking-tight text-slate-900 dark:text-white leading-none">
+                TECH<span class="text-indigo-600 dark:text-indigo-400">FLOW</span>
+              </span>
+              <span class="text-[10px] font-semibold tracking-widest text-slate-500 dark:text-slate-400 uppercase mt-0.5">Editorial Tech News</span>
+            </div>
+          </a>
+
+          <!-- Desktop Navigation Tabs -->
+          <nav id="category-tabs" class="hidden lg:flex items-center gap-1" aria-label="Головна навігація">
+            <!-- Rendered by JS -->
+          </nav>
+        </div>
+
+        <!-- Right Action Buttons -->
+        <div class="flex items-center gap-2 sm:gap-3">
+          <!-- Search Button -->
+          <button id="open-search-btn" type="button" class="flex items-center gap-2 px-3.5 py-2 rounded-xl bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-600 dark:text-slate-300 transition text-sm">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+            <span class="hidden sm:inline">Пошук</span>
+            <kbd class="hidden md:inline-block px-1.5 py-0.5 text-[10px] font-mono bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded text-slate-400">⌘K</kbd>
+          </button>
+
+          <!-- Theme Toggle Button -->
+          <button id="theme-toggle-btn" type="button" class="p-2.5 rounded-xl bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-600 dark:text-slate-300 transition" aria-label="Змінити тему">
+            <!-- Sun Icon (shown in dark mode) -->
+            <svg class="w-5 h-5 theme-sun-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"/></svg>
+            <!-- Moon Icon (shown in light mode) -->
+            <svg class="w-5 h-5 theme-moon-icon hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"/></svg>
+          </button>
+
+          <!-- Telegram Join Button -->
+          <a href="https://t.me/polyvanyi_news" target="_blank" rel="noopener noreferrer" class="hidden sm:inline-flex items-center gap-1.5 px-4 py-2 bg-indigo-600 hover:bg-indigo-700 text-white text-sm font-semibold rounded-xl shadow-md shadow-indigo-600/20 transition">
+            <svg class="w-4 h-4 fill-current" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69a.2.2 0 00-.05-.18c-.06-.05-.14-.03-.21-.02-.09.02-1.49.95-4.22 2.79-.4.27-.76.41-1.08.4-.36-.01-1.04-.2-1.55-.37-.63-.2-1.12-.31-1.08-.66.02-.18.27-.36.75-.55 2.92-1.27 4.86-2.11 5.83-2.51 2.78-1.16 3.35-1.36 3.73-1.36.08 0 .27.02.39.12.1.08.13.19.14.27-.01.06.01.24 0 .38z"/></svg>
+            Канал
+          </a>
+
+          <!-- Mobile Hamburger Button -->
+          <button id="mobile-menu-btn" type="button" class="lg:hidden p-2.5 rounded-xl bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300" aria-label="Відкрити меню">
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/></svg>
+          </button>
+        </div>
+
+      </div>
+    </div>
+  </header>
+
+  <!-- 3. Top Leaderboard Ad Slot (728x90 desktop / 320x50 mobile) -->
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-6 w-full" aria-label="Рекламний банер">
+    <div class="relative bg-white dark:bg-slate-900 border border-dashed border-slate-300 dark:border-slate-800 rounded-2xl overflow-hidden min-h-[90px] flex flex-col justify-center items-center p-3 text-center transition shadow-sm" data-ad-slot="leaderboard-top">
+      <div class="absolute top-1.5 right-2.5 text-[9px] font-bold uppercase tracking-wider text-slate-400 dark:text-slate-500">
+        Реклама / Sponsored
+      </div>
+      <div class="flex flex-col sm:flex-row items-center justify-center gap-3">
+        <span class="inline-flex px-2 py-0.5 rounded text-[10px] font-bold bg-indigo-100 dark:bg-indigo-950/80 text-indigo-700 dark:text-indigo-400 border border-indigo-200 dark:border-indigo-800">
+          Leaderboard 728×90
+        </span>
+        <p class="text-xs sm:text-sm font-medium text-slate-700 dark:text-slate-300">
+          Розмістіть банер вашого продукту або стартапу перед 50 000+ інженерами та фаундерами.
+        </p>
+        <a href="https://t.me/polyvanyi_news" target="_blank" rel="noopener noreferrer" class="text-xs font-semibold text-indigo-600 dark:text-indigo-400 hover:underline">
+          Замовити розміщення →
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- 4. Main Body Content (Views Swapped dynamically) -->
+  <main class="flex-grow max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 w-full">
+
+    <!-- VIEW A: Home Feed & Hero Screen -->
+    <div id="home-view" class="space-y-12">
+      
+      <!-- Hero Section: Left 1 Large Featured + Right 3 Highlights -->
+      <section class="grid grid-cols-1 lg:grid-cols-12 gap-6 lg:gap-8 items-stretch" aria-label="Головні новини дня">
+        <!-- Big Hero Card -->
+        <div id="hero-main" class="lg:col-span-8 flex flex-col">
+          <!-- Populated by JS -->
+        </div>
+
+        <!-- 3 Smaller Trending Headlines -->
+        <div id="hero-sidebar" class="lg:col-span-4 flex flex-col justify-between gap-4">
+          <!-- Populated by JS -->
+        </div>
+      </section>
+
+      <!-- Main News Feed & Sidebar Grid -->
+      <section class="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-10">
+        
+        <!-- Left/Main Column: Category Feed & Cards Grid -->
+        <div class="lg:col-span-8 space-y-6">
+          <div class="flex items-center justify-between pb-4 border-b border-slate-200 dark:border-slate-800">
+            <div>
+              <h2 id="current-category-title" class="text-2xl font-extrabold text-slate-900 dark:text-white">
+                Головні матеріали
+              </h2>
+              <p class="text-xs text-slate-500 dark:text-slate-400 mt-0.5">Останні аналітичні статті, інсайти та релізи</p>
+            </div>
+            <span id="current-category-count" class="px-3 py-1 bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 text-xs font-semibold rounded-full">
+              Завантаження...
+            </span>
+          </div>
+
+          <!-- Cards Grid -->
+          <div id="news-feed" class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+            <!-- Article cards rendered by JS -->
+          </div>
+
+          <!-- Load More Button -->
+          <div id="load-more-container" class="pt-6 text-center">
+            <button id="load-more-btn" type="button" class="inline-flex items-center gap-2 px-8 py-3.5 bg-white dark:bg-slate-900 hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-900 dark:text-white font-semibold text-sm rounded-2xl border border-slate-200 dark:border-slate-800 shadow-sm transition hover:shadow-md">
+              <svg class="w-4 h-4 text-indigo-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 13l-7 7-7-7m14-8l-7 7-7-7"/></svg>
+              Завантажити ще новини
+            </button>
+          </div>
+        </div>
+
+        <!-- Right Sidebar: Trending, Sticky Ad Slot & Telegram Widget -->
+        <aside class="lg:col-span-4 space-y-8" aria-label="Бічна колонка">
+
+          <!-- 1. Trending Most Read (Numbered 01-05) -->
+          <div class="p-6 rounded-3xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm">
+            <div class="flex items-center justify-between pb-4 mb-4 border-b border-slate-100 dark:border-slate-800">
+              <h3 class="font-extrabold text-slate-900 dark:text-white text-base sm:text-lg flex items-center gap-2">
+                <svg class="w-5 h-5 text-indigo-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"/></svg>
+                Найбільш читане
+              </h3>
+              <span class="text-[11px] text-slate-400 font-medium">За 24 години</span>
+            </div>
+            <ul id="trending-list" class="space-y-2">
+              <!-- Rendered by JS -->
+            </ul>
+          </div>
+
+          <!-- 2. Sticky Sidebar Ad Slot (300x250 / 300x600) -->
+          <div class="sticky top-28 space-y-8">
+            <div class="p-5 bg-white dark:bg-slate-900 border border-dashed border-slate-300 dark:border-slate-800 rounded-3xl text-center shadow-sm" data-ad-slot="sidebar-sticky">
+              <div class="flex items-center justify-between mb-3 text-[9px] font-bold uppercase tracking-wider text-slate-400 dark:text-slate-500">
+                <span>Реклама</span>
+                <span>Sidebar 300×250</span>
+              </div>
+              <div class="aspect-[6/5] bg-gradient-to-br from-indigo-950 via-slate-900 to-slate-950 rounded-2xl p-5 flex flex-col justify-between text-left text-white border border-indigo-900/40">
+                <div>
+                  <span class="px-2 py-0.5 text-[9px] font-bold rounded bg-indigo-500 text-white uppercase">Sponsor</span>
+                  <h4 class="font-bold text-base mt-2 leading-snug">ШІ-автоматизація для вашого бізнесу</h4>
+                  <p class="text-xs text-slate-300 mt-1.5 leading-relaxed">Впровадження локальних LLM, AI-асистентів та оптимізація витрат на токени.</p>
+                </div>
+                <a href="https://t.me/polyvanyi_news" target="_blank" rel="noopener noreferrer" class="w-full py-2 bg-white text-slate-950 text-xs font-bold rounded-xl text-center hover:bg-slate-100 transition shadow">
+                  Консультація в Telegram →
+                </a>
+              </div>
+            </div>
+
+            <!-- 3. Telegram Widget -->
+            <div class="p-6 rounded-3xl bg-gradient-to-br from-sky-500/10 via-indigo-500/10 to-slate-900 border border-sky-500/20 shadow-sm">
+              <div class="flex items-center gap-3 mb-3">
+                <span class="w-10 h-10 rounded-2xl bg-sky-500 text-white flex items-center justify-center shadow-md shadow-sky-500/30">
+                  <svg class="w-5 h-5 fill-current" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69a.2.2 0 00-.05-.18c-.06-.05-.14-.03-.21-.02-.09.02-1.49.95-4.22 2.79-.4.27-.76.41-1.08.4-.36-.01-1.04-.2-1.55-.37-.63-.2-1.12-.31-1.08-.66.02-.18.27-.36.75-.55 2.92-1.27 4.86-2.11 5.83-2.51 2.78-1.16 3.35-1.36 3.73-1.36.08 0 .27.02.39.12.1.08.13.19.14.27-.01.06.01.24 0 .38z"/></svg>
+                </span>
+                <div>
+                  <h4 class="font-bold text-slate-900 dark:text-white text-base leading-tight">Polyvanyi News</h4>
+                  <p class="text-xs text-sky-600 dark:text-sky-400 font-medium">@polyvanyi_news • 25.4k читачів</p>
+                </div>
+              </div>
+              <p class="text-xs text-slate-600 dark:text-slate-300 mb-4 leading-relaxed">
+                Оперативні інсайди зі світу AI, розбори нових моделей та безкоштовні промпти й конфігурації.
+              </p>
+              <a href="https://t.me/polyvanyi_news" target="_blank" rel="noopener noreferrer" class="w-full flex items-center justify-center gap-2 py-2.5 bg-sky-500 hover:bg-sky-600 text-white font-semibold text-xs rounded-xl transition shadow-md shadow-sky-500/20">
+                Підписатися на канал
+                <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
+              </a>
+            </div>
+
+            <!-- 4. Newsletter Subscription Form -->
+            <div class="p-6 rounded-3xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm">
+              <h4 class="font-bold text-slate-900 dark:text-white text-base mb-1">Щотижневий Tech-Дайджест</h4>
+              <p class="text-xs text-slate-500 dark:text-slate-400 mb-4">Отримуйте 5 найважливіших новин щоп'ятниці на пошту без спаму.</p>
+              <form id="newsletter-form" class="space-y-2.5">
+                <input type="email" required placeholder="Ваш email..." class="w-full px-3.5 py-2.5 bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl text-xs sm:text-sm text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-indigo-500">
+                <button type="submit" class="w-full py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white font-semibold text-xs rounded-xl transition shadow">
+                  Підписатися
+                </button>
+              </form>
+            </div>
+          </div>
+
+        </aside>
+      </section>
+
+    </div>
+
+    <!-- VIEW B: Single Article View (Deep Link / No Reload) -->
+    <div id="article-view" class="hidden max-w-4xl mx-auto">
+      
+      <!-- Article Content Container (Rendered dynamically) -->
+      <article id="single-article-content" class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-3xl p-6 sm:p-10 lg:p-12 shadow-sm">
+        <!-- Injected by JS -->
+      </article>
+
+      <!-- Related Articles Section -->
+      <section class="mt-12 pt-8 border-t border-slate-200 dark:border-slate-800" aria-label="Схожі матеріали">
+        <div class="flex items-center justify-between mb-6">
+          <h3 class="text-xl sm:text-2xl font-extrabold text-slate-900 dark:text-white">
+            Схожі матеріали
+          </h3>
+          <span class="text-xs text-slate-400">Рекомендовано для вас</span>
+        </div>
+        <div id="related-articles" class="grid grid-cols-1 md:grid-cols-3 gap-6">
+          <!-- Injected by JS -->
+        </div>
+      </section>
+
+    </div>
+
+  </main>
+
+  <!-- 5. Instant Search Modal -->
+  <div id="search-modal" class="fixed inset-0 z-50 bg-slate-950/70 backdrop-blur-sm hidden flex items-start justify-center pt-20 px-4" role="dialog" aria-modal="true">
+    <div class="w-full max-w-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-3xl shadow-2xl overflow-hidden flex flex-col max-h-[80vh]">
+      <!-- Search Input Bar -->
+      <div class="p-4 border-b border-slate-200 dark:border-slate-800 flex items-center gap-3">
+        <svg class="w-5 h-5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+        <input id="search-input" type="text" placeholder="Пошук новин за заголовком, AI, Apple, стартапами..." class="w-full bg-transparent border-none text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none text-base sm:text-lg">
+        <button id="close-search-btn" type="button" class="p-1 rounded-lg text-slate-400 hover:text-slate-600 dark:hover:text-white transition">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
+        </button>
+      </div>
+
+      <!-- Search Results List -->
+      <div id="search-results" class="overflow-y-auto p-4 space-y-2 flex-grow">
+        <div class="p-8 text-center text-slate-400 dark:text-slate-500 text-sm">
+          Введіть запит для миттєвого пошуку...
+        </div>
+      </div>
+      
+      <!-- Search Footer -->
+      <div class="p-3 bg-slate-50 dark:bg-slate-800/50 border-t border-slate-200 dark:border-slate-800 flex items-center justify-between text-xs text-slate-400">
+        <span>Навігація клавішами: <kbd class="px-1 bg-white dark:bg-slate-900 rounded border border-slate-300 dark:border-slate-700">ESC</kbd> для виходу</span>
+        <span>Статичний пошук без затримок</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- 6. Mobile Off-Canvas Drawer -->
+  <div id="mobile-menu" class="fixed inset-0 z-50 bg-slate-950/70 backdrop-blur-sm hidden">
+    <div class="fixed inset-y-0 left-0 w-full max-w-xs bg-white dark:bg-slate-900 border-r border-slate-200 dark:border-slate-800 p-6 flex flex-col justify-between shadow-2xl">
+      <div>
+        <div class="flex items-center justify-between pb-6 border-b border-slate-200 dark:border-slate-800">
+          <a href="./" class="brand-logo-link flex items-center gap-2">
+            <span class="w-8 h-8 rounded-xl bg-indigo-600 flex items-center justify-center text-white">
+              <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>
+            </span>
+            <span class="font-display font-black text-xl text-slate-900 dark:text-white">TECHFLOW</span>
+          </a>
+          <button id="close-mobile-menu-btn" type="button" class="p-1 rounded-lg text-slate-400 hover:text-white">
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
+          </button>
+        </div>
+
+        <nav class="mt-6 flex flex-col gap-2" id="mobile-category-tabs">
+          <!-- Mobile categories injected by JS -->
+        </nav>
+      </div>
+
+      <div class="pt-6 border-t border-slate-200 dark:border-slate-800 space-y-4">
+        <button id="mobile-theme-toggle-btn" type="button" class="w-full flex items-center justify-between px-4 py-2.5 rounded-xl bg-slate-100 dark:bg-slate-800 text-sm font-medium">
+          <span>Тема інтерфейсу</span>
+          <span class="flex items-center gap-1">
+            <svg class="w-4 h-4 theme-sun-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"/></svg>
+            <svg class="w-4 h-4 theme-moon-icon hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"/></svg>
+          </span>
+        </button>
+
+        <a href="https://t.me/polyvanyi_news" target="_blank" rel="noopener noreferrer" class="w-full flex items-center justify-center gap-2 py-3 bg-indigo-600 text-white rounded-xl font-semibold text-sm">
+          Канал @polyvanyi_news
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 7. Notification Toast -->
+  <div id="toast" class="fixed bottom-6 right-6 z-50 transform translate-y-4 opacity-0 pointer-events-none transition-all duration-300">
+    <div class="bg-slate-900 text-white px-5 py-3 rounded-2xl shadow-xl border border-slate-800 flex items-center gap-3 text-sm">
+      <span class="w-2 h-2 rounded-full bg-emerald-400"></span>
+      <span id="toast-message">Повідомлення скопійовано!</span>
+    </div>
+  </div>
+
+  <!-- 8. Editorial Footer -->
+  <footer class="mt-auto bg-white dark:bg-slate-950 border-t border-slate-200 dark:border-slate-800/80 transition-colors">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <div class="grid grid-cols-1 md:grid-cols-4 gap-8 mb-12">
+        
+        <!-- About Col -->
+        <div class="md:col-span-1 space-y-4">
+          <a href="./" class="brand-logo-link flex items-center gap-2.5">
+            <span class="w-8 h-8 rounded-xl bg-indigo-600 flex items-center justify-center text-white">
+              <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>
+            </span>
+            <span class="font-display font-black text-xl text-slate-900 dark:text-white">TECHFLOW</span>
+          </a>
+          <p class="text-xs text-slate-500 dark:text-slate-400 leading-relaxed">
+            Незалежне українське технологічне медіа нового покоління. Глибокі огляди штучного інтелекту, апаратного забезпечення, космічних програм та стартапів.
+          </p>
+          <div class="flex items-center gap-3 text-slate-400 pt-2">
+            <a href="https://t.me/polyvanyi_news" target="_blank" rel="noopener noreferrer" class="hover:text-sky-400 transition" aria-label="Telegram">
+              <svg class="w-5 h-5 fill-current" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69a.2.2 0 00-.05-.18c-.06-.05-.14-.03-.21-.02-.09.02-1.49.95-4.22 2.79-.4.27-.76.41-1.08.4-.36-.01-1.04-.2-1.55-.37-.63-.2-1.12-.31-1.08-.66.02-.18.27-.36.75-.55 2.92-1.27 4.86-2.11 5.83-2.51 2.78-1.16 3.35-1.36 3.73-1.36.08 0 .27.02.39.12.1.08.13.19.14.27-.01.06.01.24 0 .38z"/></svg>
+            </a>
+            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" class="hover:text-white transition" aria-label="Twitter">
+              <svg class="w-5 h-5 fill-current" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+          </div>
+        </div>
+
+        <!-- Categories Col -->
+        <div>
+          <h4 class="text-sm font-bold text-slate-900 dark:text-white mb-4">Розділи новин</h4>
+          <ul class="space-y-2 text-xs text-slate-600 dark:text-slate-400">
+            <li><button class="category-nav-btn hover:text-indigo-500 transition" data-category="ai">Штучний Інтелект</button></li>
+            <li><button class="category-nav-btn hover:text-indigo-500 transition" data-category="tech">Технології & Гаджети</button></li>
+            <li><button class="category-nav-btn hover:text-indigo-500 transition" data-category="auto">Авто & Роботаксі</button></li>
+            <li><button class="category-nav-btn hover:text-indigo-500 transition" data-category="business">Бізнес та інвестиції</button></li>
+            <li><button class="category-nav-btn hover:text-indigo-500 transition" data-category="cybersecurity">Кібербезпека</button></li>
+          </ul>
+        </div>
+
+        <!-- Legal & Docs Col -->
+        <div>
+          <h4 class="text-sm font-bold text-slate-900 dark:text-white mb-4">Інформація та SEO</h4>
+          <ul class="space-y-2 text-xs text-slate-600 dark:text-slate-400">
+            <li><a href="robots.txt" class="hover:text-indigo-500 transition" target="_blank">robots.txt (Індексація)</a></li>
+            <li><a href="sitemap.xml" class="hover:text-indigo-500 transition" target="_blank">sitemap.xml (Карта сайту)</a></li>
+            <li><a href="ads.txt" class="hover:text-indigo-500 transition" target="_blank">ads.txt (Реклама)</a></li>
+            <li><a href="./?article=eu-ai-act-strict-enforcement-penalties" class="hover:text-indigo-500 transition">Політика конфіденційності</a></li>
+            <li><a href="mailto:contact@techflow.local" class="hover:text-indigo-500 transition">Контакти редакції</a></li>
+          </ul>
+        </div>
+
+        <!-- Technical Stack Col -->
+        <div>
+          <h4 class="text-sm font-bold text-slate-900 dark:text-white mb-4">Архітектура</h4>
+          <p class="text-xs text-slate-500 dark:text-slate-400 leading-relaxed mb-3">
+            Сайт працює на 100% статичному стеку (Vanilla JS + Tailwind CSS) без бекенд-залежностей. Повністю сумісний із безкоштовним деплоєм на <strong>GitHub Pages</strong>.
+          </p>
+          <span class="inline-flex items-center gap-1.5 px-3 py-1 bg-emerald-100 dark:bg-emerald-950/60 text-emerald-700 dark:text-emerald-400 text-[11px] font-semibold rounded-lg border border-emerald-200 dark:border-emerald-800">
+            <span class="w-1.5 h-1.5 rounded-full bg-emerald-500"></span>
+            Zero Backend • 100% Static
+          </span>
+        </div>
+
+      </div>
+
+      <!-- Copyright Bottom Bar -->
+      <div class="pt-8 border-t border-slate-200 dark:border-slate-800/80 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-400">
+        <p>© 2026 TechFlow. Всі права захищено. Створено з фокусом на швидкість та чистоту коду.</p>
+        <p class="text-[11px]">Підтримка та моніторинг: <a href="https://t.me/polyvanyi_news" class="underline hover:text-indigo-400">@polyvanyi_news</a></p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Application Script -->
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,195 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "slug": "claude-3-7-sonnet-hybrid-reasoning-revolution",
+      "title": "Anthropic представила Claude 3.7 Sonnet: Перша у світі гібридна модель мислення",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-06T18:30:00Z",
+      "date_formatted": "6 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор Tech & AI",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80"
+      },
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&auto=format&fit=crop&q=80",
+      "image_caption": "Концептуальна візуалізація гібридного мислення в нейромережах нового покоління",
+      "summary": "Anthropic зробила революційний крок у розвитку LLM, об'єднавши миттєві відповіді та покроковий ланцюг роздумів в єдиній моделі Claude 3.7 Sonnet із повним контролем бюджету токенів користувачем.",
+      "content": "<p class=\"lead text-xl font-medium text-slate-700 dark:text-slate-300 leading-relaxed mb-6\">Компанія Anthropic офіційно презентувала <strong>Claude 3.7 Sonnet</strong> — першу на ринку гібридну мовну модель, здатну адаптивно перемикатися між ультрашвидкою генерацією тексту та тривалим покроковим ланцюгом міркувань (extended reasoning).</p><h2 class=\"text-2xl font-bold text-slate-900 dark:text-white mt-8 mb-4\">У чому полягає прорив гібридної архітектури?</h2><p class=\"mb-4\">Дотепер індустрія штучного інтелекту була розділена на два табори: швидкі моделі для щоденних запитів (як Claude 3.5 Sonnet чи GPT-4o) та спеціалізовані моделі «повільного мислення» (як OpenAI o1 чи DeepSeek R1), які витрачають десятки секунд на роздуми над кожним промптом.</p><p class=\"mb-6\">Claude 3.7 Sonnet усуває цей бар'єр. Користувач або розробник через API може самостійно регулювати глибину роздумів: від 0 токенів (миттєва відповідь за 1.2 секунди) до десятків тисяч токенів для комплексних архітектурних рішень.</p><blockquote class=\"border-l-4 border-indigo-600 pl-4 py-2 my-6 italic text-slate-700 dark:text-slate-300 bg-slate-50 dark:bg-slate-800/60 rounded-r-lg\">«Ми створили інструмент, де інженер сам встановлює бюджет мислення під конкретну складність задачі. Більше не потрібно обирати між швидкістю та інтелектом», — зазначають в Anthropic.</blockquote><h2 class=\"text-2xl font-bold text-slate-900 dark:text-white mt-8 mb-4\">Рекордні результати в бенчмарках</h2><p class=\"mb-4\">Особливу увагу розробники приділили кодингу та складним технічним завданням. За результатами незалежного тестування SWE-bench Verified (вирішення реальних issue з відкритого коду на GitHub), Claude 3.7 Sonnet показав безпрецедентний результат — <strong>70.3%</strong> успішно вирішених завдань без допомоги людини.</p><div class=\"bg-indigo-50 dark:bg-indigo-950/40 border border-indigo-200 dark:border-indigo-800 rounded-xl p-5 my-6\"><h4 class=\"font-bold text-indigo-900 dark:text-indigo-200 mb-2 flex items-center gap-2\"><svg class=\"w-5 h-5\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M13 10V3L4 14h7v7l9-11h-7z\"/></svg>Ключові технічні характеристики:</h4><ul class=\"list-disc list-inside space-y-1.5 text-slate-700 dark:text-slate-300 text-sm\"><li><strong>Контекстне вікно:</strong> 200 000 токенів (~150 000 слів або повноцінна кодова база)</li><li><strong>Вихідне вікно:</strong> до 128 000 токенів генерації</li><li><strong>SWE-bench Verified:</strong> 70.3% (рекорд індустрії серед комерційних моделей)</li><li><strong>Вартість:</strong> збережено на рівні $3 за 1M вхідних та $15 за 1M вихідних токенів</li></ul></div><p class=\"mb-4\">Модель уже доступна у веб-версії claude.ai для підписників Pro та Team, а також через Anthropic API, Amazon Bedrock та Google Cloud Vertex AI.</p>",
+      "reading_time": "4 хв",
+      "views": 24850,
+      "featured": true,
+      "breaking": true
+    },
+    {
+      "id": 2,
+      "slug": "apple-m5-chip-quantum-leap-tsmc-2nm",
+      "title": "Apple M5 отримає революційний 2-нм техпроцес TSMC та інтегровану пам'ять VPA",
+      "category": "Технології",
+      "category_slug": "tech",
+      "date": "2026-11-06T15:45:00Z",
+      "date_formatted": "6 листопада 2026",
+      "author": {
+        "name": "Олександр Мельник",
+        "role": "Апаратний оглядач",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80"
+      },
+      "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=1200&auto=format&fit=crop&q=80",
+      "image_caption": "Кремнієва пластина з новими напівпровідниковими кристалами TSMC N2",
+      "summary": "Інсайдери ланцюжка постачання Apple розкрили перші технічні специфікації майбутнього чипа Apple M5: перехід на архітектуру TSMC 2nm N2 та вертикальне компонування нейроядер.",
+      "content": "<p class=\"lead text-xl font-medium text-slate-700 dark:text-slate-300 leading-relaxed mb-6\">Купертіно готує масштабний стрибок у продуктивності своїх процесорів серії Apple Silicon. Чип M5 стане першим комерційним кремнієм, виготовленим за передовим 2-нанометровим нормами TSMC N2 із транзисторами типу Gate-All-Around (GAA).</p><h2 class=\"text-2xl font-bold text-slate-900 dark:text-white mt-8 mb-4\">Що змінить перехід на 2 нанометри?</h2><p class=\"mb-4\">Згідно зі звітом тайванського видання DigiTimes, нова геометрія транзисторів GAA дозволить зменшити витік струму на 30% та підвищити енергоефективність на чверть при збереженні тих самих теплових лімітів тонких корпусів MacBook Air та iPad Pro.</p><p class=\"mb-4\">Окрім стандартного приросту частоти ядер, Apple суттєво переробила блок Neural Engine. Архітектура отримає підтримку матричних обчислень FP4 та FP8 на апаратному рівні, що дозволить локально запускати 14-мільярдні моделі зі швидкістю понад 45 токенів на секунду прямо в оперативній пам'яті ноутбука.</p>",
+      "reading_time": "3 хв",
+      "views": 18420,
+      "featured": true,
+      "breaking": false
+    },
+    {
+      "id": 3,
+      "slug": "tesla-robotaxi-cybercab-europe-approval",
+      "title": "Tesla Cybercab виходить на дороги Європи: отримано перший дозвіл на безпілотні тести",
+      "category": "Авто",
+      "category_slug": "auto",
+      "date": "2026-11-06T12:20:00Z",
+      "date_formatted": "6 листопада 2026",
+      "author": {
+        "name": "Ярослав Кравчук",
+        "role": "Автомобільний експерт",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80"
+      },
+      "image": "https://images.unsplash.com/photo-1563720223185-11003d516935?w=1200&auto=format&fit=crop&q=80",
+      "image_caption": "Автономний двомісний електрокар Tesla Cybercab без керма та педалей",
+      "summary": "Німецький регулятор KBA надав Tesla офіційний сертифікат на тестову експлуатацію безпілотних шатлів Cybercab на дорогах загального користування навколо Берліна.",
+      "content": "<p class=\"lead text-xl font-medium text-slate-700 dark:text-slate-300 leading-relaxed mb-6\">Європейський транспортний сектор стоїть на порозі тектонічних змін: Федеральне відомство автомобільного транспорту Німеччини (KBA) дозволило Tesla тестувати машини 4-го рівня автономності без водія за кермом.</p><p class=\"mb-4\">На першому етапі флот із 50 автомобілів Cybercab курсуватиме за фіксованими маршрутами між аеропортом Берлін-Бранденбург та технологічним хабом у Потсдамі. Автомобілі повністю позбавлені керма, педалей та дзеркал заднього виду, покладаючись виключно на комплекс камер та комп'ютер Tesla AI5.</p>",
+      "reading_time": "3 хв",
+      "views": 14310,
+      "featured": true,
+      "breaking": true
+    },
+    {
+      "id": 4,
+      "slug": "eu-ai-act-strict-enforcement-penalties",
+      "title": "ЄС запускає дію AI Act: за що IT-гігантам загрожують штрафи до €35 млн",
+      "category": "Бізнес",
+      "category_slug": "business",
+      "date": "2026-11-06T09:15:00Z",
+      "date_formatted": "6 листопада 2026",
+      "author": {
+        "name": "Ірина Волошина",
+        "role": "Аналітик IT-права та ринків",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&q=80"
+      },
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&auto=format&fit=crop&q=80",
+      "image_caption": "Європейський офіс зі штучного інтелекту розпочав моніторинг моделей загального призначення",
+      "summary": "Європейський Союз вступив у фазу жорсткого виконання Закону про ШІ. Під повну заборону потрапили біометричні системи розпізнавання емоцій та непрозорий соціальний скоринг.",
+      "content": "<p class=\"lead text-xl font-medium text-slate-700 dark:text-slate-300 leading-relaxed mb-6\">З 1 листопада 2026 року в країнах Євросоюзу набули чинності найсуворіші положення історичного регламенту <em>EU AI Act</em>, які встановлюють юридичну відповідальність розробників моделей загального призначення (GPAI).</p><p class=\"mb-4\">За порушення базових вимог безпеки або використання систем із «неприйнятним ризиком» корпораціям загрожують санкції в розмірі до 35 мільйонів євро або 7% від їхнього сукупного світового річного обороту — що для таких компаній, як Microsoft чи Google, може сягати мільярдів євро.</p>",
+      "reading_time": "4 хв",
+      "views": 11200,
+      "featured": false,
+      "breaking": false
+    },
+    {
+      "id": 5,
+      "slug": "critical-vulnerability-oauth-smart-devices",
+      "title": "Критична вразливість у протоколі OAuth ставить під загрозу мільйони IoT-пристроїв",
+      "category": "Кібербезпека",
+      "category_slug": "cybersecurity",
+      "date": "2026-11-05T20:10:00Z",
+      "date_formatted": "5 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор Tech & AI",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80"
+      },
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&auto=format&fit=crop&q=80",
+      "image_caption": "Аналіз безпеки криптографічних ключів та токенів авторизації",
+      "summary": "Дослідники команди Google Project Zero оприлюднили детальне дослідження вразливості нульового дня, що дозволяє перехоплювати refresh-токени в розумних хабах та камерах спостереження.",
+      "content": "<p class=\"lead text-xl font-medium text-slate-700 dark:text-slate-300 leading-relaxed mb-6\">Команда фахівців із кібербезпеки виявила фундаментальний дефект у типових бібліотеках реалізації OAuth 2.0 для вбудованих Linux-систем. Уразливість отримала ідентифікатор CVE-2026-9812 з рейтингом CVSS 9.8 із 10.</p><p class=\"mb-4\">Зловмисники можуть змусити пристрій розірвати сесію та надіслати незашифрований пакет відновлення сесії на підставний сервер у локальній мережі, отримуючи повний доступ до відеопотоків домашніх камер та керування смарт-замками.</p>",
+      "reading_time": "3 хв",
+      "views": 9840,
+      "featured": false,
+      "breaking": false
+    },
+    {
+      "id": 6,
+      "slug": "deepseek-r2-open-source-frontier-announcement",
+      "title": "DeepSeek готує реліз моделі R2: відкрита вага з ефективністю флагманів за $0",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-05T14:00:00Z",
+      "date_formatted": "5 листопада 2026",
+      "author": {
+        "name": "Олександр Мельник",
+        "role": "Апаратний оглядач",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80"
+      },
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&auto=format&fit=crop&q=80",
+      "image_caption": "Серверні стійки кластера тренування моделей DeepSeek",
+      "summary": "Китайський стартап DeepSeek готується перевернути ринок відкритих моделей, анонсувавши наступника R1 з новою оптимізацією MoE та навчанням без людської розмітки.",
+      "content": "<p class=\"lead text-xl font-medium text-slate-700 dark:text-slate-300 leading-relaxed mb-6\">Після фурору з першим поколінням міркувальних моделей, лабораторія DeepSeek розкрила деталі майбутнього релізу DeepSeek-R2, який вийде під повністю вільною ліцензією MIT.</p><p class=\"mb-4\">Ключовою інновацією є архітектура DualPipe v2, яка дозволяє мінімізувати простої GPU під час інтерференції. Очікується, що квантована версія моделі зможе запускатися локально на робочих станціях із парою споживчих карт RTX 5090.</p>",
+      "reading_time": "3 хв",
+      "views": 21300,
+      "featured": false,
+      "breaking": false
+    },
+    {
+      "id": 7,
+      "slug": "spacex-starship-orbital-refueling-success",
+      "title": "SpaceX вперше успішно передала криогенне паливо між двома Starship на орбіті",
+      "category": "Технології",
+      "category_slug": "tech",
+      "date": "2026-11-05T10:30:00Z",
+      "date_formatted": "5 листопада 2026",
+      "author": {
+        "name": "Ярослав Кравчук",
+        "role": "Автомобільний експерт",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80"
+      },
+      "image": "https://images.unsplash.com/photo-1517976487502-5f690246a23c?w=1200&auto=format&fit=crop&q=80",
+      "image_caption": "Starship на навколоземній орбіті під час маневру стикування",
+      "summary": "Історична віха в освоєнні далекого космосу: SpaceX довела практичну життєздатність орбітального дозаправлення рідким метаном і киснем у межах підготовки місії Artemis III на Місяць.",
+      "content": "<p class=\"lead text-xl font-medium text-slate-700 dark:text-slate-300 leading-relaxed mb-6\">Космічний корабель Starship Flight 10 здійснив стикування з танкером-накопичувачем на висоті 320 км над Землею та успішно перекачав 40 тонн зрідженого газу при нульовій гравітації.</p><p class=\"mb-4\">Цей маневр був головною критичною точкою програми повернення людей на Місяць за контрактом із NASA. Тепер шлях до посадкової місії в районі південного полюса Місяця офіційно відкрито.</p>",
+      "reading_time": "4 хв",
+      "views": 16900,
+      "featured": false,
+      "breaking": true
+    },
+    {
+      "id": 8,
+      "slug": "nvidia-dlss-5-neural-rendering-announcement",
+      "title": "NVIDIA розкрила перші подробиці DLSS 5: повна нейронна реконструкція геометрії",
+      "category": "Технології",
+      "category_slug": "tech",
+      "date": "2026-11-04T16:00:00Z",
+      "date_formatted": "4 листопада 2026",
+      "author": {
+        "name": "Олександр Мельник",
+        "role": "Апаратний оглядач",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80"
+      },
+      "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=1200&auto=format&fit=crop&q=80",
+      "image_caption": "Демонстрація трасування шляху та генерації кадрів на архітектурі Blackwell",
+      "summary": "DLSS 5 навчився не просто апскейлити пікселі, а відновлювати субпіксельну полігональну сітку в реальному часі, збільшуючи деталізацію у 8K без падіння частоти кадрів.",
+      "content": "<p class=\"lead text-xl font-medium text-slate-700 dark:text-slate-300 leading-relaxed mb-6\">Компанія NVIDIA представила нову версію своєї фірмової технології глибокого навчання для рендерингу Deep Learning Super Sampling (DLSS 5). Головне нововведення — технологія Neural Geometry Mesh Reconstruction.</p><p class=\"mb-4\">Замість традиційної інтерполяції пікселів, тензорні ядра відеокарт RTX 50-ї серії тепер аналізують вектори глибини сцени та прогнозують фізичні полігони об'єктів на мікрорівні. Це дозволяє усунути миготіння тонких ліній, дротів та листя навіть при роздільній здатності 1080p з екстраполяцією до 4K.</p>",
+      "reading_time": "3 хв",
+      "views": 13800,
+      "featured": false,
+      "breaking": false
+    }
+  ],
+  "categories": [
+    { "name": "Всі", "slug": "all" },
+    { "name": "Штучний Інтелект", "slug": "ai" },
+    { "name": "Технології", "slug": "tech" },
+    { "name": "Авто", "slug": "auto" },
+    { "name": "Бізнес", "slug": "business" },
+    { "name": "Кібербезпека", "slug": "cybersecurity" }
+  ],
+  "site_meta": {
+    "title": "TECH PULSE | Головні новини технологій, ШІ та бізнесу",
+    "description": "Незалежне українське медіа про штучний інтелект, проривні інженерні технології, кібербезпеку та майбутнє.",
+    "telegram_url": "https://t.me/polyvanyi_news",
+    "tiktok_url": "https://www.tiktok.com/@polyvanyi",
+    "threads_url": "https://www.threads.net/@mykhailo.polyvanyi"
+  }
+}

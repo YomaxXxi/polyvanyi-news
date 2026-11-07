@@ -1,0 +1,10 @@
+# ads.txt file for TechFlow News Portal
+# Standard IAB ads.txt specification
+# Format: <Field #1: Domain>, <Field #2: Publisher Account ID>, <Field #3: Relationship (DIRECT/RESELLER)>, <Field #4: Certification Authority ID (optional)>
+#
+# Examples for popular ad networks:
+# Google AdSense:
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+#
+# Carbon Ads:
+# carbonads.com, YOUR_PROPERTY_ID, DIRECT
