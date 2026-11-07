@@ -12,10 +12,8 @@
     categories: [
       { slug: 'all', name: 'Головне' },
       { slug: 'ai', name: 'Штучний Інтелект' },
-      { slug: 'tech', name: 'Технології' },
-      { slug: 'auto', name: 'Авто' },
-      { slug: 'business', name: 'Бізнес' },
-      { slug: 'cybersecurity', name: 'Кібербезпека' }
+      { slug: 'tech', name: 'Техніка' },
+      { slug: 'gaming', name: 'Геймінг' }
     ],
     currentCategory: 'all',
     currentArticleSlug: null,
@@ -32,9 +30,7 @@
   const categoryColors = {
     ai: 'bg-indigo-100 text-indigo-700 dark:bg-indigo-950/80 dark:text-indigo-300 border-indigo-200 dark:border-indigo-800',
     tech: 'bg-cyan-100 text-cyan-700 dark:bg-cyan-950/80 dark:text-cyan-300 border-cyan-200 dark:border-cyan-800',
-    auto: 'bg-emerald-100 text-emerald-700 dark:bg-emerald-950/80 dark:text-emerald-300 border-emerald-200 dark:border-emerald-800',
-    business: 'bg-amber-100 text-amber-800 dark:bg-amber-950/80 dark:text-amber-300 border-amber-200 dark:border-amber-800',
-    cybersecurity: 'bg-rose-100 text-rose-700 dark:bg-rose-950/80 dark:text-rose-300 border-rose-200 dark:border-rose-800'
+    gaming: 'bg-purple-100 text-purple-700 dark:bg-purple-950/80 dark:text-purple-300 border-purple-200 dark:border-purple-800'
   };
 
   /**
@@ -43,9 +39,25 @@
   async function init() {
     cacheDomElements();
     initTheme();
+    updateTopDate();
     setupEventListeners();
     await loadData();
     handleRoute();
+  }
+
+  /**
+   * Update Real Current Date in Header
+   */
+  function updateTopDate() {
+    const el = document.getElementById('current-top-date');
+    if (el) {
+      const now = new Date();
+      el.textContent = now.toLocaleDateString('uk-UA', {
+        day: 'numeric',
+        month: 'long',
+        year: 'numeric'
+      });
+    }
   }
 
   /**
@@ -77,7 +89,6 @@
     elements.closeSearchBtn = document.getElementById('close-search-btn');
     elements.toast = document.getElementById('toast');
     elements.toastMessage = document.getElementById('toast-message');
-    elements.newsletterForm = document.getElementById('newsletter-form');
     elements.currentCategoryTitle = document.getElementById('current-category-title');
     elements.currentCategoryCount = document.getElementById('current-category-count');
   }
@@ -291,22 +302,25 @@
   }
 
   /**
-   * Render Breaking News Ticker at the top
+   * Render Breaking News Ticker (Seamless Infinite Running Marquee)
    */
   function renderBreakingTicker() {
     const breakingArticles = state.articles.filter(a => a.breaking);
     if (!elements.breakingTicker || breakingArticles.length === 0) return;
 
-    elements.breakingTicker.innerHTML = breakingArticles
+    // Duplicate list 3 times for completely seamless infinite loop
+    const loopedArticles = [...breakingArticles, ...breakingArticles, ...breakingArticles];
+
+    elements.breakingTicker.innerHTML = loopedArticles
       .map(
         a => `
-        <a href="?article=${a.slug}" style="color: #ffffff !important; text-decoration: none !important;" class="inline-flex items-center gap-2 text-white hover:text-indigo-300 transition breaking-link px-3 py-1 rounded-lg hover:bg-slate-800/80 group flex-shrink-0" data-slug="${a.slug}">
+        <a href="?article=${a.slug}" style="color: #ffffff !important; text-decoration: none !important;" class="inline-flex items-center gap-2 text-white hover:text-indigo-300 transition breaking-link px-4 py-0.5 rounded-lg group flex-shrink-0" data-slug="${a.slug}">
           <span style="background-color: #ef4444 !important; width: 6px; height: 6px; border-radius: 9999px; display: inline-block; flex-shrink: 0;"></span>
           <span style="color: #ffffff !important; font-weight: 600 !important;">${escapeHtml(a.title)}</span>
         </a>
       `
       )
-      .join('<span style="color: #64748b !important;" class="select-none px-1 flex-shrink-0">•</span>');
+      .join('<span style="color: #64748b !important;" class="select-none px-2 flex-shrink-0">•</span>');
   }
 
   /**
@@ -648,7 +662,7 @@
           <div class="bg-gradient-to-r from-indigo-500/10 via-purple-500/10 to-pink-500/10 rounded-xl p-5 border border-indigo-200/50 dark:border-indigo-800/50 flex flex-col sm:flex-row items-center justify-between gap-4">
             <div>
               <p class="font-bold text-slate-900 dark:text-white text-base">Шукаєте надійний хмарний хостинг або GPU сервери для AI?</p>
-              <p class="text-xs sm:text-sm text-slate-600 dark:text-slate-400 mt-1">Отримайте $100 безкоштовних кредитів на запуск LLM та Docker контейнерів за промокодом <span class="font-mono font-bold text-indigo-600 dark:text-indigo-400">TECHFLOW2026</span></p>
+              <p class="text-xs sm:text-sm text-slate-600 dark:text-slate-400 mt-1">Отримайте $100 безкоштовних кредитів на запуск LLM та Docker контейнерів за промокодом <span class="font-mono font-bold text-indigo-600 dark:text-indigo-400">POLYVANYI</span></p>
             </div>
             <a href="https://t.me/polyvanyi_news" target="_blank" rel="noopener noreferrer" class="px-5 py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white font-medium text-xs sm:text-sm rounded-xl transition whitespace-nowrap shadow-md">
               Дізнатися більше →
@@ -719,9 +733,9 @@
               <svg class="w-4 h-4 fill-current" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69a.2.2 0 00-.05-.18c-.06-.05-.14-.03-.21-.02-.09.02-1.49.95-4.22 2.79-.4.27-.76.41-1.08.4-.36-.01-1.04-.2-1.55-.37-.63-.2-1.12-.31-1.08-.66.02-.18.27-.36.75-.55 2.92-1.27 4.86-2.11 5.83-2.51 2.78-1.16 3.35-1.36 3.73-1.36.08 0 .27.02.39.12.1.08.13.19.14.27-.01.06.01.24 0 .38z"/></svg>
             </button>
 
-            <button type="button" class="share-btn share-tw p-2.5 rounded-xl bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-300 hover:text-black dark:hover:text-white transition" title="Поділитися у X (Twitter)" data-network="twitter">
-              <svg class="w-4 h-4 fill-current" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
-            </button>
+            <a href="https://www.tiktok.com/@polyvanyi_news" target="_blank" rel="noopener noreferrer" class="p-2.5 rounded-xl bg-slate-100 hover:bg-pink-100 dark:bg-slate-800 dark:hover:bg-pink-950/50 text-slate-700 dark:text-slate-300 hover:text-pink-500 transition" title="Наш TikTok @polyvanyi_news">
+              <svg class="w-4 h-4 fill-current text-pink-500" viewBox="0 0 24 24"><path d="M19.59 6.69a4.83 4.83 0 01-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 01-2.88 2.5 2.89 2.89 0 01-2.89-2.89 2.89 2.89 0 012.89-2.89c.28 0 .54.04.79.1v-3.52a6.37 6.37 0 00-.79-.05A6.34 6.34 0 003 15.28 6.34 6.34 0 009.34 21.6c3.49 0 6.33-2.84 6.33-6.33V9.2a8.16 8.16 0 004.92 1.63V7.38a4.85 4.85 0 01-1-.69z"/></svg>
+            </a>
 
             <button type="button" class="share-btn share-copy p-2.5 rounded-xl bg-slate-100 hover:bg-indigo-100 dark:bg-slate-800 dark:hover:bg-indigo-950/50 text-slate-700 dark:text-slate-300 hover:text-indigo-600 transition" title="Скопіювати посилання" data-network="copy">
               <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"/></svg>
@@ -863,9 +877,6 @@
     switch (network) {
       case 'telegram':
         window.open(`https://t.me/share/url?url=${encodeURIComponent(url)}&text=${text}`, '_blank');
-        break;
-      case 'twitter':
-        window.open(`https://twitter.com/intent/tweet?url=${encodeURIComponent(url)}&text=${text}`, '_blank');
         break;
       case 'copy':
         if (navigator.clipboard) {
@@ -1054,18 +1065,6 @@
     }
     if (elements.closeMobileMenuBtn) {
       elements.closeMobileMenuBtn.addEventListener('click', closeMobileMenu);
-    }
-
-    // Newsletter Form Submit
-    if (elements.newsletterForm) {
-      elements.newsletterForm.addEventListener('submit', e => {
-        e.preventDefault();
-        const emailInput = elements.newsletterForm.querySelector('input[type="email"]');
-        if (emailInput && emailInput.value) {
-          showToast(`Дякуємо! ${emailInput.value} успішно підписано на дайджест.`);
-          emailInput.value = '';
-        }
-      });
     }
 
     // Popstate event for Browser Back / Forward buttons

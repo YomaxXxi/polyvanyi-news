@@ -90,6 +90,32 @@
       -ms-overflow-style: none !important;
       scrollbar-width: none !important;
     }
+    /* Running Marquee Ticker */
+    @keyframes tickerScroll {
+      0% {
+        transform: translate3d(0, 0, 0);
+      }
+      100% {
+        transform: translate3d(-50%, 0, 0);
+      }
+    }
+    .ticker-wrapper {
+      display: flex;
+      overflow: hidden;
+      user-select: none;
+      position: relative;
+      width: 100%;
+    }
+    .ticker-track {
+      display: flex;
+      flex-shrink: 0;
+      white-space: nowrap;
+      animation: tickerScroll 30s linear infinite;
+      will-change: transform;
+    }
+    .ticker-track:hover {
+      animation-play-state: paused;
+    }
     /* Permanent High-Contrast Breaking News Styles */
     #breaking-ticker-content a,
     .breaking-link,
@@ -102,15 +128,6 @@
     .breaking-link:hover,
     .breaking-link:hover span {
       color: #a5b4fc !important;
-    }
-    #breaking-ticker-content {
-      scrollbar-width: none !important;
-      -ms-overflow-style: none !important;
-    }
-    #breaking-ticker-content::-webkit-scrollbar {
-      display: none !important;
-      width: 0 !important;
-      height: 0 !important;
     }
     /* Custom Scrollbar */
     ::-webkit-scrollbar {
@@ -132,34 +149,48 @@
 
 <body class="bg-slate-50 text-slate-800 dark:bg-[#0B0F19] dark:text-slate-100 min-h-screen flex flex-col transition-colors duration-200">
 
-  <!-- 1. Breaking News Ticker Bar -->
-  <aside class="bg-slate-900 border-b border-slate-800 text-slate-200 text-xs py-2 px-4 z-40 relative">
+  <!-- 1. Breaking News Ticker Bar (Running Marquee) -->
+  <aside class="bg-slate-900 border-b border-slate-800 text-slate-200 text-xs py-2 px-4 z-40 relative overflow-hidden">
     <div class="max-w-7xl mx-auto flex items-center justify-between gap-4">
-      <div class="flex items-center gap-3 overflow-hidden flex-grow">
-        <span class="flex-shrink-0 flex items-center gap-1.5 px-2.5 py-0.5 rounded-full bg-red-600 text-white font-bold text-[11px] tracking-wide uppercase shadow-sm">
+      <div class="flex items-center overflow-hidden flex-grow relative">
+        <span class="flex-shrink-0 z-10 flex items-center gap-1.5 px-2.5 py-0.5 rounded-full bg-red-600 text-white font-bold text-[11px] tracking-wide uppercase shadow-md mr-3">
           <span class="w-1.5 h-1.5 rounded-full bg-white animate-pulse"></span>
           Терміново
         </span>
-        <div id="breaking-ticker-content" class="overflow-x-auto whitespace-nowrap no-scrollbar flex items-center gap-3 text-white text-xs">
-          <a href="?article=claude-3-7-sonnet-hybrid-reasoning-revolution" class="inline-flex items-center gap-2 text-white hover:text-indigo-300 transition breaking-link px-3 py-1 rounded-lg hover:bg-slate-800/80 group flex-shrink-0" style="color: #ffffff !important;" data-slug="claude-3-7-sonnet-hybrid-reasoning-revolution">
-            <span style="background-color: #ef4444 !important; width: 6px; height: 6px; border-radius: 9999px; display: inline-block; flex-shrink: 0;"></span>
-            <span style="color: #ffffff !important; font-weight: 600;">Anthropic представила Claude 3.7 Sonnet: Перша у світі гібридна модель мислення</span>
-          </a>
-          <span class="text-slate-600 select-none px-1 flex-shrink-0">•</span>
-          <a href="?article=tesla-robotaxi-cybercab-europe-approval" class="inline-flex items-center gap-2 text-white hover:text-indigo-300 transition breaking-link px-3 py-1 rounded-lg hover:bg-slate-800/80 group flex-shrink-0" style="color: #ffffff !important;" data-slug="tesla-robotaxi-cybercab-europe-approval">
-            <span style="background-color: #ef4444 !important; width: 6px; height: 6px; border-radius: 9999px; display: inline-block; flex-shrink: 0;"></span>
-            <span style="color: #ffffff !important; font-weight: 600;">Tesla Cybercab виходить на дороги Європи: отримано перші дозволи регуляторів</span>
-          </a>
+        <div class="ticker-wrapper overflow-hidden flex-grow">
+          <div id="breaking-ticker-content" class="ticker-track">
+            <!-- Dynamic running marquee items injected by JS -->
+            <a href="?article=claude-3-5-sonnet-computer-use-revolution" class="inline-flex items-center gap-2 text-white hover:text-indigo-300 transition breaking-link px-4 py-0.5 rounded-lg group flex-shrink-0" style="color: #ffffff !important;">
+              <span style="background-color: #ef4444 !important; width: 6px; height: 6px; border-radius: 9999px; display: inline-block; flex-shrink: 0;"></span>
+              <span style="color: #ffffff !important; font-weight: 600;">Anthropic оновила Claude 3.5 Sonnet та представила комп'ютерне керування Computer Use</span>
+            </a>
+            <span class="text-slate-600 select-none px-2 flex-shrink-0">•</span>
+            <a href="?article=ps5-pro-official-launch-pssr-4k-60fps" class="inline-flex items-center gap-2 text-white hover:text-indigo-300 transition breaking-link px-4 py-0.5 rounded-lg group flex-shrink-0" style="color: #ffffff !important;">
+              <span style="background-color: #ef4444 !important; width: 6px; height: 6px; border-radius: 9999px; display: inline-block; flex-shrink: 0;"></span>
+              <span style="color: #ffffff !important; font-weight: 600;">Sony PlayStation 5 Pro офіційно надійшла у продаж: тест PSSR та 60 FPS у 4K</span>
+            </a>
+            <span class="text-slate-600 select-none px-2 flex-shrink-0">•</span>
+            <a href="?article=spacex-starship-flight-5-mechazilla-catch-success" class="inline-flex items-center gap-2 text-white hover:text-indigo-300 transition breaking-link px-4 py-0.5 rounded-lg group flex-shrink-0" style="color: #ffffff !important;">
+              <span style="background-color: #ef4444 !important; width: 6px; height: 6px; border-radius: 9999px; display: inline-block; flex-shrink: 0;"></span>
+              <span style="color: #ffffff !important; font-weight: 600;">SpaceX вперше в історії зловила перший ступінь Starship за допомогою вежі Mechazilla</span>
+            </a>
+            <span class="text-slate-600 select-none px-2 flex-shrink-0">•</span>
+          </div>
         </div>
       </div>
 
-      <!-- Quick Date & Telegram Link -->
-      <div class="hidden lg:flex items-center gap-4 flex-shrink-0 text-slate-300">
-        <span class="text-slate-300">7 листопада 2026</span>
+      <!-- Quick Date & Social Links -->
+      <div class="hidden lg:flex items-center gap-3.5 flex-shrink-0 text-slate-300 text-xs">
+        <span id="current-top-date" class="text-slate-300 font-medium"></span>
         <span class="text-slate-600">•</span>
-        <a href="https://t.me/polyvanyi_news" target="_blank" rel="noopener noreferrer" class="hover:text-sky-400 text-slate-200 transition flex items-center gap-1.5 font-medium">
+        <a href="https://t.me/polyvanyi_news" target="_blank" rel="noopener noreferrer" class="hover:text-sky-400 text-slate-200 transition flex items-center gap-1 font-medium">
           <svg class="w-3.5 h-3.5 fill-current text-sky-400" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69a.2.2 0 00-.05-.18c-.06-.05-.14-.03-.21-.02-.09.02-1.49.95-4.22 2.79-.4.27-.76.41-1.08.4-.36-.01-1.04-.2-1.55-.37-.63-.2-1.12-.31-1.08-.66.02-.18.27-.36.75-.55 2.92-1.27 4.86-2.11 5.83-2.51 2.78-1.16 3.35-1.36 3.73-1.36.08 0 .27.02.39.12.1.08.13.19.14.27-.01.06.01.24 0 .38z"/></svg>
-          @polyvanyi_news
+          Telegram
+        </a>
+        <span class="text-slate-600">•</span>
+        <a href="https://www.tiktok.com/@polyvanyi_news" target="_blank" rel="noopener noreferrer" class="hover:text-pink-400 text-slate-200 transition flex items-center gap-1 font-medium">
+          <svg class="w-3.5 h-3.5 fill-current text-pink-400" viewBox="0 0 24 24"><path d="M19.59 6.69a4.83 4.83 0 01-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 01-2.88 2.5 2.89 2.89 0 01-2.89-2.89 2.89 2.89 0 012.89-2.89c.28 0 .54.04.79.1v-3.52a6.37 6.37 0 00-.79-.05A6.34 6.34 0 003 15.28 6.34 6.34 0 009.34 21.6c3.49 0 6.33-2.84 6.33-6.33V9.2a8.16 8.16 0 004.92 1.63V7.38a4.85 4.85 0 01-1-.69z"/></svg>
+          TikTok
         </a>
       </div>
     </div>
@@ -344,18 +375,6 @@
                 <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
               </a>
             </div>
-
-            <!-- 4. Newsletter Subscription Form -->
-            <div class="p-6 rounded-3xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm">
-              <h4 class="font-bold text-slate-900 dark:text-white text-base mb-1">Щотижневий Tech-Дайджест</h4>
-              <p class="text-xs text-slate-500 dark:text-slate-400 mb-4">Отримуйте 5 найважливіших новин щоп'ятниці на пошту без спаму.</p>
-              <form id="newsletter-form" class="space-y-2.5">
-                <input type="email" required placeholder="Ваш email..." class="w-full px-3.5 py-2.5 bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl text-xs sm:text-sm text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-indigo-500">
-                <button type="submit" class="w-full py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white font-semibold text-xs rounded-xl transition shadow">
-                  Підписатися
-                </button>
-              </form>
-            </div>
           </div>
 
         </aside>
@@ -461,74 +480,61 @@
   <!-- 8. Editorial Footer -->
   <footer class="mt-auto bg-white dark:bg-slate-950 border-t border-slate-200 dark:border-slate-800/80 transition-colors">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-      <div class="grid grid-cols-1 md:grid-cols-4 gap-8 mb-12">
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-10 mb-12">
         
         <!-- About Col -->
-        <div class="md:col-span-1 space-y-4">
+        <div class="space-y-4">
           <a href="./" class="brand-logo-link flex items-center gap-2.5">
             <img src="assets/logo.jpg" alt="Polyvanyi News" class="w-8 h-8 rounded-xl object-cover border border-slate-700">
             <span class="font-display font-black text-xl text-slate-900 dark:text-white">POLYVANYI.NEWS</span>
           </a>
           <p class="text-xs text-slate-500 dark:text-slate-400 leading-relaxed">
-            Незалежне українське технологічне медіа. Авторські розбори штучного інтелекту, апаратного забезпечення, IT-бізнесу та стартапів від Михайла Поливаного.
+            Авторське українське технологічне медіа Михайла Поливаного. Щоденні розбори штучного інтелекту, новинки техніки, залізо та головні події зі світу геймінгу.
           </p>
-          <div class="flex items-center gap-3 text-slate-400 pt-2">
-            <a href="https://t.me/polyvanyi_news" target="_blank" rel="noopener noreferrer" class="hover:text-sky-400 transition" aria-label="Telegram">
-              <svg class="w-5 h-5 fill-current" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69a.2.2 0 00-.05-.18c-.06-.05-.14-.03-.21-.02-.09.02-1.49.95-4.22 2.79-.4.27-.76.41-1.08.4-.36-.01-1.04-.2-1.55-.37-.63-.2-1.12-.31-1.08-.66.02-.18.27-.36.75-.55 2.92-1.27 4.86-2.11 5.83-2.51 2.78-1.16 3.35-1.36 3.73-1.36.08 0 .27.02.39.12.1.08.13.19.14.27-.01.06.01.24 0 .38z"/></svg>
+          <div class="flex items-center gap-4 text-slate-400 pt-2">
+            <a href="https://t.me/polyvanyi_news" target="_blank" rel="noopener noreferrer" class="hover:text-sky-400 transition flex items-center gap-1.5 text-xs font-medium" aria-label="Telegram">
+              <svg class="w-5 h-5 fill-current text-sky-400" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69a.2.2 0 00-.05-.18c-.06-.05-.14-.03-.21-.02-.09.02-1.49.95-4.22 2.79-.4.27-.76.41-1.08.4-.36-.01-1.04-.2-1.55-.37-.63-.2-1.12-.31-1.08-.66.02-.18.27-.36.75-.55 2.92-1.27 4.86-2.11 5.83-2.51 2.78-1.16 3.35-1.36 3.73-1.36.08 0 .27.02.39.12.1.08.13.19.14.27-.01.06.01.24 0 .38z"/></svg>
+              Telegram
             </a>
-            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" class="hover:text-white transition" aria-label="Twitter">
-              <svg class="w-5 h-5 fill-current" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            <a href="https://www.tiktok.com/@polyvanyi_news" target="_blank" rel="noopener noreferrer" class="hover:text-pink-400 transition flex items-center gap-1.5 text-xs font-medium" aria-label="TikTok">
+              <svg class="w-5 h-5 fill-current text-pink-400" viewBox="0 0 24 24"><path d="M19.59 6.69a4.83 4.83 0 01-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 01-2.88 2.5 2.89 2.89 0 01-2.89-2.89 2.89 2.89 0 012.89-2.89c.28 0 .54.04.79.1v-3.52a6.37 6.37 0 00-.79-.05A6.34 6.34 0 003 15.28 6.34 6.34 0 009.34 21.6c3.49 0 6.33-2.84 6.33-6.33V9.2a8.16 8.16 0 004.92 1.63V7.38a4.85 4.85 0 01-1-.69z"/></svg>
+              TikTok
             </a>
           </div>
         </div>
 
         <!-- Categories Col -->
         <div>
-          <h4 class="text-sm font-bold text-slate-900 dark:text-white mb-4">Розділи новин</h4>
-          <ul class="space-y-2 text-xs text-slate-600 dark:text-slate-400">
+          <h4 class="text-sm font-bold text-slate-900 dark:text-white mb-4">Розділи видання</h4>
+          <ul class="space-y-2.5 text-xs text-slate-600 dark:text-slate-400">
             <li><button class="category-nav-btn hover:text-indigo-500 transition" data-category="ai">Штучний Інтелект</button></li>
-            <li><button class="category-nav-btn hover:text-indigo-500 transition" data-category="tech">Технології & Гаджети</button></li>
-            <li><button class="category-nav-btn hover:text-indigo-500 transition" data-category="auto">Авто & Роботаксі</button></li>
-            <li><button class="category-nav-btn hover:text-indigo-500 transition" data-category="business">Бізнес та інвестиції</button></li>
-            <li><button class="category-nav-btn hover:text-indigo-500 transition" data-category="cybersecurity">Кібербезпека</button></li>
+            <li><button class="category-nav-btn hover:text-indigo-500 transition" data-category="tech">Техніка</button></li>
+            <li><button class="category-nav-btn hover:text-indigo-500 transition" data-category="gaming">Геймінг</button></li>
           </ul>
         </div>
 
-        <!-- Legal & Docs Col -->
+        <!-- Editorial Info Col -->
         <div>
-          <h4 class="text-sm font-bold text-slate-900 dark:text-white mb-4">Інформація та SEO</h4>
-          <ul class="space-y-2 text-xs text-slate-600 dark:text-slate-400">
-            <li><a href="robots.txt" class="hover:text-indigo-500 transition" target="_blank">robots.txt (Індексація)</a></li>
-            <li><a href="sitemap.xml" class="hover:text-indigo-500 transition" target="_blank">sitemap.xml (Карта сайту)</a></li>
-            <li><a href="ads.txt" class="hover:text-indigo-500 transition" target="_blank">ads.txt (Реклама)</a></li>
-            <li><a href="./?article=eu-ai-act-strict-enforcement-penalties" class="hover:text-indigo-500 transition">Політика конфіденційності</a></li>
-            <li><a href="mailto:contact@techflow.local" class="hover:text-indigo-500 transition">Контакти редакції</a></li>
+          <h4 class="text-sm font-bold text-slate-900 dark:text-white mb-4">Про проєкт</h4>
+          <ul class="space-y-2.5 text-xs text-slate-600 dark:text-slate-400">
+            <li><a href="https://t.me/polyvanyi_news" target="_blank" rel="noopener noreferrer" class="hover:text-indigo-500 transition">Офіційний канал @polyvanyi_news</a></li>
+            <li><a href="./?article=claude-3-5-sonnet-computer-use-revolution" class="hover:text-indigo-500 transition">Головні аналітичні статті</a></li>
+            <li><a href="https://t.me/YomaxXxi" target="_blank" rel="noopener noreferrer" class="hover:text-indigo-500 transition">Зв'язок з автором: @YomaxXxi</a></li>
+            <li><a href="https://t.me/polyvanyi_news" target="_blank" rel="noopener noreferrer" class="hover:text-indigo-500 transition">Реклама та співпраця</a></li>
           </ul>
-        </div>
-
-        <!-- Technical Stack Col -->
-        <div>
-          <h4 class="text-sm font-bold text-slate-900 dark:text-white mb-4">Архітектура</h4>
-          <p class="text-xs text-slate-500 dark:text-slate-400 leading-relaxed mb-3">
-            Сайт працює на 100% статичному стеку (Vanilla JS + Tailwind CSS) без бекенд-залежностей. Повністю сумісний із безкоштовним деплоєм на <strong>GitHub Pages</strong>.
-          </p>
-          <span class="inline-flex items-center gap-1.5 px-3 py-1 bg-emerald-100 dark:bg-emerald-950/60 text-emerald-700 dark:text-emerald-400 text-[11px] font-semibold rounded-lg border border-emerald-200 dark:border-emerald-800">
-            <span class="w-1.5 h-1.5 rounded-full bg-emerald-500"></span>
-            Zero Backend • 100% Static
-          </span>
         </div>
 
       </div>
 
       <!-- Copyright Bottom Bar -->
       <div class="pt-8 border-t border-slate-200 dark:border-slate-800/80 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-400">
-        <p>© 2026 Polyvanyi News. Всі права захищено. Авторські матеріали Михайла Поливаного.</p>
+        <p>© 2024 Polyvanyi News. Всі права захищено. Авторські матеріали Михайла Поливаного.</p>
         <p class="text-[11px]">Підтримка та моніторинг: <a href="https://t.me/polyvanyi_news" class="underline hover:text-indigo-400">@polyvanyi_news</a></p>
       </div>
     </div>
   </footer>
 
   <!-- Application Script (Cache Busted) -->
-  <script src="js/app.js?v=20261107-1"></script>
+  <script src="js/app.js?v=20241107-2"></script>
 </body>
 </html>

@@ -1,4 +1,4 @@
-# robots.txt for TechFlow Modern News Portal
+# robots.txt for Polyvanyi News
 User-agent: *
 Allow: /
 
