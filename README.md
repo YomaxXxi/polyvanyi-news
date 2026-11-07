@@ -1,20 +1,30 @@
 # Polyvanyi News ⚡️
 
 Сучасний, адаптивний статичний новинний вебсайт про технології, AI та бізнес.
-Оптимізовано для деплою на **GitHub Pages** (100% Client-side SPA, Vanilla JS, Tailwind CSS, Zero backend).
+Оптимізовано для деплою на **GitHub Pages**: статичні HTML-сторінки статей для пошуковиків + легка клієнтська головна (Vanilla JS, Tailwind CSS, без бекенду).
 
 ## 🚀 Live Demo
 👉 **[https://yomaxxxi.github.io/](https://yomaxxxi.github.io/)**
 
 ## 📂 Структура проєкту
-- `index.html` — семантична розмітка, Header з логотипом @polyvanyi_news, Breaking News Ticker, Hero-секція, карточки новин, бічна панель, модальне вікно пошуку.
-- `js/app.js` — клієнтський SPA-роутер (Query-based маршрутизація без 404, швидкий пошук ⌘K, Dark/Light Mode, пагінація).
-- `data/news.json` — база даних авторських новин Михайла Поливаного (8 повнорозмірних аналітичних статей із тегами, категоріями та часом читання).
-- `assets/logo.jpg` — фірмовий логотип каналу @polyvanyi_news.
-- `robots.txt`, `sitemap.xml`, `ads.txt` — SEO та монетизація.
+- `index.html` + `js/app.js` — головна сторінка: тікер, hero, стрічка з фільтром категорій, пошук ⌘K, темна тема.
+- `news/<slug>/index.html` — статична сторінка кожної статті (повний текст у HTML, canonical, Open Graph, JSON-LD `NewsArticle` + `BreadcrumbList`).
+- `category/<ai|tech|gaming>/index.html`, `news/index.html` — сторінки розділів та архів.
+- `data/news.json` — стрічка головної (останні 60 матеріалів, без повного тексту).
+- `about/`, `privacy/` — «Про нас» і «Політика конфіденційності».
+- `assets/site.css` — Tailwind, зібраний заздалегідь у `../portal_build` (Node.js; CDN більше не використовується).
+- `sitemap.xml`, `feed.xml` (RSS), `robots.txt`, `404.html`, `favicon.ico`, `ads.txt` — SEO та монетизація.
+
+Усе, крім `index.html`/`js/app.js`, генерується з `news.db` командою з кореня бота:
+
+```bash
+python3 sync_news_portal.py
+```
+
+Старі посилання `/?article=<slug>` автоматично перенаправляються на `/news/<slug>/`.
 
 ## 🛠 Технологічний стек
 - HTML5 & CSS3
-- Tailwind CSS Play CDN (Typography plugin)
+- Tailwind CSS 3 (збірка через `portal_build/`, плагін Typography)
 - Vanilla JavaScript (ES6+)
 - GitHub Pages

@@ -3,16 +3,40 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Declared color schemes stop browsers (e.g. Android Chrome) from force-darkening the page -->
+  <meta name="color-scheme" content="light dark">
   
   <!-- Primary Meta Tags -->
   <title>Polyvanyi News — Незалежний новинний портал про технології та AI</title>
-  <meta name="title" content="Polyvanyi News — Незалежний новинний портал про технології та AI">
-  <meta name="description" content="Найголовніші новини про штучний інтелект, хардвер, Apple, стартапи та IT-індустрію.">
-  <meta name="keywords" content="новини технологій, штучний інтелект, AI, Claude, Apple, стартапи, кібербезпека, Polyvanyi News">
+  <meta name="description" content="Новини штучного інтелекту, техніки та геймінгу українською: релізи AI-моделей, смартфони, Apple, Android, ігри, open-source та практичні гайди.">
   <meta name="author" content="Михайло Поливаний">
   <meta name="robots" content="index, follow">
   <meta name="google-site-verification" content="VXB2mhILf5V-VNUPPTvGeIQtnEFpcrOEJNakUyMkpow" />
   <link rel="canonical" href="https://yomaxxxi.github.io/">
+  <link rel="alternate" type="application/rss+xml" title="Polyvanyi News" href="https://yomaxxxi.github.io/feed.xml">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://yomaxxxi.github.io/#website",
+        "url": "https://yomaxxxi.github.io/",
+        "name": "Polyvanyi News",
+        "inLanguage": "uk-UA",
+        "publisher": { "@id": "https://yomaxxxi.github.io/#org" }
+      },
+      {
+        "@type": "NewsMediaOrganization",
+        "@id": "https://yomaxxxi.github.io/#org",
+        "name": "Polyvanyi News",
+        "url": "https://yomaxxxi.github.io/",
+        "logo": { "@type": "ImageObject", "url": "https://yomaxxxi.github.io/assets/logo.jpg" },
+        "sameAs": ["https://t.me/polyvanyi_news", "https://www.tiktok.com/@polyvanyi_news"]
+      }
+    ]
+  }
+  </script>
 
   <!-- Google AdSense -->
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2798380454880809"
@@ -23,7 +47,7 @@
   <meta property="og:url" content="https://yomaxxxi.github.io/">
   <meta property="og:site_name" content="Polyvanyi News">
   <meta property="og:title" content="Polyvanyi News — Незалежний новинний портал про технології та AI">
-  <meta property="og:description" content="Найголовніші новини про штучний інтелект, хардвер, квантові обчислення та IT-бізнес.">
+  <meta property="og:description" content="Новини штучного інтелекту, техніки та геймінгу українською: релізи AI-моделей, смартфони, ігри та практичні гайди.">
   <meta property="og:image" content="https://yomaxxxi.github.io/assets/logo.jpg">
   <meta property="og:locale" content="uk_UA">
 
@@ -31,7 +55,7 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:url" content="https://yomaxxxi.github.io/">
   <meta name="twitter:title" content="Polyvanyi News — Незалежний новинний портал про технології та AI">
-  <meta name="twitter:description" content="Найголовніші новини про штучний інтелект, хардвер, квантові обчислення та IT-бізнес.">
+  <meta name="twitter:description" content="Новини штучного інтелекту, техніки та геймінгу українською: релізи AI-моделей, смартфони, ігри та практичні гайди.">
   <meta name="twitter:image" content="https://yomaxxxi.github.io/assets/logo.jpg">
 
   <!-- Favicon (Channel Logo) -->
@@ -42,30 +66,17 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Montserrat:wght@700;800;900&display=swap" rel="stylesheet">
 
-  <!-- Tailwind CSS Play CDN with typography -->
-  <script src="https://cdn.tailwindcss.com?plugins=typography,aspect-ratio"></script>
+  <!-- Theme before first paint (no light/dark flash) -->
   <script>
-    tailwind.config = {
-      darkMode: 'class',
-      theme: {
-        extend: {
-          colors: {
-            brand: {
-              50: '#eef2ff',
-              100: '#e0e7ff',
-              500: '#6366f1',
-              600: '#4f46e5',
-              700: '#4338ca',
-            }
-          },
-          fontFamily: {
-            sans: ['Inter', 'system-ui', '-apple-system', 'sans-serif'],
-            display: ['Montserrat', 'Inter', 'sans-serif'],
-          }
-        }
-      }
-    }
+    try {
+      var saved = localStorage.getItem('techflow_theme');
+      var dark = saved ? saved === 'dark' : window.matchMedia('(prefers-color-scheme: dark)').matches;
+      document.documentElement.classList.toggle('dark', dark);
+    } catch (e) {}
   </script>
+
+  <!-- Tailwind CSS, prebuilt by portal_build/ (see sync_news_portal.py) -->
+  <link rel="stylesheet" href="/assets/site.css?v=3f08bbf03d">
 
   <style>
     /* Editorial Typography Fine-Tuning */
@@ -165,21 +176,6 @@
         <div class="ticker-wrapper overflow-hidden flex-grow">
           <div id="breaking-ticker-content" class="ticker-track">
             <!-- Dynamic running marquee items injected by JS -->
-            <a href="?article=onovlennya-samsung-one-ui-9-holovni-fishky-ta-prykhovani-mozhlyvo" class="inline-flex items-center gap-2 text-white hover:text-indigo-300 transition breaking-link px-4 py-0.5 rounded-lg group flex-shrink-0" style="color: #ffffff !important;">
-              <span style="background-color: #ef4444 !important; width: 6px; height: 6px; border-radius: 9999px; display: inline-block; flex-shrink: 0;"></span>
-              <span style="color: #ffffff !important; font-weight: 600;">Оновлення Samsung One UI 9: головні фішки та приховані можливості системи</span>
-            </a>
-            <span class="text-slate-600 select-none px-2 flex-shrink-0">•</span>
-            <a href="?article=mintsyfry-zaklykaye-doluchytysya-do-navchannya-ukrayinskoyi-shi-m" class="inline-flex items-center gap-2 text-white hover:text-indigo-300 transition breaking-link px-4 py-0.5 rounded-lg group flex-shrink-0" style="color: #ffffff !important;">
-              <span style="background-color: #ef4444 !important; width: 6px; height: 6px; border-radius: 9999px; display: inline-block; flex-shrink: 0;"></span>
-              <span style="color: #ffffff !important; font-weight: 600;">Мінцифри закликає долучитися до навчання української ШІ-моделі «Сяйво»</span>
-            </a>
-            <span class="text-slate-600 select-none px-2 flex-shrink-0">•</span>
-            <a href="?article=gta-6-za-zakonom-nimetski-heymery-zmozhut-ofitsiyno-vzyaty-vidpus" class="inline-flex items-center gap-2 text-white hover:text-indigo-300 transition breaking-link px-4 py-0.5 rounded-lg group flex-shrink-0" style="color: #ffffff !important;">
-              <span style="background-color: #ef4444 !important; width: 6px; height: 6px; border-radius: 9999px; display: inline-block; flex-shrink: 0;"></span>
-              <span style="color: #ffffff !important; font-weight: 600;">GTA 6 за законом: німецькі геймери зможуть офіційно взяти відпустку на реліз гри</span>
-            </a>
-            <span class="text-slate-600 select-none px-2 flex-shrink-0">•</span>
           </div>
         </div>
       </div>
@@ -204,28 +200,28 @@
   <!-- 2. Sticky Header & Main Navigation -->
   <header class="sticky top-0 z-30 bg-white/90 dark:bg-[#0B0F19]/90 backdrop-blur-md border-b border-slate-200 dark:border-slate-800 transition-colors">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="flex items-center justify-between h-20">
+      <div class="flex items-center justify-between gap-3 h-16 sm:h-20">
         
         <!-- Logo -->
-        <div class="flex items-center gap-8">
-          <a href="./" class="brand-logo-link flex items-center gap-3 group">
+        <div class="flex items-center gap-8 min-w-0">
+          <a href="./" class="brand-logo-link flex items-center gap-2.5 sm:gap-3 group min-w-0">
             <img src="assets/logo.jpg" alt="Polyvanyi News" class="w-10 h-10 rounded-2xl object-cover shadow-md shadow-indigo-500/20 group-hover:scale-105 transition-transform border border-slate-200 dark:border-slate-700">
-            <div class="flex flex-col">
-              <span class="font-display font-black text-2xl tracking-tight text-slate-900 dark:text-white leading-none">
+            <div class="flex flex-col min-w-0">
+              <span class="font-display font-black text-lg sm:text-2xl tracking-tight text-slate-900 dark:text-white leading-none whitespace-nowrap">
                 POLYVANYI<span class="text-indigo-600 dark:text-indigo-400">.NEWS</span>
               </span>
-              <span class="text-[10px] font-semibold tracking-widest text-slate-500 dark:text-slate-400 uppercase mt-0.5">AI & Tech Editorial</span>
+              <span class="hidden sm:block text-[10px] font-semibold tracking-widest text-slate-500 dark:text-slate-400 uppercase mt-0.5">AI & Tech Editorial</span>
             </div>
           </a>
 
           <!-- Desktop Navigation Tabs -->
-          <nav id="category-tabs" class="hidden lg:flex items-center gap-1" aria-label="Головна навігація">
+          <nav id="category-tabs" class="hidden xl:flex items-center gap-1" aria-label="Головна навігація">
             <!-- Rendered by JS -->
           </nav>
         </div>
 
         <!-- Right Action Buttons -->
-        <div class="flex items-center gap-2 sm:gap-3">
+        <div class="flex items-center gap-2 sm:gap-3 flex-shrink-0">
           <!-- Search Button -->
           <button id="open-search-btn" type="button" class="flex items-center gap-2 px-3.5 py-2 rounded-xl bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-600 dark:text-slate-300 transition text-sm">
             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
@@ -234,7 +230,7 @@
           </button>
 
           <!-- Theme Toggle Button -->
-          <button id="theme-toggle-btn" type="button" class="p-2.5 rounded-xl bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-600 dark:text-slate-300 transition" aria-label="Змінити тему">
+          <button id="theme-toggle-btn" type="button" class="hidden sm:block p-2.5 rounded-xl bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-600 dark:text-slate-300 transition" aria-label="Змінити тему">
             <!-- Sun Icon (shown in dark mode) -->
             <svg class="w-5 h-5 theme-sun-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"/></svg>
             <!-- Moon Icon (shown in light mode) -->
@@ -248,7 +244,7 @@
           </a>
 
           <!-- Mobile Hamburger Button -->
-          <button id="mobile-menu-btn" type="button" class="lg:hidden p-2.5 rounded-xl bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300" aria-label="Відкрити меню">
+          <button id="mobile-menu-btn" type="button" class="xl:hidden p-2.5 rounded-xl bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300" aria-label="Відкрити меню">
             <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/></svg>
           </button>
         </div>
@@ -268,8 +264,8 @@
              style="display:block; width: 100%;"
              data-ad-client="ca-pub-2798380454880809"
              data-ad-slot="1783966241"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
+             data-ad-format="horizontal"
+             data-full-width-responsive="false"></ins>
         <script>
              (adsbygoogle = window.adsbygoogle || []).push({});
         </script>
@@ -279,6 +275,7 @@
 
   <!-- 4. Main Body Content (Views Swapped dynamically) -->
   <main class="flex-grow max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 w-full">
+    <h1 class="sr-only">Polyvanyi News — новини штучного інтелекту, техніки та геймінгу</h1>
 
     <!-- VIEW A: Home Feed & Hero Screen -->
     <div id="home-view" class="space-y-12">
@@ -387,28 +384,6 @@
 
     </div>
 
-    <!-- VIEW B: Single Article View (Deep Link / No Reload) -->
-    <div id="article-view" class="hidden max-w-4xl mx-auto">
-      
-      <!-- Article Content Container (Rendered dynamically) -->
-      <article id="single-article-content" class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-3xl p-6 sm:p-10 lg:p-12 shadow-sm">
-        <!-- Injected by JS -->
-      </article>
-
-      <!-- Related Articles Section -->
-      <section class="mt-12 pt-8 border-t border-slate-200 dark:border-slate-800" aria-label="Схожі матеріали">
-        <div class="flex items-center justify-between mb-6">
-          <h3 class="text-xl sm:text-2xl font-extrabold text-slate-900 dark:text-white">
-            Схожі матеріали
-          </h3>
-          <span class="text-xs text-slate-400">Рекомендовано для вас</span>
-        </div>
-        <div id="related-articles" class="grid grid-cols-1 md:grid-cols-3 gap-6">
-          <!-- Injected by JS -->
-        </div>
-      </section>
-
-    </div>
 
   </main>
 
@@ -474,18 +449,10 @@
     </div>
   </div>
 
-  <!-- 7. Notification Toast -->
-  <div id="toast" class="fixed bottom-6 right-6 z-50 transform translate-y-4 opacity-0 pointer-events-none transition-all duration-300">
-    <div class="bg-slate-900 text-white px-5 py-3 rounded-2xl shadow-xl border border-slate-800 flex items-center gap-3 text-sm">
-      <span class="w-2 h-2 rounded-full bg-emerald-400"></span>
-      <span id="toast-message">Повідомлення скопійовано!</span>
-    </div>
-  </div>
-
   <!-- 8. Editorial Footer -->
   <footer class="mt-auto bg-white dark:bg-slate-950 border-t border-slate-200 dark:border-slate-800/80 transition-colors">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-10 mb-12">
+      <div class="grid grid-cols-1 md:grid-cols-4 gap-10 mb-12">
         
         <!-- About Col -->
         <div class="space-y-4">
@@ -512,18 +479,27 @@
         <div>
           <h4 class="text-sm font-bold text-slate-900 dark:text-white mb-4">Розділи видання</h4>
           <ul class="space-y-2.5 text-xs text-slate-600 dark:text-slate-400">
-            <li><button class="category-nav-btn hover:text-indigo-500 transition" data-category="ai">Штучний Інтелект</button></li>
-            <li><button class="category-nav-btn hover:text-indigo-500 transition" data-category="tech">Техніка</button></li>
-            <li><button class="category-nav-btn hover:text-indigo-500 transition" data-category="gaming">Геймінг</button></li>
+            <li><a href="/category/ai/" class="hover:text-indigo-500 transition">Штучний Інтелект</a></li>
+            <li><a href="/category/tech/" class="hover:text-indigo-500 transition">Техніка</a></li>
+            <li><a href="/category/gaming/" class="hover:text-indigo-500 transition">Геймінг</a></li>
+            <li><a href="/news/" class="hover:text-indigo-500 transition">Усі матеріали</a></li>
+            <li><a href="/feed.xml" class="hover:text-indigo-500 transition">RSS-стрічка</a></li>
           </ul>
+        </div>
+
+        <!-- Latest Articles Col (static links, refreshed by sync_news_portal.py) -->
+        <div>
+          <h4 class="text-sm font-bold text-slate-900 dark:text-white mb-4">Останні матеріали</h4>
+          <ul class="space-y-2.5 text-xs text-slate-600 dark:text-slate-400"><!-- SEO:LATEST:START --><li><a href="/news/onovlennya-samsung-one-ui-9-holovni-fishky-ta-prykhovani-mozhlyvo/" class="hover:text-indigo-500 transition line-clamp-1">Оновлення Samsung One UI 9: головні фішки та приховані можливості системи</a></li><li><a href="/news/brytanskyy-viyskovyy-proihnoruvav-nakazy-z-bezpeky-ta-stav-zhertv/" class="hover:text-indigo-500 transition line-clamp-1">Британський військовий проігнорував накази з безпеки та став жертвою шантажу</a></li><li><a href="/news/google-health-u-2026-rotsi-innovatsiyni-fishky-chy-pryvid-dlya-za/" class="hover:text-indigo-500 transition line-clamp-1">Google Health у 2026 році: інноваційні фішки чи привід для занепокоєння?</a></li><li><a href="/news/apple-tv-prodovzhuye-kulinarnyy-khit-knife-edge-chasing-michelin-/" class="hover:text-indigo-500 transition line-clamp-1">Apple TV продовжує кулінарний хіт «Knife Edge: Chasing Michelin Stars» на третій сезон</a></li><li><a href="/news/mintsyfry-zaklykaye-doluchytysya-do-navchannya-ukrayinskoyi-shi-m/" class="hover:text-indigo-500 transition line-clamp-1">Мінцифри закликає долучитися до навчання української ШІ-моделі «Сяйво»</a></li><li><a href="/news/samsung-galaxy-buds-on-yevropeyskyy-reliz-otrymav-bilsh-tochni-te/" class="hover:text-indigo-500 transition line-clamp-1">Samsung Galaxy Buds On: європейський реліз отримав більш точні терміни</a></li><!-- SEO:LATEST:END --></ul>
         </div>
 
         <!-- Editorial Info Col -->
         <div>
           <h4 class="text-sm font-bold text-slate-900 dark:text-white mb-4">Про проєкт</h4>
           <ul class="space-y-2.5 text-xs text-slate-600 dark:text-slate-400">
+            <li><a href="/about/" class="hover:text-indigo-500 transition">Про нас</a></li>
+            <li><a href="/privacy/" class="hover:text-indigo-500 transition">Політика конфіденційності</a></li>
             <li><a href="https://t.me/+f7LJJiMSm4phMmJi" target="_blank" rel="noopener noreferrer" class="hover:text-indigo-500 transition">Офіційний канал Telegram</a></li>
-            <li><a href="./?article=onovlennya-samsung-one-ui-9-holovni-fishky-ta-prykhovani-mozhlyvo" class="hover:text-indigo-500 transition">Головні аналітичні статті</a></li>
             <li><a href="https://t.me/YomaxXxi" target="_blank" rel="noopener noreferrer" class="hover:text-indigo-500 transition">Зв'язок з автором: @YomaxXxi</a></li>
             <li><a href="https://www.tiktok.com/@polyvanyi_news" target="_blank" rel="noopener noreferrer" class="hover:text-indigo-500 transition">TikTok @polyvanyi_news</a></li>
           </ul>
@@ -533,13 +509,13 @@
 
       <!-- Copyright Bottom Bar -->
       <div class="pt-8 border-t border-slate-200 dark:border-slate-800/80 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-400">
-        <p>© 2024 Polyvanyi News. Всі права захищено. Авторські матеріали Михайла Поливаного.</p>
+        <p>© 2026 Polyvanyi News. Всі права захищено. Авторські матеріали Михайла Поливаного.</p>
         <p class="text-[11px]">Підтримка та моніторинг: <a href="https://t.me/+f7LJJiMSm4phMmJi" class="underline hover:text-indigo-400">Telegram-канал</a></p>
       </div>
     </div>
   </footer>
 
   <!-- Application Script (Cache Busted) -->
-  <script src="js/app.js?v=20261107-tglink"></script>
+  <script src="js/app.js?v=20261107-static"></script>
 </body>
 </html>
