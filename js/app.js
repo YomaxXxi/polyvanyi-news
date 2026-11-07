@@ -242,7 +242,7 @@
     elements.articleView.classList.remove('hidden');
 
     // Update document title & Meta Tags for SEO
-    document.title = `${article.title} — TechFlow`;
+    document.title = `${article.title} — Polyvanyi News`;
     updateMetaTags(article);
 
     // Render Article Details
@@ -259,7 +259,7 @@
     elements.homeView.classList.remove('hidden');
 
     // Reset document title
-    document.title = 'TechFlow — Незалежний портал про технології, AI та бізнес';
+    document.title = 'Polyvanyi News — Незалежний портал про технології та AI';
     resetMetaTags();
 
     renderFeed();
@@ -280,7 +280,7 @@
   }
 
   function resetMetaTags() {
-    setMeta('meta[property="og:title"]', 'TechFlow — Незалежний портал про технології, AI та бізнес');
+    setMeta('meta[property="og:title"]', 'Polyvanyi News — Незалежний портал про технології та AI');
     setMeta('meta[property="og:description"]', 'Свіжі новини про штучний інтелект, хардвер, стартапи та кібербезпеку.');
     setMeta('meta[property="og:type"]', 'website');
   }
@@ -340,10 +340,6 @@
               <svg class="w-4 h-4 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
               ${featured.reading_time}
             </span>
-            <span class="text-xs font-medium text-slate-300 flex items-center gap-1.5">
-              <svg class="w-4 h-4 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"/></svg>
-              ${featured.views.toLocaleString('uk-UA')} переглядів
-            </span>
           </div>
 
           <h1 class="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-white leading-tight mb-4 group-hover:text-indigo-300 transition-colors">
@@ -355,8 +351,8 @@
           </p>
 
           <div class="flex items-center justify-between pt-4 border-t border-white/10">
-            <div class="flex items-center gap-3">
-              <img src="${featured.author.avatar}" alt="${escapeHtml(featured.author.name)}" class="w-9 h-9 rounded-full object-cover border-2 border-indigo-500/50">
+            <div class="flex items-center gap-2.5">
+              <span class="w-2 h-2 rounded-full bg-indigo-400"></span>
               <div>
                 <p class="text-sm font-semibold text-white">${escapeHtml(featured.author.name)}</p>
                 <p class="text-xs text-slate-400">${featured.date_formatted}</p>
@@ -395,10 +391,7 @@
             </div>
             <p class="text-xs text-slate-500 dark:text-slate-400 flex items-center justify-between mt-2 pt-2 border-t border-slate-100 dark:border-slate-800/80">
               <span>${item.date_formatted}</span>
-              <span class="flex items-center gap-1">
-                <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"/></svg>
-                ${item.views.toLocaleString('uk-UA')}
-              </span>
+              <span>${item.reading_time}</span>
             </p>
           </div>
         </article>
@@ -553,16 +546,13 @@
         <!-- Body -->
         <div class="p-6 flex flex-col justify-between flex-grow">
           <div>
-            <div class="flex items-center gap-3 text-xs text-slate-500 dark:text-slate-400 mb-3">
+            <div class="flex items-center gap-2 text-xs text-slate-500 dark:text-slate-400 mb-3">
               <span class="flex items-center gap-1">
                 <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
                 ${article.reading_time}
               </span>
               <span>•</span>
-              <span class="flex items-center gap-1">
-                <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"/></svg>
-                ${article.views.toLocaleString('uk-UA')}
-              </span>
+              <time datetime="${article.date}">${article.date_formatted}</time>
             </div>
 
             <h3 class="text-lg font-bold text-slate-900 dark:text-white leading-snug mb-3 group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors">
@@ -576,11 +566,13 @@
 
           <!-- Footer Meta -->
           <div class="pt-4 border-t border-slate-100 dark:border-slate-800/80 flex items-center justify-between">
-            <div class="flex items-center gap-2.5">
-              <img src="${article.author.avatar}" alt="${escapeHtml(article.author.name)}" class="w-7 h-7 rounded-full object-cover">
+            <div class="flex items-center gap-2">
+              <svg class="w-3.5 h-3.5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"/></svg>
               <span class="text-xs font-semibold text-slate-700 dark:text-slate-300">${escapeHtml(article.author.name)}</span>
             </div>
-            <time datetime="${article.date}" class="text-xs text-slate-500 dark:text-slate-400">${article.date_formatted}</time>
+            <span class="text-xs text-indigo-600 dark:text-indigo-400 font-medium group-hover:translate-x-1 transition-transform inline-flex items-center gap-1">
+              Читати далі →
+            </span>
           </div>
         </div>
       </article>
@@ -593,19 +585,19 @@
   function renderTrendingSidebar() {
     if (!elements.trendingList) return;
 
-    const sortedByViews = [...state.articles].sort((a, b) => b.views - a.views).slice(0, 5);
+    const recommended = [...state.articles].slice(0, 5);
 
-    elements.trendingList.innerHTML = sortedByViews
+    elements.trendingList.innerHTML = recommended
       .map((item, index) => {
         const rank = index + 1;
         const rankColor =
           rank === 1
-            ? 'text-amber-500 bg-amber-50 dark:bg-amber-950/50 border-amber-200 dark:border-amber-800'
+            ? 'text-indigo-600 bg-indigo-50 dark:bg-indigo-950/50 border-indigo-200 dark:border-indigo-800'
             : rank === 2
-            ? 'text-slate-400 bg-slate-100 dark:bg-slate-800 border-slate-200 dark:border-slate-700'
+            ? 'text-slate-500 bg-slate-100 dark:bg-slate-800 border-slate-200 dark:border-slate-700'
             : rank === 3
-            ? 'text-amber-700 bg-amber-50 dark:bg-amber-950/30 border-amber-300 dark:border-amber-900'
-            : 'text-slate-500 bg-slate-50 dark:bg-slate-800/50 border-slate-200 dark:border-slate-700';
+            ? 'text-slate-600 bg-slate-50 dark:bg-slate-800/60 border-slate-200 dark:border-slate-700'
+            : 'text-slate-500 bg-slate-50 dark:bg-slate-800/40 border-slate-200 dark:border-slate-700';
 
         return `
         <li class="trending-item flex items-start gap-4 p-3 rounded-2xl hover:bg-slate-100 dark:hover:bg-slate-800/60 transition cursor-pointer group" data-slug="${item.slug}">
@@ -620,7 +612,7 @@
               ${escapeHtml(item.title)}
             </h4>
             <div class="flex items-center gap-2 mt-1.5 text-[11px] text-slate-500 dark:text-slate-400">
-              <span>${item.views.toLocaleString('uk-UA')} переглядів</span>
+              <span>${item.date_formatted}</span>
               <span>•</span>
               <span>${item.reading_time}</span>
             </div>
@@ -697,10 +689,6 @@
             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
             Час читання: ${article.reading_time}
           </span>
-          <span class="text-xs text-slate-500 dark:text-slate-400 flex items-center gap-1.5">
-            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"/></svg>
-            ${article.views.toLocaleString('uk-UA')} переглядів
-          </span>
         </div>
 
         <h1 class="text-2xl sm:text-4xl lg:text-5xl font-black text-slate-900 dark:text-white leading-[1.18] tracking-tight mb-6">
@@ -714,9 +702,11 @@
         <!-- Author & Date Bar -->
         <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 py-4 border-y border-slate-200 dark:border-slate-800">
           <div class="flex items-center gap-3">
-            <img src="${article.author.avatar}" alt="${escapeHtml(article.author.name)}" class="w-12 h-12 rounded-full object-cover border-2 border-indigo-500/40">
             <div>
-              <p class="font-bold text-slate-900 dark:text-white text-sm sm:text-base">${escapeHtml(article.author.name)}</p>
+              <p class="font-bold text-slate-900 dark:text-white text-sm sm:text-base flex items-center gap-1.5">
+                <svg class="w-4 h-4 text-indigo-600 dark:text-indigo-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"/></svg>
+                ${escapeHtml(article.author.name)}
+              </p>
               <p class="text-xs text-slate-500 dark:text-slate-400">${escapeHtml(article.author.role)} • <time datetime="${article.date}">${article.date_formatted}</time></p>
             </div>
           </div>
@@ -756,15 +746,15 @@
       </div>
 
       <!-- Author Bio Footer Box -->
-      <div class="mt-12 p-6 rounded-3xl bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 flex flex-col sm:flex-row items-center sm:items-start gap-5">
-        <img src="${article.author.avatar}" alt="${escapeHtml(article.author.name)}" class="w-16 h-16 rounded-full object-cover border-2 border-indigo-600/40">
+      <div class="mt-12 p-6 sm:p-8 rounded-3xl bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 flex flex-col sm:flex-row items-center sm:items-start justify-between gap-5">
         <div class="text-center sm:text-left flex-grow">
           <span class="text-xs font-bold text-indigo-600 dark:text-indigo-400 uppercase tracking-wider">Автор матеріалу</span>
           <h4 class="text-lg font-bold text-slate-900 dark:text-white mt-0.5">${escapeHtml(article.author.name)}</h4>
           <p class="text-xs text-slate-500 dark:text-slate-400 mb-2">${escapeHtml(article.author.role)}</p>
-          <p class="text-sm text-slate-600 dark:text-slate-300 leading-relaxed">Оглядач технологічних трендів, провідних LLM та інноваційних стартапів для TechFlow. Слідкуйте за інсайдами в нашому Telegram-каналі.</p>
+          <p class="text-sm text-slate-600 dark:text-slate-300 leading-relaxed max-w-2xl">Засновник та головний редактор каналу Polyvanyi News. Огляди штучного інтелекту, практичні гайди та щоденний моніторинг ключових технологічних проривів.</p>
         </div>
-        <a href="https://t.me/polyvanyi_news" target="_blank" rel="noopener noreferrer" class="px-4 py-2.5 rounded-xl bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-semibold whitespace-nowrap transition">
+        <a href="https://t.me/polyvanyi_news" target="_blank" rel="noopener noreferrer" class="px-5 py-3 rounded-2xl bg-indigo-600 hover:bg-indigo-700 text-white text-xs sm:text-sm font-semibold whitespace-nowrap transition shadow-md shadow-indigo-600/20 flex items-center gap-2">
+          <svg class="w-4 h-4 fill-current" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69a.2.2 0 00-.05-.18c-.06-.05-.14-.03-.21-.02-.09.02-1.49.95-4.22 2.79-.4.27-.76.41-1.08.4-.36-.01-1.04-.2-1.55-.37-.63-.2-1.12-.31-1.08-.66.02-.18.27-.36.75-.55 2.92-1.27 4.86-2.11 5.83-2.51 2.78-1.16 3.35-1.36 3.73-1.36.08 0 .27.02.39.12.1.08.13.19.14.27-.01.06.01.24 0 .38z"/></svg>
           Telegram автора
         </a>
       </div>
