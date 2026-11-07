@@ -82,11 +82,35 @@
     }
     /* Hide Scrollbar Utility */
     .no-scrollbar::-webkit-scrollbar {
-      display: none;
+      display: none !important;
+      width: 0 !important;
+      height: 0 !important;
     }
     .no-scrollbar {
-      -ms-overflow-style: none;
-      scrollbar-width: none;
+      -ms-overflow-style: none !important;
+      scrollbar-width: none !important;
+    }
+    /* Permanent High-Contrast Breaking News Styles */
+    #breaking-ticker-content a,
+    .breaking-link,
+    .breaking-link span {
+      color: #ffffff !important;
+      text-decoration: none !important;
+      font-weight: 600 !important;
+    }
+    #breaking-ticker-content a:hover,
+    .breaking-link:hover,
+    .breaking-link:hover span {
+      color: #a5b4fc !important;
+    }
+    #breaking-ticker-content {
+      scrollbar-width: none !important;
+      -ms-overflow-style: none !important;
+    }
+    #breaking-ticker-content::-webkit-scrollbar {
+      display: none !important;
+      width: 0 !important;
+      height: 0 !important;
     }
     /* Custom Scrollbar */
     ::-webkit-scrollbar {
@@ -117,8 +141,15 @@
           Терміново
         </span>
         <div id="breaking-ticker-content" class="overflow-x-auto whitespace-nowrap no-scrollbar flex items-center gap-3 text-white text-xs">
-          <!-- Populated dynamically via JS -->
-          <span class="text-slate-400">Завантаження стрічки термінових повідомлень...</span>
+          <a href="?article=claude-3-7-sonnet-hybrid-reasoning-revolution" class="inline-flex items-center gap-2 text-white hover:text-indigo-300 transition breaking-link px-3 py-1 rounded-lg hover:bg-slate-800/80 group flex-shrink-0" style="color: #ffffff !important;" data-slug="claude-3-7-sonnet-hybrid-reasoning-revolution">
+            <span style="background-color: #ef4444 !important; width: 6px; height: 6px; border-radius: 9999px; display: inline-block; flex-shrink: 0;"></span>
+            <span style="color: #ffffff !important; font-weight: 600;">Anthropic представила Claude 3.7 Sonnet: Перша у світі гібридна модель мислення</span>
+          </a>
+          <span class="text-slate-600 select-none px-1 flex-shrink-0">•</span>
+          <a href="?article=tesla-robotaxi-cybercab-europe-approval" class="inline-flex items-center gap-2 text-white hover:text-indigo-300 transition breaking-link px-3 py-1 rounded-lg hover:bg-slate-800/80 group flex-shrink-0" style="color: #ffffff !important;" data-slug="tesla-robotaxi-cybercab-europe-approval">
+            <span style="background-color: #ef4444 !important; width: 6px; height: 6px; border-radius: 9999px; display: inline-block; flex-shrink: 0;"></span>
+            <span style="color: #ffffff !important; font-weight: 600;">Tesla Cybercab виходить на дороги Європи: отримано перші дозволи регуляторів</span>
+          </a>
         </div>
       </div>
 
@@ -497,7 +528,7 @@
     </div>
   </footer>
 
-  <!-- Application Script -->
-  <script src="js/app.js"></script>
+  <!-- Application Script (Cache Busted) -->
+  <script src="js/app.js?v=20261107-1"></script>
 </body>
 </html>
