@@ -4,7 +4,7 @@
 Оптимізовано для деплою на **GitHub Pages** (100% Client-side SPA, Vanilla JS, Tailwind CSS, Zero backend).
 
 ## 🚀 Live Demo
-👉 **[https://yomaxxxi.github.io/polyvanyi-news/](https://yomaxxxi.github.io/polyvanyi-news/)**
+👉 **[https://yomaxxxi.github.io/](https://yomaxxxi.github.io/)**
 
 ## 📂 Структура проєкту
 - `index.html` — семантична розмітка, Header з логотипом @polyvanyi_news, Breaking News Ticker, Hero-секція, карточки новин, бічна панель, модальне вікно пошуку.
