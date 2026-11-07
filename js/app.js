@@ -138,7 +138,7 @@
    */
   async function loadData() {
     try {
-      const response = await fetch('data/news.json');
+      const response = await fetch('data/news.json?v=' + Date.now());
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`);
       }

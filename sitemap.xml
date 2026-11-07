@@ -3,77 +3,99 @@
   <!-- Homepage -->
   <url>
     <loc>https://yomaxxxi.github.io/</loc>
-    <lastmod>2024-11-07T12:00:00+00:00</lastmod>
+    <lastmod>2026-11-07T13:15:00Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
-  
   <!-- Category Feeds -->
   <url>
     <loc>https://yomaxxxi.github.io/?category=ai</loc>
-    <lastmod>2024-11-07T12:00:00+00:00</lastmod>
+    <lastmod>2026-11-07T13:15:00Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://yomaxxxi.github.io/?category=tech</loc>
-    <lastmod>2024-11-07T12:00:00+00:00</lastmod>
+    <lastmod>2026-11-07T13:15:00Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://yomaxxxi.github.io/?category=gaming</loc>
-    <lastmod>2024-11-07T12:00:00+00:00</lastmod>
+    <lastmod>2026-11-07T13:15:00Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
-
-  <!-- Articles -->
+  <!-- Real Articles -->
   <url>
-    <loc>https://yomaxxxi.github.io/?article=claude-3-5-sonnet-computer-use-revolution</loc>
-    <lastmod>2024-11-07T10:30:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://yomaxxxi.github.io/?article=apple-m4-pro-max-macbook-pro-benchmark</loc>
-    <lastmod>2024-11-06T15:20:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://yomaxxxi.github.io/?article=ps5-pro-official-launch-pssr-4k-60fps</loc>
-    <lastmod>2024-11-07T08:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://yomaxxxi.github.io/?article=eu-ai-act-strict-enforcement-penalties</loc>
-    <lastmod>2024-11-05T12:00:00+00:00</lastmod>
+    <loc>https://yomaxxxi.github.io/?article=onovlennya-samsung-one-ui-9-holovni-fishky-ta-prykhovani-mozhlyvo</loc>
+    <lastmod>2026-11-07T13:15:00Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://yomaxxxi.github.io/?article=gta-6-rockstar-confirms-fall-2025-release</loc>
-    <lastmod>2024-11-06T19:40:00+00:00</lastmod>
+    <loc>https://yomaxxxi.github.io/?article=mintsyfry-zaklykaye-doluchytysya-do-navchannya-ukrayinskoyi-shi-m</loc>
+    <lastmod>2026-11-07T08:44:00Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://yomaxxxi.github.io/?article=deepseek-v2-5-open-source-frontier-announcement</loc>
-    <lastmod>2024-11-04T18:15:00+00:00</lastmod>
+    <loc>https://yomaxxxi.github.io/?article=gta-6-za-zakonom-nimetski-heymery-zmozhut-ofitsiyno-vzyaty-vidpus</loc>
+    <lastmod>2026-11-06T20:18:07Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://yomaxxxi.github.io/?article=spacex-starship-flight-5-mechazilla-catch-success</loc>
-    <lastmod>2024-11-03T16:45:00+00:00</lastmod>
+    <loc>https://yomaxxxi.github.io/?article=github-perlyna-dnya-anthropicsskills-ofitsiynyy-repozytoriy-ahent</loc>
+    <lastmod>2026-11-07T12:05:02Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://yomaxxxi.github.io/?article=nvidia-dlss-rtx-50-neural-rendering</loc>
-    <lastmod>2024-11-02T14:00:00+00:00</lastmod>
+    <loc>https://yomaxxxi.github.io/?article=oflayn-model-llm-na-stariy-elektronniy-knyzi-entuziast-zapustyv-s</loc>
+    <lastmod>2026-11-07T06:24:14Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://yomaxxxi.github.io/?article=yak-vidmovytysya-vid-grammarly-pro-ta-zapustyty-lokalnu-model-dly</loc>
+    <lastmod>2026-11-06T21:01:22Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://yomaxxxi.github.io/?article=top-10-kultovykh-ihor-dlya-game-boy-advance-yakykh-dosi-nemaye-v-</loc>
+    <lastmod>2026-11-07T03:29:33Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://yomaxxxi.github.io/?article=lehendarnyy-stsenaryst-dragon-age-doluchyvsya-do-stvorennya-rolov</loc>
+    <lastmod>2026-11-06T23:25:04Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://yomaxxxi.github.io/?article=klasyka-grand-theft-auto-na-rozprodazhi-u-steam-znyzhky-tryvatymu</loc>
+    <lastmod>2026-11-06T20:53:16Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://yomaxxxi.github.io/?article=google-health-u-2026-rotsi-innovatsiyni-fishky-chy-pryvid-dlya-za</loc>
+    <lastmod>2026-11-07T11:00:26Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://yomaxxxi.github.io/?article=samsung-galaxy-buds-on-yevropeyskyy-reliz-otrymav-bilsh-tochni-te</loc>
+    <lastmod>2026-11-07T08:00:02Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://yomaxxxi.github.io/?article=brytanskyy-viyskovyy-proihnoruvav-nakazy-z-bezpeky-ta-stav-zhertv</loc>
+    <lastmod>2026-11-07T11:00:34Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
