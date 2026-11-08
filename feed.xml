@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 08 Nov 2026 06:32:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 07:08:41 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Що таке тип NAT у геймінгу та чому він впливає на онлайн-матчі?</title>
+      <link>https://yomaxxxi.github.io/news/shcho-take-typ-nat-u-heyminhu-ta-chomu-vin-vplyvaye-na-onlayn-mat/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/shcho-take-typ-nat-u-heyminhu-ta-chomu-vin-vplyvaye-na-onlayn-mat/</guid>
+      <pubDate>Sun, 08 Nov 2026 07:08:41 +0000</pubDate>
+      <category>Геймінг</category>
+      <description>Під час налаштування мережі на консолі чи ПК ви могли помічати рядок NAT Type. Розбираємося, що це означає та як воно впливає на ваш ігровий досвід.</description>
+    </item>
     <item>
       <title>Шпаргалка / Гайд: Як платити за ШІ в 5 разів менше через API-ключі замість підписок</title>
       <link>https://yomaxxxi.github.io/news/shparhalka-hayd-yak-platyty-za-shi-v-5-raziv-menshe-cherez-api-kl/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 05 Nov 2026 15:50:12 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Зростання моделей, розширення контексту та розвиток агентських додатків створюють безпрецедентний тиск на пам&#x27;яті графічних процесорів. У світлі дефіциту та зростання цін просте збільшення кількості HBM більше не працює ефективно.</description>
-    </item>
-    <item>
-      <title>Шпаргалка / Гайд: Як налаштувати MCP (Model Context Protocol) у Claude Desktop за 5 хвилин</title>
-      <link>https://yomaxxxi.github.io/news/shparhalka-hayd-yak-nalashtuvaty-mcp-model-context-protoco-13721/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/shparhalka-hayd-yak-nalashtuvaty-mcp-model-context-protoco-13721/</guid>
-      <pubDate>Thu, 05 Nov 2026 13:35:59 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Цей матеріал вирішує головну проблему взаємодії ШІ з реальними файлами та базами даних без довгих копіювань. Налаштування MCP економить вам мінімум 2 години рутини щодня, даючи Claude прямий доступ до вашої локальної файлової системи, GitHub та баз даних.</description>
     </item>
   </channel>
 </rss>
