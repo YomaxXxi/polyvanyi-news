@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 08 Nov 2026 08:39:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 09:47:49 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Android отримав першу гру з генерацією кадрів на базі ШІ</title>
+      <link>https://yomaxxxi.github.io/news/android-otrymav-pershu-hru-z-heneratsiyeyu-kadriv-na-bazi-shi/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/android-otrymav-pershu-hru-z-heneratsiyeyu-kadriv-na-bazi-shi/</guid>
+      <pubDate>Sun, 08 Nov 2026 09:47:49 +0000</pubDate>
+      <category>Геймінг</category>
+      <description>Мобільний геймінг офіційно зробив свій власний момент у стилі DLSS, оскільки на платформі з&#x27;явилася перша гра, яка використовує технологію генерації кадрів за допомогою штучного інтелекту.</description>
+    </item>
     <item>
       <title>Solipsism Browser — Інноваційний відкритий браузер для Android не з Play Store</title>
       <link>https://yomaxxxi.github.io/news/solipsism-browser-innovatsiynyy-vidkrytyy-brauzer-dlya-android-ne/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 06 Nov 2026 07:12:33 +0000</pubDate>
       <category>Техніка</category>
       <description>Епоха ретро-гаджетів продовжує завойовувати ринок аудіотехніки. Слідом за вінтажними вініловими програвачами та касетними плеєрами компанія Sony вирішила повернути до життя один із найбільш знакових продуктів своєї до-волкенової ери — легендарні навушники MDR-3. Оригінальна модель з&#x27;явилася в Японії наприкінці 1970-х і назавжди змінила уявлення про портативний звук, а тепер інженери японського гіганта адаптували культовий формфактор під сучасні реалії, зберігши впізнавану естетику.</description>
-    </item>
-    <item>
-      <title>Шпаргалка / Гайд: Few-Shot Prompting (Як навчити модель вашому стилю)</title>
-      <link>https://yomaxxxi.github.io/news/shparhalka-hayd-few-shot-prompting-yak-navchyty-model-vashomu-sty/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/shparhalka-hayd-few-shot-prompting-yak-navchyty-model-vashomu-sty/</guid>
-      <pubDate>Fri, 06 Nov 2026 06:51:14 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Більшість розробників і користувачів пишуть промти у стилі «напиши статтю» або «зроби аналіз», а потім дивуються «воді», галюцинаціям та нудному формату. Цей матеріал економить вам години правок та вибудовує кристально чітку комунікацію з LLM завдяки техніці Few-Shot Prompting. Додавання всього 2-3 якісних прикладів підвищує точність моделі на 70% і змушує її копіювати ваш унікальний тон і структуру.</description>
     </item>
   </channel>
 </rss>
