@@ -50,7 +50,7 @@
         "name": "Михайло Поливаний",
         "role": "Головний редактор"
       },
-      "image": "https://www.youtube.com/embed/y0un3aRDqPI",
+      "image": "https://img.mezha.ua/mezha/images/doc/8/0/333636/80baa6bb90eade48af243298df20d335.jpeg?w=1200&q=85&stamp=1793989302",
       "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
       "summary": "Історія українського кіно — це шлях неймовірних злетів, боротьби з цензурою та створення унікальних шедеврів попри заборони тоталітарної системи.",
       "reading_time": "2 хв",
@@ -894,25 +894,6 @@
       "breaking": false
     },
     {
-      "id": 11333,
-      "slug": "tekhnolohiyi-yaki-my-vtratyly-svitlodiodnyy-rgb-indykator-spovish",
-      "title": "Технології, які ми втратили: Світлодіодний RGB-індикатор сповіщень",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-02T12:41:21Z",
-      "date_formatted": "2 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Notification_LED.webm/1280px--Notification_LED.webm.jpg",
-      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
-      "summary": "У золоту епоху мобільного інжинірингу нам не потрібно було вмикати екран, щоб зрозуміти, що відбувається. Крихітний RGB-діод на передній панелі вмів розповісти все: зелений пульс — Telegram, синій — пошта, червоний — батарея сідає.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false
-    },
-    {
       "id": 11316,
       "slug": "intsydent-bezpeky-u-nvidia-brev-pid-zahrozoyu-opynylysya-ssh-klyu",
       "title": "Інцидент безпеки у NVIDIA Brev: під загрозою опинилися SSH-ключі клієнтських віртуальних машин",
@@ -1136,6 +1117,25 @@
       "image": "https://dev.ua/storage/images/14/53/90/59/derived/8bde5e40e39bcc797bc2f85470de69ae.webp",
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Знайомий той самий ритуал на початку місяця, коли треба гортати чати у пошуках квитанцій, переписувати показники та перевіряти цифри на калькуляторі? Подружжя розробників Стас і Катерина Ляховець вирішило раз і назавжди позбутися цього головного болю, випустивши зручний мобільний інструмент MÖRK.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false
+    },
+    {
+      "id": 10760,
+      "slug": "pryvatni-ses-zminyuyut-hrafik-navantazhennya-v-ukrayinskiy-enerho",
+      "title": "Приватні СЕС змінюють графік навантаження в українській енергосистемі",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-01T07:26:25Z",
+      "date_formatted": "1 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://cdn.ain.ua/ua/articles/2026-11-01/vTBeRL0YM3Ud5VZmxWZx0ECNuWtg7UnzXtA8Js4R.webp",
+      "image_caption": "Матеріали AIN.ua / Офіційний реліз",
+      "summary": "Масовий перехід українського бізнесу та домогосподарств на автономну генерацію після кризових періодів створив новий виклик для національного ринку. З одного боку, приватні сонячні електростанції ефективно розвантажують загальну мережу в пікові сонячні години, формуючи глибоке денне просідання попиту. З іншого боку, така децентралізація відбувається хаотично, адже значна частина потужностей залишається поза полем зору системних диспетчерів «Укренерго».",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false
