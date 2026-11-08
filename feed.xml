@@ -16,6 +16,14 @@
       <description>На тлі постійного зростання цін на компоненти готовий системний блок iBuyPower Slate пропонує вигідний вихід для гравців, які планують апгрейд.</description>
     </item>
     <item>
+      <title>Штучний інтелект у розумному домі: чому Gemini сповільнила колонки Nest</title>
+      <link>https://yomaxxxi.github.io/news/shtuchnyy-intelekt-u-rozumnomu-domi-chomu-gemini-spovilnyla-kolon/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/shtuchnyy-intelekt-u-rozumnomu-domi-chomu-gemini-spovilnyla-kolon/</guid>
+      <pubDate>Sun, 08 Nov 2026 07:18:30 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Інтеграція хмарних великих мовних моделей у побутові пристрої часто створює більше проблем, ніж приносить користі, особливо коли справа доходить до базових завдань.</description>
+    </item>
+    <item>
       <title>Що таке тип NAT у геймінгу та чому він впливає на онлайн-матчі?</title>
       <link>https://yomaxxxi.github.io/news/shcho-take-typ-nat-u-heyminhu-ta-chomu-vin-vplyvaye-na-onlayn-mat/</link>
       <guid isPermaLink="true">https://yomaxxxi.github.io/news/shcho-take-typ-nat-u-heyminhu-ta-chomu-vin-vplyvaye-na-onlayn-mat/</guid>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 06 Nov 2026 06:51:14 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Більшість розробників і користувачів пишуть промти у стилі «напиши статтю» або «зроби аналіз», а потім дивуються «воді», галюцинаціям та нудному формату. Цей матеріал економить вам години правок та вибудовує кристально чітку комунікацію з LLM завдяки техніці Few-Shot Prompting. Додавання всього 2-3 якісних прикладів підвищує точність моделі на 70% і змушує її копіювати ваш унікальний тон і структуру.</description>
-    </item>
-    <item>
-      <title>Вразливість *sshole дозволяє хакерам отримувати SSH-доступ до Linux-пристроїв без жодного пароля</title>
-      <link>https://yomaxxxi.github.io/news/vrazlyvist-sshole-dozvolyaye-khakeram-otrymuvaty-ssh-dostup-do-li/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/vrazlyvist-sshole-dozvolyaye-khakeram-otrymuvaty-ssh-dostup-do-li/</guid>
-      <pubDate>Fri, 06 Nov 2026 06:04:59 +0000</pubDate>
-      <category>Техніка</category>
-      <description>В індустрії кібербезпеки зафіксовано масштабну загрозу: виявлено десятилітню вразливість, що зачіпає девайси під управлінням Alpine Linux та потенційно інші дистрибутиви. Проблема ховається у специфічній взаємодії між бібліотекою OpenSSH, полегшеною альтернативою libc під назвою musl та відсутністю системи PAM. Атака не потребує жодних спроб підбору і спрацьовує з першого з&#x27;єднання.</description>
     </item>
   </channel>
 </rss>
