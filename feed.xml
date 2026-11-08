@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 08 Nov 2026 12:31:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 13:34:09 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Шпаргалка / Гайд: Інженерія промтів: Секрет Few-Shot Prompting (Як навчити модель вашому стилю)</title>
+      <link>https://yomaxxxi.github.io/news/shparhalka-hayd-inzheneriya-promtiv-sekret-few-shot-prompting-yak/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/shparhalka-hayd-inzheneriya-promtiv-sekret-few-shot-prompting-yak/</guid>
+      <pubDate>Sun, 08 Nov 2026 13:34:09 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Більшість людей пишуть промти для ШІ як звичайний пошуковий запит, а потім дивуються галюцинаціям та розмитому тексту. Цей матеріал економить вам години правок і навчить керувати тонким стилем моделі за допомогою техніки Few-Shot Prompting, підвищуючи точність відповідей на 70%.</description>
+    </item>
     <item>
       <title>Технології, які ми втратили: Стереодинаміки BoomSound</title>
       <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-stereodynamiky-boomsound/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 06 Nov 2026 11:06:33 +0000</pubDate>
       <category>Техніка</category>
       <description>Індустрія ПК готується до серйозного оновлення платформи. За інсайдерськими даними, масове виробництво десктопних процесорів Intel Nova Lake-S стартує наприкінці Q4 2026, а повноцінний реліз на ринку відбудеться вже у Q1 2027. Процесори принесуть не лише нову архітектуру з кількістю ядер до 52 у флагманських версіях, а й змусять користувачів повністю оновити материнські плати через перехід на абсолютно новий роз&#x27;єм.</description>
-    </item>
-    <item>
-      <title>GitHub-перлина дня: react/react — Легендарна бібліотека для створення сучасних веб та нативних інтерфейсів</title>
-      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-reactreact-lehendarna-biblioteka-dlya-stvoren/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-reactreact-lehendarna-biblioteka-dlya-stvoren/</guid>
-      <pubDate>Fri, 06 Nov 2026 10:18:17 +0000</pubDate>
-      <category>Open Source</category>
-      <description>React від команди Meta кардинально змінив підхід до розробки інтерфейсів, позбавивши розробників рутинного маніпулювання DOM-деревом. Він замінює складні імперативні підходи на декларативну парадигму: ви описуєте стан, а фреймворк сам ефективно оновлює UI.</description>
     </item>
   </channel>
 </rss>

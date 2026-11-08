@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 15285,
+      "slug": "shparhalka-hayd-inzheneriya-promtiv-sekret-few-shot-prompting-yak",
+      "title": "Шпаргалка / Гайд: Інженерія промтів: Секрет Few-Shot Prompting (Як навчити модель вашому стилю)",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-08T13:34:09Z",
+      "date_formatted": "8 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://yomaxxxi.github.io/assets/logo.jpg",
+      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
+      "summary": "Більшість людей пишуть промти для ШІ як звичайний пошуковий запит, а потім дивуються галюцинаціям та розмитому тексту. Цей матеріал економить вам години правок і навчить керувати тонким стилем моделі за допомогою техніки Few-Shot Prompting, підвищуючи точність відповідей на 70%.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 15266,
       "slug": "tekhnolohiyi-yaki-my-vtratyly-stereodynamiky-boomsound",
       "title": "Технології, які ми втратили: Стереодинаміки BoomSound",
@@ -1233,27 +1254,6 @@
       "image": "https://dev.ua/storage/images/42/58/46/08/derived/842c976bd2e6e4911ebb4ac72d268a0a.webp",
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Кіберзлочинці змінили вектор атак: тепер під прицілом не лише стандартні паролі в браузерах, а й персональні акаунти штучного інтелекту та ключі розробників.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 12683,
-      "slug": "shparhalka-hayd-technical-writer-henerator-idealnoho-readm-12683",
-      "title": "Шпаргалка / Гайд: Technical Writer (Генератор ідеального README та API docs)",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-04T06:35:07Z",
-      "date_formatted": "4 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://yomaxxxi.github.io/assets/logo.jpg",
-      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
-      "summary": "Більшість розробників ненавидять писати документацію, а код без якісного README залишається мертвим вантажем для команди чи відкритих проєктів. Цей системний промт перетворює сирий код, шматки логів чи список ендпоінтів на преміальну технічну документацію у стилі Stripe та Vercel за лічені хвилини, економлячи вам години ручної рутини.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
