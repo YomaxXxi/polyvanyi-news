@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 08 Nov 2026 07:08:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 07:21:06 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Знижка дня: потужний ПК із RTX 5060 дешевше за Steam Machine</title>
+      <link>https://yomaxxxi.github.io/news/znyzhka-dnya-potuzhnyy-pk-iz-rtx-5060-deshevshe-za-steam-machine/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/znyzhka-dnya-potuzhnyy-pk-iz-rtx-5060-deshevshe-za-steam-machine/</guid>
+      <pubDate>Sun, 08 Nov 2026 07:21:06 +0000</pubDate>
+      <category>Геймінг</category>
+      <description>На тлі постійного зростання цін на компоненти готовий системний блок iBuyPower Slate пропонує вигідний вихід для гравців, які планують апгрейд.</description>
+    </item>
     <item>
       <title>Що таке тип NAT у геймінгу та чому він впливає на онлайн-матчі?</title>
       <link>https://yomaxxxi.github.io/news/shcho-take-typ-nat-u-heyminhu-ta-chomu-vin-vplyvaye-na-onlayn-mat/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 06 Nov 2026 06:04:59 +0000</pubDate>
       <category>Техніка</category>
       <description>В індустрії кібербезпеки зафіксовано масштабну загрозу: виявлено десятилітню вразливість, що зачіпає девайси під управлінням Alpine Linux та потенційно інші дистрибутиви. Проблема ховається у специфічній взаємодії між бібліотекою OpenSSH, полегшеною альтернативою libc під назвою musl та відсутністю системи PAM. Атака не потребує жодних спроб підбору і спрацьовує з першого з&#x27;єднання.</description>
-    </item>
-    <item>
-      <title>Більше продуктивності з кожного байта: як повний стек вирішує проблему пам&#x27;яті в ШІ</title>
-      <link>https://yomaxxxi.github.io/news/bilshe-produktyvnosti-z-kozhnoho-bayta-yak-povnyy-stek-vyrishuye-/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/bilshe-produktyvnosti-z-kozhnoho-bayta-yak-povnyy-stek-vyrishuye-/</guid>
-      <pubDate>Thu, 05 Nov 2026 15:50:12 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Зростання моделей, розширення контексту та розвиток агентських додатків створюють безпрецедентний тиск на пам&#x27;яті графічних процесорів. У світлі дефіциту та зростання цін просте збільшення кількості HBM більше не працює ефективно.</description>
     </item>
   </channel>
 </rss>
