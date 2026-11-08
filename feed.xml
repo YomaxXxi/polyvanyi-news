@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 08 Nov 2026 06:21:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 06:32:56 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Шпаргалка / Гайд: Як платити за ШІ в 5 разів менше через API-ключі замість підписок</title>
+      <link>https://yomaxxxi.github.io/news/shparhalka-hayd-yak-platyty-za-shi-v-5-raziv-menshe-cherez-api-kl/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/shparhalka-hayd-yak-platyty-za-shi-v-5-raziv-menshe-cherez-api-kl/</guid>
+      <pubDate>Sun, 08 Nov 2026 06:32:56 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Матеріал допомагає оптимізувати витрати на штучний інтелект і заощаджувати до $18 щомісяця на кожному сервісі, використовуючи пряму оплату за реальні токени замість фіксованих щомісячних підписок на ChatGPT Plus чи Claude Pro.</description>
+    </item>
     <item>
       <title>Які диски підтримує PlayStation 5: повний гайд з сумісності ігор та медіа</title>
       <link>https://yomaxxxi.github.io/news/yaki-dysky-pidtrymuye-playstation-5-povnyy-hayd-z-sumisnosti-ihor/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 05 Nov 2026 13:35:59 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Цей матеріал вирішує головну проблему взаємодії ШІ з реальними файлами та базами даних без довгих копіювань. Налаштування MCP економить вам мінімум 2 години рутини щодня, даючи Claude прямий доступ до вашої локальної файлової системи, GitHub та баз даних.</description>
-    </item>
-    <item>
-      <title>Технології, які ми втратили: Механічні висувні камери</title>
-      <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-mekhanichni-vysuvni-kamery/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-mekhanichni-vysuvni-kamery/</guid>
-      <pubDate>Thu, 05 Nov 2026 13:33:30 +0000</pubDate>
-      <category>Техніка</category>
-      <description>У золоту епоху інженерних експериментів бренди намагалися створити ідеальний безрамковий дисплей. Справжній чистий екран на всю передню панель без жодних огидних чорних дірок, крапель чи чубчиків викликав дикий захват у кожного техногіка.</description>
     </item>
   </channel>
 </rss>
