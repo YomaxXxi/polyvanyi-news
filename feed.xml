@@ -5,8 +5,24 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 07 Nov 2026 13:37:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 06:21:09 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Які диски підтримує PlayStation 5: повний гайд з сумісності ігор та медіа</title>
+      <link>https://yomaxxxi.github.io/news/yaki-dysky-pidtrymuye-playstation-5-povnyy-hayd-z-sumisnosti-ihor/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/yaki-dysky-pidtrymuye-playstation-5-povnyy-hayd-z-sumisnosti-ihor/</guid>
+      <pubDate>Sun, 08 Nov 2026 06:21:09 +0000</pubDate>
+      <category>Геймінг</category>
+      <description>Розбираємося, які фізичні носії читає актуальна консоль від Sony та чи варто готуватися до епохи без дисководів.</description>
+    </item>
+    <item>
+      <title>Німий авангард, діагноз &quot;радянщині&quot; та легендарний Миколайчук: 10 знакових українських фільмів до 1991 року</title>
+      <link>https://yomaxxxi.github.io/news/nimyy-avanhard-diahnoz-radyanshchyni-ta-lehendarnyy-mykolaychuk-1/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/nimyy-avanhard-diahnoz-radyanshchyni-ta-lehendarnyy-mykolaychuk-1/</guid>
+      <pubDate>Sun, 08 Nov 2026 06:17:47 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Історія українського кіно — це шлях неймовірних злетів, боротьби з цензурою та створення унікальних шедеврів попри заборони тоталітарної системи.</description>
+    </item>
     <item>
       <title>Шпаргалка / Гайд: Technical Writer (Генератор ідеального README та API docs)</title>
       <link>https://yomaxxxi.github.io/news/shparhalka-hayd-technical-writer-henerator-idealnoho-readme-ta-ap/</link>
@@ -230,22 +246,6 @@
       <pubDate>Thu, 05 Nov 2026 13:33:30 +0000</pubDate>
       <category>Техніка</category>
       <description>У золоту епоху інженерних експериментів бренди намагалися створити ідеальний безрамковий дисплей. Справжній чистий екран на всю передню панель без жодних огидних чорних дірок, крапель чи чубчиків викликав дикий захват у кожного техногіка.</description>
-    </item>
-    <item>
-      <title>Третина ігрових студій закривається після продажу, ще третина занепадає – масштабне дослідження</title>
-      <link>https://yomaxxxi.github.io/news/tretyna-ihrovykh-studiy-zakryvayetsya-pislya-prodazhu-shche-trety/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tretyna-ihrovykh-studiy-zakryvayetsya-pislya-prodazhu-shche-trety/</guid>
-      <pubDate>Thu, 05 Nov 2026 13:31:09 +0000</pubDate>
-      <category>Геймінг</category>
-      <description>Індустрія відеоігор протягом десятиліть залишається полем для агрегатних поглинань та масових злиттів. Проте за блискучими пресрелізами мільярдних угод ховається жорстка статистика, яка руйнує міфи про синергію великого капіталу. Відомий ігровий продюсер Себастьян Кардосо провів титанічну роботу, проаналізувавши долю 303 студій, придбаних великими видавцями з 2000 року.</description>
-    </item>
-    <item>
-      <title>Motorola оновлює екосистему: анонсовано годинник Moto Watch 2 Fit та навушники Moto Buds 2 Ultra</title>
-      <link>https://yomaxxxi.github.io/news/motorola-onovlyuye-ekosystemu-anonsovano-hodynnyk-moto-watch-2-fi/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/motorola-onovlyuye-ekosystemu-anonsovano-hodynnyk-moto-watch-2-fi/</guid>
-      <pubDate>Thu, 05 Nov 2026 12:21:16 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Компанія Motorola продовжує розширювати свою екосистему гаджетів, представивши одразу два флагманські пристрої для персонального моніторингу та аудіо. Новинки отримали глибоку інтеграцію з провідними індустріальними бренди — Polar та Bose, що виводить функціональність фітнес-трекерів та TWS-навушників на новий рівень на тлі жорсткої конкуренції на ринку портативної електроніки.</description>
     </item>
   </channel>
 </rss>

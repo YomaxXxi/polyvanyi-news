@@ -1,6 +1,44 @@
 {
   "articles": [
     {
+      "id": 15122,
+      "slug": "yaki-dysky-pidtrymuye-playstation-5-povnyy-hayd-z-sumisnosti-ihor",
+      "title": "Які диски підтримує PlayStation 5: повний гайд з сумісності ігор та медіа",
+      "category": "Геймінг",
+      "category_slug": "gaming",
+      "date": "2026-11-08T06:21:09Z",
+      "date_formatted": "8 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://www.engadget.com/img/gallery/what-discs-can-a-playstation-5-play/l-intro-1793819005.jpg",
+      "image_caption": "Матеріали Engadget / Офіційний реліз",
+      "summary": "Розбираємося, які фізичні носії читає актуальна консоль від Sony та чи варто готуватися до епохи без дисководів.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true
+    },
+    {
+      "id": 15174,
+      "slug": "nimyy-avanhard-diahnoz-radyanshchyni-ta-lehendarnyy-mykolaychuk-1",
+      "title": "Німий авангард, діагноз \"радянщині\" та легендарний Миколайчук: 10 знакових українських фільмів до 1991 року",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-08T06:17:47Z",
+      "date_formatted": "8 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://www.youtube.com/embed/y0un3aRDqPI",
+      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
+      "summary": "Історія українського кіно — це шлях неймовірних злетів, боротьби з цензурою та створення унікальних шедеврів попри заборони тоталітарної системи.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": true
+    },
+    {
       "id": 14915,
       "slug": "onovlennya-samsung-one-ui-9-holovni-fishky-ta-prykhovani-mozhlyvo",
       "title": "Оновлення Samsung One UI 9: головні фішки та приховані можливості системи",
@@ -16,7 +54,7 @@
       "image_caption": "Матеріали Engadget / Офіційний реліз",
       "summary": "Свіжа прошивка One UI 9 активно поширюється на пристрої Galaxy, пропонуючи безліч корисних покращень як для звичайних користувачів, так і для фанатів кастомізації. Розбираємо найцікавіші функції, які варто випробувати одразу після оновлення.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true
     },
     {
@@ -36,7 +74,7 @@
       "summary": "Нехтування базовими правилами оперативної безпеки (opsec) під час розгортання військ може мати фатальні наслідки не лише для місії, а й для особистого життя.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true
+      "breaking": false
     },
     {
       "id": 14869,
@@ -55,7 +93,7 @@
       "summary": "Нові медичні інструменти від екосистеми Google вражають своїми можливостями діагностики, проте експерти закликають користувачів дуже уважно читати дрібний шрифт у ліцензійних угодах перед тим, як довіряти алгоритмам власне здоров'я.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true
+      "breaking": false
     },
     {
       "id": 14805,
@@ -1098,44 +1136,6 @@
       "image": "https://cdn.ain.ua/ua/articles/2026-11-01/vTBeRL0YM3Ud5VZmxWZx0ECNuWtg7UnzXtA8Js4R.webp",
       "image_caption": "Матеріали AIN.ua / Офіційний реліз",
       "summary": "Масовий перехід українського бізнесу та домогосподарств на автономну генерацію після кризових періодів створив новий виклик для національного ринку. З одного боку, приватні сонячні електростанції ефективно розвантажують загальну мережу в пікові сонячні години, формуючи глибоке денне просідання попиту. З іншого боку, така децентралізація відбувається хаотично, адже значна частина потужностей залишається поза полем зору системних диспетчерів «Укренерго».",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false
-    },
-    {
-      "id": 10692,
-      "slug": "chatgpt-dots-proty-notebooklm-chomu-novyy-instrument-vid-openai-m",
-      "title": "ChatGPT Dots проти NotebookLM: чому новий інструмент від OpenAI може змінити підхід до навчання",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-01T06:16:04Z",
-      "date_formatted": "1 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/macbook-on-a-chatgpt-dot-voice-call-during-a-binary-lesson-with-a-gemini-audio-ad-behind.jpeg",
-      "image_caption": "Матеріали XDA Developers / Офіційний реліз",
-      "summary": "Штучний інтелект вже давно перестав бути простою іграшкою для генерації текстів, перетворившись на повноцінний освітній інструмент. Протягом останніх років студенти та дослідники активно шукали найкращі способи адаптувати нейромережі під свої потреби: від розбору складних лекцій до підготовки до екзаменів. Якщо раніше беззаперечним лідером у цій ніші був сервіс NotebookLM від Google із його функцією генерації подкастів із навчальних матеріалів, то тепер на ринку з'явився серйозний конкурент в особі нової розробки від OpenAI.",
-      "reading_time": "3 хв",
-      "featured": false,
-      "breaking": false
-    },
-    {
-      "id": 10519,
-      "slug": "tekhnolohiyi-yaki-my-vtratyly-quad-dac-u-smartfoni",
-      "title": "Технології, які ми втратили: Quad DAC у смартфоні",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-10-31T12:41:20Z",
-      "date_formatted": "31 жовтня 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/LG_V30_B_%26_O_edition_back.jpg",
-      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
-      "summary": "Ці смартфони від LG робили неможливе. Завдяки вбудованому чотириканальному аудіочипу Sabre вони перетворювали звичайний телефон на студійний плеєр, здатний без будь-яких зовнішніх «свистків» розкачати важкі моніторні навушники на 600 Ом.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false
