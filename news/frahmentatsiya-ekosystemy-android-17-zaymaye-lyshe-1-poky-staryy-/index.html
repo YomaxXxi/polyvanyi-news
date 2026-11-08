@@ -8,6 +8,8 @@
   <title>Фрагментація екосистеми: Android 17 займає лише 1%, поки старий Android 11 досі живий на 10% пристроїв</title>
   <meta name="description" content="Google опублікувала свіжу статистику дистрибуції ОС станом на октень 2026 року. Новітня версія платформи ледь набирає популярність, тоді як мільйони…">
   <meta name="robots" content="index, follow, max-image-preview:large">
+  <meta name="google-site-verification" content="-iL61mHj_S4OsXC0fNJfM-kTYefdo_oFmcjfU6q4F68">
+  <meta name="google-site-verification" content="VXB2mhILf5V-VNUPPTvGeIQtnEFpcrOEJNakUyMkpow">
   <link rel="canonical" href="https://yomaxxxi.github.io/news/frahmentatsiya-ekosystemy-android-17-zaymaye-lyshe-1-poky-staryy-/">
   <link rel="alternate" type="application/rss+xml" title="Polyvanyi News" href="https://yomaxxxi.github.io/feed.xml">
 
@@ -115,7 +117,12 @@
         <a href="/" class="px-3 py-2 rounded-xl text-sm font-medium text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 hover:text-slate-900 dark:hover:text-white transition">Головне</a>
         <a href="/category/ai/" class="px-3 py-2 rounded-xl text-sm font-medium text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 hover:text-slate-900 dark:hover:text-white transition whitespace-nowrap">Штучний Інтелект</a><a href="/category/tech/" class="px-3 py-2 rounded-xl text-sm font-medium text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 hover:text-slate-900 dark:hover:text-white transition whitespace-nowrap">Техніка</a><a href="/category/gaming/" class="px-3 py-2 rounded-xl text-sm font-medium text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 hover:text-slate-900 dark:hover:text-white transition whitespace-nowrap">Геймінг</a>
       </nav>
-      <div class="flex items-center gap-2 flex-shrink-0">
+      <div class="flex items-center gap-2 sm:gap-3 flex-shrink-0">
+        <a href="/?search=1" class="flex items-center gap-2.5 px-3.5 py-2 rounded-2xl bg-slate-100 hover:bg-slate-200/80 dark:bg-slate-800/90 dark:hover:bg-slate-700 border border-slate-200/80 dark:border-slate-700/80 text-slate-700 dark:text-slate-200 transition shadow-sm hover:shadow text-sm font-medium" aria-label="Пошук (⌘K)">
+          <svg class="w-4 h-4 text-slate-600 dark:text-slate-300 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+          <span class="text-sm font-medium leading-none">Пошук</span>
+          <kbd class="inline-flex items-center justify-center px-2 py-0.5 text-xs font-sans font-medium bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-lg text-slate-400 dark:text-slate-400 shadow-sm leading-none tracking-tight">⌘K</kbd>
+        </a>
         <button type="button" data-theme-toggle class="p-2.5 rounded-xl bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-600 dark:text-slate-300 transition" aria-label="Змінити тему">
           <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"/></svg>
         </button>
@@ -232,6 +239,12 @@
           navigator.clipboard.writeText(url).then(function () { btn.textContent = 'Скопійовано ✓'; });
         }
       });
+    });
+    document.addEventListener('keydown', function (e) {
+      if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+        e.preventDefault();
+        window.location.href = '/?search=1';
+      }
     });
   </script>
 </body>
