@@ -275,9 +275,9 @@
   function renderHero() {
     if (!elements.heroMain || !elements.heroSidebar) return;
 
-    const featured = state.articles.find(a => a.featured) || state.articles[0];
+    const featured = state.articles.find(a => a.featured && a.image) || state.articles.find(a => a.image) || state.articles[0];
     const sideHighlights = state.articles
-      .filter(a => a.id !== featured.id)
+      .filter(a => a.image && a.id !== featured.id)
       .slice(0, 3);
 
     // Left Main Hero Card
@@ -483,11 +483,10 @@
    */
   function createArticleCard(article) {
     const catColor = categoryColors[article.category_slug] || 'bg-slate-100 text-slate-800 border-slate-200';
-    return `
-      <article class="news-card group flex flex-col bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-3xl overflow-hidden hover:shadow-xl hover:border-slate-300 dark:hover:border-slate-700 transition-all duration-300 cursor-pointer" data-slug="${article.slug}">
+    const thumbnailHtml = article.image ? `
         <!-- Thumbnail -->
         <div class="relative aspect-[16/10] overflow-hidden bg-slate-100 dark:bg-slate-800">
-          <img src="${article.image}" onerror="this.onerror=null;this.src='/assets/logo.jpg'" alt="${escapeHtml(article.title)}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy">
+          <img src="${article.image}" alt="${escapeHtml(article.title)}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy">
           <div class="absolute top-4 left-4">
             <span class="px-3 py-1 text-xs font-semibold rounded-full border backdrop-blur-md ${catColor}">
               ${escapeHtml(article.category)}
@@ -498,11 +497,28 @@
               ? `<div class="absolute top-4 right-4"><span class="px-2.5 py-1 text-[11px] font-bold rounded-full bg-red-600 text-white flex items-center gap-1 shadow-sm"><span class="w-1.5 h-1.5 rounded-full bg-white animate-pulse"></span>ТЕРМІНОВО</span></div>`
               : ''
           }
-        </div>
+        </div>` : '';
+
+    const categoryBadgeInside = !article.image ? `
+            <div class="flex items-center justify-between gap-2 mb-3">
+              <span class="px-3 py-1 text-xs font-semibold rounded-full border ${catColor}">
+                ${escapeHtml(article.category)}
+              </span>
+              ${
+                article.breaking
+                  ? `<span class="px-2.5 py-1 text-[11px] font-bold rounded-full bg-red-600 text-white flex items-center gap-1 shadow-sm"><span class="w-1.5 h-1.5 rounded-full bg-white animate-pulse"></span>ТЕРМІНОВО</span>`
+                  : ''
+              }
+            </div>` : '';
+
+    return `
+      <article class="news-card group flex flex-col bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-3xl overflow-hidden hover:shadow-xl hover:border-slate-300 dark:hover:border-slate-700 transition-all duration-300 cursor-pointer" data-slug="${article.slug}">
+        ${thumbnailHtml}
 
         <!-- Body -->
         <div class="p-6 flex flex-col justify-between flex-grow">
           <div>
+            ${categoryBadgeInside}
             <div class="flex items-center gap-2 text-xs text-slate-500 dark:text-slate-400 mb-3">
               <span class="flex items-center gap-1">
                 <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
@@ -638,7 +654,7 @@
         a => `
       <div class="search-item p-3.5 hover:bg-slate-100 dark:hover:bg-slate-800/80 rounded-xl transition cursor-pointer flex items-center justify-between gap-4" data-slug="${a.slug}">
         <div class="flex items-center gap-3">
-          <img src="${a.image}" onerror="this.onerror=null;this.src='/assets/logo.jpg'" alt="" class="w-12 h-12 rounded-lg object-cover flex-shrink-0">
+          ${a.image ? `<img src="${a.image}" alt="" class="w-12 h-12 rounded-lg object-cover flex-shrink-0">` : ''}
           <div>
             <span class="text-[10px] font-bold uppercase tracking-wider text-indigo-600 dark:text-indigo-400 block">${escapeHtml(a.category)}</span>
             <h4 class="text-sm font-bold text-slate-900 dark:text-white leading-snug line-clamp-1">${escapeHtml(a.title)}</h4>
