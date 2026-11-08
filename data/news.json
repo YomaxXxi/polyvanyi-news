@@ -1,6 +1,25 @@
 {
   "articles": [
     {
+      "id": 15194,
+      "slug": "alternatyvnyy-brauzer-dlya-android-yakyy-lamaye-zvychni-pravyla",
+      "title": "Альтернативний браузер для Android, який ламає звичні правила",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-08T08:39:08Z",
+      "date_formatted": "8 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/solipsism-browser-android-app-aa-home-screen-2.jpg",
+      "image_caption": "Матеріали Android Authority / Офіційний реліз",
+      "summary": "Шукаєте заміну звичним мобільним програмам для виходу в інтернет? Виявляється, найкращий браузер для Android зовсім не обов'язково шукати в офіційному каталозі Google Play Store. Він поширюється за іншими правилами, пропонуючи зовсім інший користувацький досвід.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true
+    },
+    {
       "id": 15104,
       "slug": "shtuchnyy-intelekt-u-rozumnomu-domi-chomu-gemini-spovilnyla-kolon",
       "title": "Штучний інтелект у розумному домі: чому Gemini сповільнила колонки Nest",
@@ -16,7 +35,7 @@
       "image_caption": "Матеріали XDA Developers / Офіційний реліз",
       "summary": "Інтеграція хмарних великих мовних моделей у побутові пристрої часто створює більше проблем, ніж приносить користі, особливо коли справа доходить до базових завдань.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true
     },
     {
@@ -55,7 +74,7 @@
       "summary": "Розбираємося, які фізичні носії читає актуальна консоль від Sony та чи варто готуватися до епохи без дисководів.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true
+      "breaking": false
     },
     {
       "id": 15174,
@@ -1117,25 +1136,6 @@
       "image": "https://cdn.ain.ua/ua/articles/2026-10-30/xpiayUPkbTxgOBDmzCHsHcYJ4mI8wOp9ixzqK0Re.webp",
       "image_caption": "Матеріали AIN.ua / Офіційний реліз",
       "summary": "Відомий український ШІ-стартап Portal, заснований Володимиром Панченком та Андрієм Скрипником, демонструє неймовірну гнучкість на ринку технологій. За два роки компанія радикально змінила вектор розвитку та у лютому 2026 року презентувала флагманський продукт — персонального помічника нового покоління.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false
-    },
-    {
-      "id": 10771,
-      "slug": "kinets-komunalnym-kvestam-ukrayinski-aytivtsi-stvoryly-dodatok-mö",
-      "title": "Кінець комунальним квестам: українські айтівці створили додаток MÖRK для орендарів",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-01T08:55:11Z",
-      "date_formatted": "1 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://dev.ua/storage/images/14/53/90/59/derived/8bde5e40e39bcc797bc2f85470de69ae.webp",
-      "image_caption": "Матеріали dev.ua / Офіційний реліз",
-      "summary": "Знайомий той самий ритуал на початку місяця, коли треба гортати чати у пошуках квитанцій, переписувати показники та перевіряти цифри на калькуляторі? Подружжя розробників Стас і Катерина Ляховець вирішило раз і назавжди позбутися цього головного болю, випустивши зручний мобільний інструмент MÖRK.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false
