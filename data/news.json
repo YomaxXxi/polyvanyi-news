@@ -1,6 +1,25 @@
 {
   "articles": [
     {
+      "id": 15256,
+      "slug": "shcho-realno-mozhut-zlovmysnyky-mayuchy-vashu-ip-adresu",
+      "title": "Що реально можуть зловмисники, маючи вашу IP-адресу?",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-08T12:15:31Z",
+      "date_formatted": "8 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://www.engadget.com/img/gallery/can-a-hacker-really-do-anything-with-your-ip-address/l-intro-1793723874.jpg",
+      "image_caption": "Матеріали Engadget / Офіційний реліз",
+      "summary": "Багато користувачів досі вірять міфам про те, що публічний IP може розкрити паролі чи особисті дані. Давайте розберемося, які загрози існують насправді та як працюють сучасні протоколи.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true
+    },
+    {
       "id": 15236,
       "slug": "skandal-z-eksportom-chipiv-kytayski-kompaniyi-pryvydy-otrymaly-do",
       "title": "Скандал з експортом чіпів: китайські компанії-привиди отримали дозвіл на купівлю Nvidia H200",
@@ -16,7 +35,7 @@
       "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
       "summary": "Розслідування виявило серйозні прогалини у перевірках Міністерства торгівлі США під час видачі ліцензій на постачання передових прискорювачів.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true
     },
     {
@@ -55,7 +74,7 @@
       "summary": "Мобільний геймінг офіційно зробив свій власний момент у стилі DLSS, оскільки на платформі з'явилася перша гра, яка використовує технологію генерації кадрів за допомогою штучного інтелекту.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true
+      "breaking": false
     },
     {
       "id": 15194,
@@ -1117,25 +1136,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/9739tEjY7imERJsLeBjqZG-2560-80.jpg",
       "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
       "summary": "Ринок швидкісних накопичувачів поповнився вкрай цікавою новинкою, яка кидає виклик дорожчим аналогам.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false
-    },
-    {
-      "id": 10845,
-      "slug": "bytva-za-pamyat-sem-altman-zustrivsya-z-kerivnytstvom-samsung",
-      "title": "Битва за пам'ять: Сем Альтман зустрівся з керівництвом Samsung",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-01T13:31:23Z",
-      "date_formatted": "1 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://cdn.mos.cms.futurecdn.net/rw7Lei27qRFKGy9CThFftZ-2000-80.jpg",
-      "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
-      "summary": "Генеральний директор OpenAI вирушив до Південної Кореї для вирішення найкритичнішої проблеми сучасної індустрії штучного інтелекту — глобального дефіциту високошвидкісної пам'яті для дата-центрів.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false

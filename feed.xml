@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 08 Nov 2026 11:06:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 12:15:31 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Що реально можуть зловмисники, маючи вашу IP-адресу?</title>
+      <link>https://yomaxxxi.github.io/news/shcho-realno-mozhut-zlovmysnyky-mayuchy-vashu-ip-adresu/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/shcho-realno-mozhut-zlovmysnyky-mayuchy-vashu-ip-adresu/</guid>
+      <pubDate>Sun, 08 Nov 2026 12:15:31 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Багато користувачів досі вірять міфам про те, що публічний IP може розкрити паролі чи особисті дані. Давайте розберемося, які загрози існують насправді та як працюють сучасні протоколи.</description>
+    </item>
     <item>
       <title>Скандал з експортом чіпів: китайські компанії-привиди отримали дозвіл на купівлю Nvidia H200</title>
       <link>https://yomaxxxi.github.io/news/skandal-z-eksportom-chipiv-kytayski-kompaniyi-pryvydy-otrymaly-do/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 06 Nov 2026 09:58:30 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Проєкт за підтримки колишнього CEO Intel Петта Гелсінгера обіцяє поєднати швидкість SRAM із щільністю DRAM безпосередньо на AI-чіпах.</description>
-    </item>
-    <item>
-      <title>Складні смартфони у 2026 році: головні причини «за» та «проти» покупки</title>
-      <link>https://yomaxxxi.github.io/news/skladni-smartfony-u-2026-rotsi-holovni-prychyny-za-ta-proty-pokup/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/skladni-smartfony-u-2026-rotsi-holovni-prychyny-za-ta-proty-pokup/</guid>
-      <pubDate>Fri, 06 Nov 2026 08:39:13 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Еволюція формфактора пройшла шлях від тендітних експериментальних гаджетів до надійних щоденних пристроїв. Сучасні складані девайси отримали захист від вологи, потужні процесори та надійні шарніри. Проте висока вартість та технічні компроміси досі змушують користувачів зважувати всі ризики перед покупкою.</description>
     </item>
   </channel>
 </rss>
