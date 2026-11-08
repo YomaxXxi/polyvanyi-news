@@ -5,14 +5,22 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 08 Nov 2026 10:06:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 11:06:21 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Скандал з експортом чіпів: китайські компанії-привиди отримали дозвіл на купівлю Nvidia H200</title>
+      <link>https://yomaxxxi.github.io/news/skandal-z-eksportom-chipiv-kytayski-kompaniyi-pryvydy-otrymaly-do/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/skandal-z-eksportom-chipiv-kytayski-kompaniyi-pryvydy-otrymaly-do/</guid>
+      <pubDate>Sun, 08 Nov 2026 11:06:21 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Розслідування виявило серйозні прогалини у перевірках Міністерства торгівлі США під час видачі ліцензій на постачання передових прискорювачів.</description>
+    </item>
     <item>
       <title>GitHub-перлина дня: sherlock-project/sherlock — Потужний OSINT-інструмент для пошуку акаунтів за нікнеймом у сотнях соцмереж</title>
       <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-sherlock-projectsherlock-potuzhnyy-osint-inst/</link>
       <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-sherlock-projectsherlock-potuzhnyy-osint-inst/</guid>
       <pubDate>Sun, 08 Nov 2026 10:06:16 +0000</pubDate>
-      <category>Open Source</category>
+      <category>Штучний Інтелект</category>
       <description>Розслідуєте кібербезпеку, перевіряєте цифрову гігієну чи шукаєте цифрові сліди? Sherlock миттєво сканує понад 400 соцмереж і платформ за єдиним іменем користувача.</description>
     </item>
     <item>
@@ -28,7 +36,7 @@
       <link>https://yomaxxxi.github.io/news/solipsism-browser-innovatsiynyy-vidkrytyy-brauzer-dlya-android-ne/</link>
       <guid isPermaLink="true">https://yomaxxxi.github.io/news/solipsism-browser-innovatsiynyy-vidkrytyy-brauzer-dlya-android-ne/</guid>
       <pubDate>Sun, 08 Nov 2026 08:39:08 +0000</pubDate>
-      <category>Open Source</category>
+      <category>Техніка</category>
       <description>Шукаєте справжню приватну заміну Google Chrome? Зверніть увагу на Solipsism Browser — новий open-source веб-оглядач для Android, який свідомо поширюється поза Google Play Store та ламає звичні принципи мобільного серфінгу.</description>
     </item>
     <item>
@@ -220,7 +228,7 @@
       <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-reactreact-lehendarna-biblioteka-dlya-stvoren/</link>
       <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-reactreact-lehendarna-biblioteka-dlya-stvoren/</guid>
       <pubDate>Fri, 06 Nov 2026 10:18:17 +0000</pubDate>
-      <category>Open Source</category>
+      <category>Штучний Інтелект</category>
       <description>React від команди Meta кардинально змінив підхід до розробки інтерфейсів, позбавивши розробників рутинного маніпулювання DOM-деревом. Він замінює складні імперативні підходи на декларативну парадигму: ви описуєте стан, а фреймворк сам ефективно оновлює UI.</description>
     </item>
     <item>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 06 Nov 2026 08:39:13 +0000</pubDate>
       <category>Техніка</category>
       <description>Еволюція формфактора пройшла шлях від тендітних експериментальних гаджетів до надійних щоденних пристроїв. Сучасні складані девайси отримали захист від вологи, потужні процесори та надійні шарніри. Проте висока вартість та технічні компроміси досі змушують користувачів зважувати всі ризики перед покупкою.</description>
-    </item>
-    <item>
-      <title>Мікро-ШІ дня: Phind — Розумний пошуковик і генератор коду для розробників</title>
-      <link>https://yomaxxxi.github.io/news/mikro-shi-dnya-phind-rozumnyy-poshukovyk-i-henerator-kodu-dlya-ro/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/mikro-shi-dnya-phind-rozumnyy-poshukovyk-i-henerator-kodu-dlya-ro/</guid>
-      <pubDate>Fri, 06 Nov 2026 07:49:13 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Більше ніяких годин пошуку рішень на форумах та перегляду застарілих гілок на StackOverflow. Цей ШІ створений спеціально для програмістів: він миттєво знаходить відповіді на складні технічні питання, розбирає помилки компілятора та пише чистий робочий код за лічені секунди.</description>
     </item>
   </channel>
 </rss>
