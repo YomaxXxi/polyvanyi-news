@@ -5,16 +5,8 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 08 Nov 2026 07:48:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 07:18:30 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Мікро-ШІ дня: Phind — Розумний пошуковик для розробників</title>
-      <link>https://yomaxxxi.github.io/news/mikro-shi-dnya-phind-rozumnyy-poshukovyk-dlya-rozrobnykiv/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/mikro-shi-dnya-phind-rozumnyy-poshukovyk-dlya-rozrobnykiv/</guid>
-      <pubDate>Sun, 08 Nov 2026 07:48:27 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Забудьте про години марудного скролу форумами та пошуку розв&#x27;язання багів у Google. Phind — це спеціалізований AI-пошуковий двигун, створений спеціально для програмістів, який видає готові робочі фрагменти коду за лічені секунди.</description>
-    </item>
     <item>
       <title>Штучний інтелект у розумному домі: чому Gemini сповільнила колонки Nest</title>
       <link>https://yomaxxxi.github.io/news/shtuchnyy-intelekt-u-rozumnomu-domi-chomu-gemini-spovilnyla-kolon/</link>
@@ -246,6 +238,14 @@
       <pubDate>Fri, 06 Nov 2026 06:51:14 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Більшість розробників і користувачів пишуть промти у стилі «напиши статтю» або «зроби аналіз», а потім дивуються «воді», галюцинаціям та нудному формату. Цей матеріал економить вам години правок та вибудовує кристально чітку комунікацію з LLM завдяки техніці Few-Shot Prompting. Додавання всього 2-3 якісних прикладів підвищує точність моделі на 70% і змушує її копіювати ваш унікальний тон і структуру.</description>
+    </item>
+    <item>
+      <title>Вразливість *sshole дозволяє хакерам отримувати SSH-доступ до Linux-пристроїв без жодного пароля</title>
+      <link>https://yomaxxxi.github.io/news/vrazlyvist-sshole-dozvolyaye-khakeram-otrymuvaty-ssh-dostup-do-li/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/vrazlyvist-sshole-dozvolyaye-khakeram-otrymuvaty-ssh-dostup-do-li/</guid>
+      <pubDate>Fri, 06 Nov 2026 06:04:59 +0000</pubDate>
+      <category>Техніка</category>
+      <description>В індустрії кібербезпеки зафіксовано масштабну загрозу: виявлено десятилітню вразливість, що зачіпає девайси під управлінням Alpine Linux та потенційно інші дистрибутиви. Проблема ховається у специфічній взаємодії між бібліотекою OpenSSH, полегшеною альтернативою libc під назвою musl та відсутністю системи PAM. Атака не потребує жодних спроб підбору і спрацьовує з першого з&#x27;єднання.</description>
     </item>
   </channel>
 </rss>
