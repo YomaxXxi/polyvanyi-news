@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 08 Nov 2026 09:47:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 10:06:16 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: sherlock-project/sherlock — Потужний OSINT-інструмент для пошуку акаунтів за нікнеймом у сотнях соцмереж</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-sherlock-projectsherlock-potuzhnyy-osint-inst/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-sherlock-projectsherlock-potuzhnyy-osint-inst/</guid>
+      <pubDate>Sun, 08 Nov 2026 10:06:16 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Розслідуєте кібербезпеку, перевіряєте цифрову гігієну чи шукаєте цифрові сліди? Sherlock миттєво сканує понад 400 соцмереж і платформ за єдиним іменем користувача.</description>
+    </item>
     <item>
       <title>Android отримав першу гру з генерацією кадрів на базі ШІ</title>
       <link>https://yomaxxxi.github.io/news/android-otrymav-pershu-hru-z-heneratsiyeyu-kadriv-na-bazi-shi/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 06 Nov 2026 07:49:13 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Більше ніяких годин пошуку рішень на форумах та перегляду застарілих гілок на StackOverflow. Цей ШІ створений спеціально для програмістів: він миттєво знаходить відповіді на складні технічні питання, розбирає помилки компілятора та пише чистий робочий код за лічені секунди.</description>
-    </item>
-    <item>
-      <title>Легендарні навушники Sony MDR-3 повертаються: дизайн з 1980-х, роз&#x27;єм USB-C та доступний цінник</title>
-      <link>https://yomaxxxi.github.io/news/lehendarni-navushnyky-sony-mdr-3-povertayutsya-dyzayn-z-1980-kh-r/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/lehendarni-navushnyky-sony-mdr-3-povertayutsya-dyzayn-z-1980-kh-r/</guid>
-      <pubDate>Fri, 06 Nov 2026 07:12:33 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Епоха ретро-гаджетів продовжує завойовувати ринок аудіотехніки. Слідом за вінтажними вініловими програвачами та касетними плеєрами компанія Sony вирішила повернути до життя один із найбільш знакових продуктів своєї до-волкенової ери — легендарні навушники MDR-3. Оригінальна модель з&#x27;явилася в Японії наприкінці 1970-х і назавжди змінила уявлення про портативний звук, а тепер інженери японського гіганта адаптували культовий формфактор під сучасні реалії, зберігши впізнавану естетику.</description>
     </item>
   </channel>
 </rss>

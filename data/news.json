@@ -1,6 +1,25 @@
 {
   "articles": [
     {
+      "id": 15223,
+      "slug": "github-perlyna-dnya-sherlock-projectsherlock-potuzhnyy-osint-inst",
+      "title": "GitHub-перлина дня: sherlock-project/sherlock — Потужний OSINT-інструмент для пошуку акаунтів за нікнеймом у сотнях соцмереж",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-08T10:06:16Z",
+      "date_formatted": "8 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/1/sherlock-project/sherlock",
+      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
+      "summary": "Розслідуєте кібербезпеку, перевіряєте цифрову гігієну чи шукаєте цифрові сліди? Sherlock миттєво сканує понад 400 соцмереж і платформ за єдиним іменем користувача.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true
+    },
+    {
       "id": 15215,
       "slug": "android-otrymav-pershu-hru-z-heneratsiyeyu-kadriv-na-bazi-shi",
       "title": "Android отримав першу гру з генерацією кадрів на базі ШІ",
@@ -16,7 +35,7 @@
       "image_caption": "Матеріали Android Authority / Офіційний реліз",
       "summary": "Мобільний геймінг офіційно зробив свій власний момент у стилі DLSS, оскільки на платформі з'явилася перша гра, яка використовує технологію генерації кадрів за допомогою штучного інтелекту.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true
     },
     {
@@ -39,6 +58,25 @@
       "breaking": true
     },
     {
+      "id": 15193,
+      "slug": "mikro-shi-dnya-devv-ai-shvydkyy-poshuk-rishen-ta-fiks-bahiv-dlya-",
+      "title": "Мікро-ШІ дня: Devv AI — Швидкий пошук рішень та фікс багів для розробників",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-08T08:11:32Z",
+      "date_formatted": "8 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://yomaxxxi.github.io/assets/logo.jpg",
+      "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
+      "summary": "Пошук релізів, актуальної документації та фікс помилок у коді тепер займає секунди. Devv AI шукає напряму в репозиторіях GitHub і свіжих тех-базах, видаючи перевірений код замість води із застарілих форумів.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false
+    },
+    {
       "id": 15104,
       "slug": "shtuchnyy-intelekt-u-rozumnomu-domi-chomu-gemini-spovilnyla-kolon",
       "title": "Штучний інтелект у розумному домі: чому Gemini сповільнила колонки Nest",
@@ -55,7 +93,7 @@
       "summary": "Інтеграція хмарних великих мовних моделей у побутові пристрої часто створює більше проблем, ніж приносить користі, особливо коли справа доходить до базових завдань.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true
+      "breaking": false
     },
     {
       "id": 15118,
@@ -72,6 +110,25 @@
       "image": "https://www.engadget.com/img/gallery/what-does-nat-type-mean-for-online-gaming/l-intro-1793903325.jpg",
       "image_caption": "Матеріали Engadget / Офіційний реліз",
       "summary": "Під час налаштування мережі на консолі чи ПК ви могли помічати рядок NAT Type. Розбираємося, що це означає та як воно впливає на ваш ігровий досвід.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false
+    },
+    {
+      "id": 15179,
+      "slug": "shparhalka-hayd-yak-platyty-za-shi-v-5-raziv-menshe-cherez-api-kl",
+      "title": "Шпаргалка / Гайд: Як платити за ШІ в 5 разів менше через API-ключі замість підписок",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-08T06:32:56Z",
+      "date_formatted": "8 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://yomaxxxi.github.io/assets/logo.jpg",
+      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
+      "summary": "Матеріал допомагає оптимізувати витрати на штучний інтелект і заощаджувати до $18 щомісяця на кожному сервісі, використовуючи пряму оплату за реальні токени замість фіксованих щомісячних підписок на ChatGPT Plus чи Claude Pro.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false
@@ -110,6 +167,44 @@
       "image": "https://img.mezha.ua/mezha/images/doc/8/0/333636/80baa6bb90eade48af243298df20d335.jpeg?w=1200&q=85&stamp=1793989302",
       "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
       "summary": "Історія українського кіно — це шлях неймовірних злетів, боротьби з цензурою та створення унікальних шедеврів попри заборони тоталітарної системи.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false
+    },
+    {
+      "id": 14965,
+      "slug": "shparhalka-hayd-technical-writer-henerator-idealnoho-readme-ta-ap",
+      "title": "Шпаргалка / Гайд: Technical Writer (Генератор ідеального README та API docs)",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-07T13:37:57Z",
+      "date_formatted": "7 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://yomaxxxi.github.io/assets/logo.jpg",
+      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
+      "summary": "Цей матеріал вирішує вічну біль розробників: як за кілька секунд перетворити сирий код, шматки скриптів чи набір ендпоінтів на преміальну, професійну документацію у стилі Stripe чи Vercel. Економить мінімум 3-4 години ручної роботи над кожним проєктом.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false
+    },
+    {
+      "id": 14940,
+      "slug": "tekhnolohiyi-yaki-my-vtratyly-moto-mods",
+      "title": "Технології, які ми втратили: Moto Mods",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-07T12:35:28Z",
+      "date_formatted": "7 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://yomaxxxi.github.io/assets/logo.jpg",
+      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
+      "summary": "Пара потужних неодимових магнітів на спинці та контактна група здатні були за секунду перетворити звичайний тонкий смартфон на повноцінний кінотеатр з проєктором, преміальну камеру Hasselblad із 10-кратним оптичним зумом або потужну колонку JBL. Ніякого перезавантаження, очікування драйверів чи заміни чохлів — справжня магія modular design в епоху, коли гаджети ще намагалися дивувати.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false
@@ -210,6 +305,25 @@
       "breaking": false
     },
     {
+      "id": 14843,
+      "slug": "shparhalka-hayd-systemnyy-promt-dlya-senior-code-reviewer",
+      "title": "Шпаргалка / Гайд: Системний промт для Senior Code Reviewer",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-07T07:07:57Z",
+      "date_formatted": "7 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://yomaxxxi.github.io/assets/logo.jpg",
+      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
+      "summary": "Цей матеріал економить години робочого часу на дебагінг, закриває вразливості ще до релізу та змушує ШІ думати як досвідчений Principal Engineer, а не як звичайний чат-бот. Забудьте про поверхневі відповіді у стилі 'код виглядає добре'.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false
+    },
+    {
       "id": 14836,
       "slug": "samsung-galaxy-buds-on-yevropeyskyy-reliz-otrymav-bilsh-tochni-te",
       "title": "Samsung Galaxy Buds On: європейський реліз отримав більш точні терміни",
@@ -286,6 +400,25 @@
       "breaking": false
     },
     {
+      "id": 14476,
+      "slug": "shparhalka-hayd-yak-nalashtuvaty-mcp-model-context-protocol-u-cla",
+      "title": "Шпаргалка / Гайд: Як налаштувати MCP (Model Context Protocol) у Claude Desktop за 5 хвилин",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-06T13:40:08Z",
+      "date_formatted": "6 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://yomaxxxi.github.io/assets/logo.jpg",
+      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
+      "summary": "Цей матеріал вирішує головний біль розробників і продуктивних фахівців — як дати ШІ прямий доступ до ваших локальних файлів, баз даних та GitHub без довгих копіювань. Економія часу: мінімум 2 години на ручну налаштування та контекстне перемикання.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false
+    },
+    {
       "id": 14468,
       "slug": "4-svizhykh-ai-dodatky-tyzhnya-hid-po-novykh-utylitakh-ta-zamini-a",
       "title": "4 свіжих AI-додатки тижня: гід по нових утилітах та заміні Arc Browser",
@@ -300,6 +433,25 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/tao-browser-ai-tool-1.jpg",
       "image_caption": "Матеріали Android Authority / Офіційний реліз",
       "summary": "Ринок штучного інтелекту продовжує еволюціонувати від простих чат-ботів до глибоко інтегрованих щоденних інструментів продуктивності. Цього тижня розробники представили одразу кілька цікавих проєктів, серед яких виділяється повноцінна альтернатива популярному браузеру Arc. Користувачі все частіше шукають нестандартні рішення для оптимізації робочих процесів, і нові релізи точно заслуговують на вашу увагу.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false
+    },
+    {
+      "id": 14421,
+      "slug": "tekhnolohiyi-yaki-my-vtratyly-41-mp-sensor-i-ksenon",
+      "title": "Технології, які ми втратили: 41 Мп сенсор і ксенон",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-06T12:34:23Z",
+      "date_formatted": "6 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://yomaxxxi.github.io/assets/logo.jpg",
+      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
+      "summary": "У золоту еру Nokia мобільні камери були справжнім витвором інженерного мистецтва. Поєднання оптики Carl Zeiss та гігантської матриці давало неймовірну деталізацію без жодних алгоритмів штучного інтелекту.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false
@@ -400,6 +552,25 @@
       "breaking": false
     },
     {
+      "id": 14232,
+      "slug": "mikro-shi-dnya-phind-rozumnyy-poshukovyk-i-henerator-kodu-dlya-ro",
+      "title": "Мікро-ШІ дня: Phind — Розумний пошуковик і генератор коду для розробників",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-06T07:49:13Z",
+      "date_formatted": "6 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://yomaxxxi.github.io/assets/logo.jpg",
+      "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
+      "summary": "Більше ніяких годин пошуку рішень на форумах та перегляду застарілих гілок на StackOverflow. Цей ШІ створений спеціально для програмістів: він миттєво знаходить відповіді на складні технічні питання, розбирає помилки компілятора та пише чистий робочий код за лічені секунди.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false
+    },
+    {
       "id": 14217,
       "slug": "lehendarni-navushnyky-sony-mdr-3-povertayutsya-dyzayn-z-1980-kh-r",
       "title": "Легендарні навушники Sony MDR-3 повертаються: дизайн з 1980-х, роз'єм USB-C та доступний цінник",
@@ -415,6 +586,25 @@
       "image_caption": "Матеріали Android Authority / Офіційний реліз",
       "summary": "Епоха ретро-гаджетів продовжує завойовувати ринок аудіотехніки. Слідом за вінтажними вініловими програвачами та касетними плеєрами компанія Sony вирішила повернути до життя один із найбільш знакових продуктів своєї до-волкенової ери — легендарні навушники MDR-3. Оригінальна модель з'явилася в Японії наприкінці 1970-х і назавжди змінила уявлення про портативний звук, а тепер інженери японського гіганта адаптували культовий формфактор під сучасні реалії, зберігши впізнавану естетику.",
       "reading_time": "3 хв",
+      "featured": false,
+      "breaking": false
+    },
+    {
+      "id": 14212,
+      "slug": "shparhalka-hayd-few-shot-prompting-yak-navchyty-model-vashomu-sty",
+      "title": "Шпаргалка / Гайд: Few-Shot Prompting (Як навчити модель вашому стилю)",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-06T06:51:14Z",
+      "date_formatted": "6 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://yomaxxxi.github.io/assets/logo.jpg",
+      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
+      "summary": "Більшість розробників і користувачів пишуть промти у стилі «напиши статтю» або «зроби аналіз», а потім дивуються «воді», галюцинаціям та нудному формату. Цей матеріал економить вам години правок та вибудовує кристально чітку комунікацію з LLM завдяки техніці Few-Shot Prompting. Додавання всього 2-3 якісних прикладів підвищує точність моделі на 70% і змушує її копіювати ваш унікальний тон і структуру.",
+      "reading_time": "2 хв",
       "featured": false,
       "breaking": false
     },
@@ -452,6 +642,25 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/memory-codesign-1920x1080-1.jpg",
       "image_caption": "Матеріали Nvidia Newsroom / Офіційний реліз",
       "summary": "Зростання моделей, розширення контексту та розвиток агентських додатків створюють безпрецедентний тиск на пам'яті графічних процесорів. У світлі дефіциту та зростання цін просте збільшення кількості HBM більше не працює ефективно.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false
+    },
+    {
+      "id": 13721,
+      "slug": "shparhalka-hayd-yak-nalashtuvaty-mcp-model-context-protoco-13721",
+      "title": "Шпаргалка / Гайд: Як налаштувати MCP (Model Context Protocol) у Claude Desktop за 5 хвилин",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-05T13:35:59Z",
+      "date_formatted": "5 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://yomaxxxi.github.io/assets/logo.jpg",
+      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
+      "summary": "Цей матеріал вирішує головну проблему взаємодії ШІ з реальними файлами та базами даних без довгих копіювань. Налаштування MCP економить вам мінімум 2 години рутини щодня, даючи Claude прямий доступ до вашої локальної файлової системи, GitHub та баз даних.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false
@@ -590,6 +799,25 @@
       "breaking": false
     },
     {
+      "id": 13433,
+      "slug": "mikro-shi-dnya-krea-ai-realnyy-renderynh-za-01-sekundy",
+      "title": "Мікро-ШІ дня: Krea AI — Реальний рендеринг за 0.1 секунди",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-05T07:59:39Z",
+      "date_formatted": "5 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://yomaxxxi.github.io/assets/logo.jpg",
+      "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
+      "summary": "Більше жодних годин очікування генерації! Цей ШІ перетворює ваші примітивні скетчі та фігури пензлем зліва на фотореалістичний арт праворуч у прямому ефірі просто під час руху миші.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false
+    },
+    {
       "id": 13405,
       "slug": "v-ukrayini-startuvalo-alfa-testuvannya-servisu-nahlyadach",
       "title": "В Україні стартувало альфа-тестування сервісу «Наглядач»",
@@ -609,6 +837,25 @@
       "breaking": false
     },
     {
+      "id": 13392,
+      "slug": "shparhalka-hayd-sekret-few-shot-prompting-yak-navchyty-model-vash",
+      "title": "Шпаргалка / Гайд: Секрет Few-Shot Prompting (Як навчити модель вашому стилю)",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-05T06:31:40Z",
+      "date_formatted": "5 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://yomaxxxi.github.io/assets/logo.jpg",
+      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
+      "summary": "Більшість користувачів пишуть промти як звичайний пошуковий запит і дивуються «воді» у відповідях. Метод Few-Shot Prompting дозволяє підняти точність моделі на 70% за рахунок правильних прикладів. Цей матеріал зекономить вам години правок та ручної роботи.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false
+    },
+    {
       "id": 13354,
       "slug": "nintendos-dyzaynery-namahalysya-dosyahty-elehantnosti-pry-pererob",
       "title": "Nintendo's дизайнери намагалися досягти «елегантності» при переробці Ocarina of Time.",
@@ -623,6 +870,25 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_15_dce060.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
       "image_caption": "Матеріали The Verge / Офіційний реліз",
       "summary": "Перезапуск \"The Legend of Zelda: Ocarina of Time\" на Switch 2 збирає минуле і сьогодення. Гра зберігає багато елементів оригінальної N64 версії, але оновлюється за допомогою сучасних графічних і геймплейних елементів, що надають їй сучасний вигляд.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false
+    },
+    {
+      "id": 12964,
+      "slug": "shparhalka-hayd-yak-bezkoshtovno-zapustyty-modeli-deepseek-ta-lla",
+      "title": "Шпаргалка / Гайд: Як безкоштовно запустити моделі DeepSeek та LLaMA локально на ПК через Ollama",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-04T13:42:19Z",
+      "date_formatted": "4 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://yomaxxxi.github.io/assets/logo.jpg",
+      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
+      "summary": "Лід: Материал допоможе розгорнути найпотужніші відкриті мовні моделі прямо на вашому комп'ютері безкоштовно, без підписок і повної конфденциальності даних. Економить години пошуку софту та біля 20-50$ щомісяця на API, а налаштування займає рівно 10 хвилин.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false
@@ -761,6 +1027,25 @@
       "breaking": false
     },
     {
+      "id": 12702,
+      "slug": "mikro-shi-dnya-pinokio-avtomatychnyy-zapusk-bud-yakykh-shi-lokaln",
+      "title": "Мікро-ШІ дня: Pinokio — Автоматичний запуск будь-яких ШІ локально",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-04T07:48:04Z",
+      "date_formatted": "4 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://yomaxxxi.github.io/assets/logo.jpg",
+      "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
+      "summary": "Більше жодних танців із бубном навколо термінала, помилок Python, віртуальних середовищ і ручної установки CUDA. Цей інструмент дозволяє встановлювати та запускати ComfyUI, Stable Diffusion, Whisper та складних агентів в один клік прямо у зручному браузері.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false
+    },
+    {
       "id": 12682,
       "slug": "polyuvannya-na-tokeny-novi-virusy-infostilery-vykradayut-akaunty-",
       "title": "Полювання на токени: нові віруси-інфостілери викрадають акаунти ChatGPT, Claude та Copilot",
@@ -775,6 +1060,44 @@
       "image": "https://dev.ua/storage/images/42/58/46/08/derived/842c976bd2e6e4911ebb4ac72d268a0a.webp",
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Кіберзлочинці змінили вектор атак: тепер під прицілом не лише стандартні паролі в браузерах, а й персональні акаунти штучного інтелекту та ключі розробників.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false
+    },
+    {
+      "id": 12683,
+      "slug": "shparhalka-hayd-technical-writer-henerator-idealnoho-readm-12683",
+      "title": "Шпаргалка / Гайд: Technical Writer (Генератор ідеального README та API docs)",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-04T06:35:07Z",
+      "date_formatted": "4 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://yomaxxxi.github.io/assets/logo.jpg",
+      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
+      "summary": "Більшість розробників ненавидять писати документацію, а код без якісного README залишається мертвим вантажем для команди чи відкритих проєктів. Цей системний промт перетворює сирий код, шматки логів чи список ендпоінтів на преміальну технічну документацію у стилі Stripe та Vercel за лічені хвилини, економлячи вам години ручної рутини.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false
+    },
+    {
+      "id": 12647,
+      "slug": "ostanniy-onovlennya-prylozhenyya-sonos-mozhe-dopomohty-vam-shvyds",
+      "title": "Останній оновлення приложения Sonos може допомогти вам швидше виправити конфігурацію динаміків, але є натяк.",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-04T06:05:38Z",
+      "date_formatted": "4 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://yomaxxxi.github.io/assets/logo.jpg",
+      "image_caption": "Матеріали Android Authority / Офіційний реліз",
+      "summary": "Sonos випустив нову версію додатка Sonos з кількома новими функціями. Він додав Піздижки, які дозволяють почати грати музику в вибраному кімнаті з відповідною гучністю, просто натиснувши.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false
@@ -799,343 +1122,20 @@
       "breaking": false
     },
     {
-      "id": 12122,
-      "slug": "tekhnolohiyi-yaki-my-vtratyly-mahnitnyy-magsafe-u-macbook",
-      "title": "Технології, які ми втратили: Магнітний MagSafe у MacBook",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-03T12:57:30Z",
-      "date_formatted": "3 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/T-shaped_and_L-shaped_MagSafe_1_connectors.jpg",
-      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
-      "summary": "Цей геніальний винахід рятував тисячі ноутбуків від катастрофи щодня. Хтось у кав'ярні чи офісі чіпляв ногою дріт живлення — і кабель м'яко відклацнувся без жодної шкоди для техніки. MacBook залишався на столі, а не летів на бетонну підлогу. Магічне світлодіодне підсвічування червоним або зеленим кольором одразу показувало статус заряду.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false
-    },
-    {
-      "id": 12085,
-      "slug": "5-holovnykh-fishok-ios-27-shcho-varto-uvimknuty-ta-sprobuvaty-pis",
-      "title": "5 головних фішок iOS 27: що варто увімкнути та спробувати після оновлення",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-03T12:31:12Z",
-      "date_formatted": "3 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://www.engadget.com/img/gallery/5-iphone-features-you-should-be-using-after-updating-to-ios-27/l-intro-1793592703.jpg",
-      "image_caption": "Матеріали Engadget / Офіційний реліз",
-      "summary": "Оновлення принесло не лише оптимізацію та виправлення помилок, а й низку практичних функцій, які легко пропустити в налаштуваннях.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false
-    },
-    {
-      "id": 11988,
-      "slug": "proryv-chy-zahroza-shi-model-vid-42ai-peredbachaye-povedinku-lyud",
-      "title": "Прорив чи загроза: ШІ-модель від 42AI передбачає поведінку людей із точністю 98%",
+      "id": 12163,
+      "slug": "shparhalka-hayd-heneratsiya-conventional-commits-dlya-git-za-dopo",
+      "title": "Шпаргалка / Гайд: Генерація Conventional Commits для Git за допомогою LLM CLI",
       "category": "Штучний Інтелект",
       "category_slug": "ai",
-      "date": "2026-11-03T11:14:59Z",
+      "date": "2026-11-03T13:35:08Z",
       "date_formatted": "3 листопада 2026",
       "author": {
         "name": "Михайло Поливаний",
         "role": "Головний редактор"
       },
-      "image": "https://dev.ua/storage/images/25/23/59/56/derived/7b1ab43e70890339a5ebc5b7c518162f.webp",
-      "image_caption": "Матеріали dev.ua / Офіційний реліз",
-      "summary": "Технологічний світ знову на межі етичної дилеми: ізраїльський стартап 42AI анонсував розробку інноваційної нейромережі, здатної з неймовірною точністю прогнозувати прийняття рішень людиною. Алгоритм здатний моделювати поведінку у повністю нових ситуаціях, з якими індивід ніколи раніше не стикався.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false
-    },
-    {
-      "id": 11967,
-      "slug": "github-perlyna-dnya-d4vinciscrapling-potuzhnyy-suchasnyy-python-f",
-      "title": "GitHub-перлина дня: D4Vinci/Scrapling — потужний сучасний Python-фреймворк для веб-скрапінгу, який замінює громіздкі связки з Beautiful Soup, Selenium та дорогі SaaS-рішення для обходу захисту!",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-03T10:27:03Z",
-      "date_formatted": "3 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/1/D4Vinci/Scrapling",
-      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
-      "summary": "Сучасний вейб побудований на важких SPA, Cloudflare, капчах та динамічному JS. Через це класичний скрапінг ламається, а налаштування headless-браузерів чи купівля дорогих SaaS-пайплайнів б'є по бюджету. Scrapling вирішує цей біль повністю, об'єднуючи швидкі HTTP-запити, стелс-браузери, адаптивний парсинг і паралельний кравлінг в одній надшвидкій Python-бібліотеці.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false
-    },
-    {
-      "id": 11940,
-      "slug": "epokha-quest-2-ta-pro-dobihaye-kintsya-meta-oholosyla-terminy-zav",
-      "title": "Епоха Quest 2 та Pro добігає кінця: Meta оголосила терміни завершення підтримки",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-03T10:00:47Z",
-      "date_formatted": "3 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://img.mezha.ua/mezha/images/doc/0/8/332909/0808341dd41b6ede03a071d1d59de20e.jpeg",
-      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
-      "summary": "Компанія Meta офіційно окреслила фінальний етап життєвого циклу своїх попередніх поколінь гарнітур віртуальної реальності. Легендарні пристрої поступово поступаються місцем новітній лінійці з підтримкою змішаної реальності.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false
-    },
-    {
-      "id": 11892,
-      "slug": "anthropic-rozshyryuye-systemu-vodyanykh-znakiv-dlya-starishykh-mo",
-      "title": "Anthropic розширює систему водяних знаків для старіших моделей Claude",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-03T08:08:30Z",
-      "date_formatted": "3 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://dev.ua/storage/images/16/23/34/29/derived/f2b5c12823921fc475ea846fb8d5bf5f.webp",
-      "image_caption": "Матеріали dev.ua / Офіційний реліз",
-      "summary": "Компанія Anthropic продовжує впроваджувати заходи безпеки та автентифікації контенту, поширюючи невидимі маркування на попередні версії своїх штучних інтелектів.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false
-    },
-    {
-      "id": 11873,
-      "slug": "hlobalnyy-defitsyt-iphone-duo-apple-ne-prohnozuye-terminiv-stabil",
-      "title": "Глобальний дефіцит iPhone Duo: Apple не прогнозує термінів стабілізації",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-03T07:18:22Z",
-      "date_formatted": "3 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://img.mezha.ua/mezha/images/doc/a/8/332908/a877c964c43acc810119a85294461c24.jpeg",
-      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
-      "summary": "Інноваційний складаний гадрег від купертинівців зіткнувся з безпрецедентним попитом, який повністю паралізував виробничі потужності ланцюжка постачань компанії.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false
-    },
-    {
-      "id": 11822,
-      "slug": "apple-zarobyla-na-iphone-rekordni-576-mlrd-dopomohly-dorozhchi-mo",
-      "title": "Apple заробила на iPhone рекордні $57,6 млрд – допомогли дорожчі моделі",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-03T06:06:53Z",
-      "date_formatted": "3 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://img.mezha.ua/mezha/images/doc/b/1/332907/b192d4d2807984866877f2c5baa3971b.jpeg",
-      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
-      "summary": "Apple встановила рекорд продажів iPhone, заробивши $57,58 млрд за квартал навіть без нової базової моделі. Загальний дохід компанії зріс на 12% – до $114,5 млрд, попри подорожчання пам'яті та проблеми з постачанням.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false
-    },
-    {
-      "id": 11316,
-      "slug": "intsydent-bezpeky-u-nvidia-brev-pid-zahrozoyu-opynylysya-ssh-klyu",
-      "title": "Інцидент безпеки у NVIDIA Brev: під загрозою опинилися SSH-ключі клієнтських віртуальних машин",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-02T12:19:51Z",
-      "date_formatted": "2 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://cdn.mos.cms.futurecdn.net/m9yYaGTygKCKaxm9GgKnKV-1920-80.png",
-      "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
-      "summary": "Індустрія хмарних обчислень та AI-інфраструктури зіткнулася з черговим тривожним інцидентом. Компанія NVIDIA офіційно підтвердила розслідування несанкціонованої активності на своїй платформі хмарної розробки Brev. За даними внутрішнього аудиту, зловмисники мали потенційний доступ до систем протягом 16 днів, що створює серйозні ризики для конфіденційності даних користувачів. Подібні інциденти вкотре підкреслюють вразливість централізованих середовищ розробки, які стають ласим шматком для кіберзлочинців на тлі буму штучного інтелекту.",
-      "reading_time": "3 хв",
-      "featured": false,
-      "breaking": false
-    },
-    {
-      "id": 11220,
-      "slug": "github-perlyna-dnya-paperclipaipaperclip-vidkryta-platforma-dlya-",
-      "title": "GitHub-перлина дня: paperclipai/paperclip — відкрита платформа для управління командами ШІ-агентів у реальному бізнесі, що замінює дорогі корпоративні SaaS-платформи для оркестрації ботів",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-02T10:10:54Z",
-      "date_formatted": "2 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/1/paperclipai/paperclip",
-      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
-      "summary": "Розробники все частіше запускають не поодинокі експерименти з LLM, а цілі автономні команди ботів. Але координувати їхню роботу — справжній хаос. Paperclip вирішує це, пропонуючи повноцінний open-source двигун (Node.js + React UI), який перетворює набір ізольованих агентів на згуртовану компанію з оргструктурою, бюджетами та дедлайнами.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false
-    },
-    {
-      "id": 11216,
-      "slug": "yak-peretvoryty-staryy-raspberry-pi-na-idealne-internet-radio-dly",
-      "title": "Як перетворити старий Raspberry Pi на ідеальне інтернет-радіо для кухні без голосових асистентів",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-02T10:07:31Z",
-      "date_formatted": "2 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/building-internet-radio-station-with-raspberry-pi-and-speaker.JPG",
-      "image_caption": "Матеріали XDA Developers / Офіційний реліз",
-      "summary": "Сучасні кухні часто перевантажені розумними колонками, які постійно слухають нас у пошуках активаційного слова. Коли готуєш їжу чи миєш посуд, найменше хочеться вести діалог зі штучним інтелектом лише для того, щоб увімкнути улюблений аудіопотік чи новини. Бажання позбутися зайвих хмарних акаунтів, додатків із набридливими оновленнями та мікрофонів спонукало багатьох ентузіастів згадати про старе «залізо», що роками пилиться у шухлядах, та створити унікальний кастомний гаджет своїми руками.",
-      "reading_time": "3 хв",
-      "featured": false,
-      "breaking": false
-    },
-    {
-      "id": 11158,
-      "slug": "krytychna-zahroza-kryptoaktyvam-khakery-atakuyut-korystuvachiv-bt",
-      "title": "Критична загроза криптоактивам: хакери атакують користувачів BTCPay Server",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-02T08:51:34Z",
-      "date_formatted": "2 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://dev.ua/storage/images/17/29/56/66/derived/8a86752536f137115186b255e5c183ea.webp",
-      "image_caption": "Матеріали dev.ua / Офіційний реліз",
-      "summary": "Популярний сервіс для обробки платежів у біткоїнах опинився в епіцентрі масштабної кібератаки. Зловмисники активно експлуатують уразливості та викрадають кошти користувачів, змушуючи розробників вдатися до екстрених заходів безпеки.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false
-    },
-    {
-      "id": 11129,
-      "slug": "masshtabna-uhoda-u-fintekhu-w-group-volodymyra-nosova-investuvala",
-      "title": "Масштабна угода у фінтеху: W Group Володимира Носова інвестувала $400 млн у США",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-02T07:36:23Z",
-      "date_formatted": "2 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://dev.ua/storage/images/15/11/49/44/derived/2d07e7059718b48c643d402c777fbb7e.webp",
-      "image_caption": "Матеріали dev.ua / Офіційний реліз",
-      "summary": "Український бізнес продовжує гучно заявляти про себе на глобальній арені, уклавши одну з найзнаковіших венчурних угод поточного року в американському технологічному секторі.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false
-    },
-    {
-      "id": 11067,
-      "slug": "jackery-predstavyla-naymenshu-portatyvnu-elektrostantsiyu-v-istor",
-      "title": "Jackery представила найменшу портативну електростанцію в історії бренду",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-02T04:05:04Z",
-      "date_formatted": "2 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/jackery1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-      "image_caption": "Матеріали The Verge / Офіційний реліз",
-      "summary": "Компанія Jackery знову розширює межі мобільної енергетики, анонсувавши ультракомпактну зарядну станцію, яка поміститься навіть у кишені куртки чи невеликому рюкзаку, забезпечуючи надійне резервне живлення в будь-яких умовах.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false
-    },
-    {
-      "id": 10898,
-      "slug": "biwin-m560-2-tb-ssd-novyy-etalon-sered-bezbufernykh-nakopychuvach",
-      "title": "Biwin M560 2 ТБ SSD: новий еталон серед безбуферних накопичувачів",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-01T14:43:51Z",
-      "date_formatted": "1 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://cdn.mos.cms.futurecdn.net/9739tEjY7imERJsLeBjqZG-2560-80.jpg",
-      "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
-      "summary": "Ринок швидкісних накопичувачів поповнився вкрай цікавою новинкою, яка кидає виклик дорожчим аналогам.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false
-    },
-    {
-      "id": 10845,
-      "slug": "bytva-za-pamyat-sem-altman-zustrivsya-z-kerivnytstvom-samsung",
-      "title": "Битва за пам'ять: Сем Альтман зустрівся з керівництвом Samsung",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-01T13:31:23Z",
-      "date_formatted": "1 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://cdn.mos.cms.futurecdn.net/rw7Lei27qRFKGy9CThFftZ-2000-80.jpg",
-      "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
-      "summary": "Генеральний директор OpenAI вирушив до Південної Кореї для вирішення найкритичнішої проблеми сучасної індустрії штучного інтелекту — глобального дефіциту високошвидкісної пам'яті для дата-центрів.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false
-    },
-    {
-      "id": 10834,
-      "slug": "tekhnolohiyi-yaki-my-vtratyly-znimni-akumulyatory",
-      "title": "Технології, які ми втратили: Знімні акумулятори",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-01T12:41:20Z",
-      "date_formatted": "1 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/LG_Friends.jpg",
-      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
-      "summary": "Ніяких павербанків і проводів у дорозі — ви носите в кишені тонку запасну батарейку вагою 40 грамів. Телефон розрядився? Зняли пластикову кришку на засувках, замінили блок, увімкнули — і знову маєте 100% заряду за 10 секунд простою.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false
-    },
-    {
-      "id": 10829,
-      "slug": "evolyutsiya-avtonomnosti-macbook-pro-porivnyannya-2011-ta-2026-ro",
-      "title": "Еволюція автономності MacBook Pro: порівняння 2011 та 2026 років",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-01T12:27:40Z",
-      "date_formatted": "1 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://www.engadget.com/img/gallery/macbook-pro-battery-life-in-2011-vs-2026-how-much-has-it-really-improved-in-15-years/l-intro-1793038213.jpg",
-      "image_caption": "Матеріали Engadget / Офіційний реліз",
-      "summary": "Час летить стрімко, а технології еволюціонують ще швидше. Редакція вирішила порівняти легендарний 15-дюймовий MacBook Pro зразка 2011 року та сучасний MacBook Pro 16\" (M5 Max), щоб наочно побачити, наскільки змінилася автономність за 15 років.",
+      "image": "https://yomaxxxi.github.io/assets/logo.jpg",
+      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
+      "summary": "Лід: Набридло витрачати час на вигадування назв для комітів? Цей гайд покаже, як налаштувати автоматичну генерацію чітких та професійних commit messages за стандартом Conventional Commits (feat, fix, refactor) на основі вашого git diff. Заощаджуйте до 20 хвилин щодня та тримайте історію репозиторію в ідеальному порядку.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false
