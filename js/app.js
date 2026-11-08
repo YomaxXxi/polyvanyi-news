@@ -82,6 +82,7 @@
     elements.mobileMenuBtn = document.getElementById('mobile-menu-btn');
     elements.closeMobileMenuBtn = document.getElementById('close-mobile-menu-btn');
     elements.openSearchBtn = document.getElementById('open-search-btn');
+    elements.mobileOpenSearchBtn = document.getElementById('mobile-open-search-btn');
     elements.closeSearchBtn = document.getElementById('close-search-btn');
     elements.currentCategoryTitle = document.getElementById('current-category-title');
     elements.currentCategoryCount = document.getElementById('current-category-count');
@@ -188,6 +189,13 @@
       }
       if (searchQuery) {
         state.searchQuery = searchQuery;
+      }
+      if (params.get('search') === '1' || searchQuery) {
+        setTimeout(openSearchModal, 80);
+        if (searchQuery && elements.searchInput) {
+          elements.searchInput.value = searchQuery;
+          performSearch(searchQuery);
+        }
       }
       showHomeView();
     }
@@ -700,6 +708,12 @@
     // Search Trigger & Modal
     if (elements.openSearchBtn) {
       elements.openSearchBtn.addEventListener('click', openSearchModal);
+    }
+    if (elements.mobileOpenSearchBtn) {
+      elements.mobileOpenSearchBtn.addEventListener('click', () => {
+        closeMobileMenu();
+        openSearchModal();
+      });
     }
     if (elements.closeSearchBtn) {
       elements.closeSearchBtn.addEventListener('click', closeSearchModal);
