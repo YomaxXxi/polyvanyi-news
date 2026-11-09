@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Mon, 09 Nov 2026 10:45:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 11:56:09 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Дефіцит пам&#x27;яті змушує виробників повторно використовувати чипи зі старих пристроїв</title>
+      <link>https://yomaxxxi.github.io/news/defitsyt-pamyati-zmushuye-vyrobnykiv-povtorno-vykorystovuvaty-chy/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/defitsyt-pamyati-zmushuye-vyrobnykiv-povtorno-vykorystovuvaty-chy/</guid>
+      <pubDate>Mon, 09 Nov 2026 11:56:09 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Через стрімке зростання цін на компонентну базу ринок смартфонів шукає нові шляхи економії.</description>
+    </item>
     <item>
       <title>Скрипт ram-altman: скаржимося Сему Алтману на недостатнє використання оперативної пам&#x27;яті</title>
       <link>https://yomaxxxi.github.io/news/skrypt-ram-altman-skarzhymosya-semu-altmanu-na-nedostatnye-vykory/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 07 Nov 2026 07:33:48 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Кожен українець тепер може зробити свій внесок у розвиток вітчизняних технологій штучного інтелекту без жодного технічного досвіду.</description>
-    </item>
-    <item>
-      <title>Шпаргалка / Гайд: Системний промт для Senior Code Reviewer</title>
-      <link>https://yomaxxxi.github.io/news/shparhalka-hayd-systemnyy-promt-dlya-senior-code-reviewer/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/shparhalka-hayd-systemnyy-promt-dlya-senior-code-reviewer/</guid>
-      <pubDate>Sat, 07 Nov 2026 07:07:57 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Цей матеріал економить години робочого часу на дебагінг, закриває вразливості ще до релізу та змушує ШІ думати як досвідчений Principal Engineer, а не як звичайний чат-бот. Забудьте про поверхневі відповіді у стилі &#x27;код виглядає добре&#x27;.</description>
     </item>
   </channel>
 </rss>

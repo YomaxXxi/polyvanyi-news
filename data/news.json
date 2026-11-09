@@ -1,6 +1,25 @@
 {
   "articles": [
     {
+      "id": 15726,
+      "slug": "defitsyt-pamyati-zmushuye-vyrobnykiv-povtorno-vykorystovuvaty-chy",
+      "title": "Дефіцит пам'яті змушує виробників повторно використовувати чипи зі старих пристроїв",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-09T11:56:09Z",
+      "date_formatted": "9 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://cdn.mos.cms.futurecdn.net/n2zquDeZTzsf5MTjgwrqJc-1920-80.jpg",
+      "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
+      "summary": "Через стрімке зростання цін на компонентну базу ринок смартфонів шукає нові шляхи економії.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true
+    },
+    {
       "id": 15677,
       "slug": "skrypt-ram-altman-skarzhymosya-semu-altmanu-na-nedostatnye-vykory",
       "title": "Скрипт ram-altman: скаржимося Сему Алтману на недостатнє використання оперативної пам'яті",
@@ -16,7 +35,7 @@
       "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
       "summary": "З'явився кумедний інструмент, який карає користувачів за занадто вільну оперативну пам'ять на ПК.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true
     },
     {
@@ -55,7 +74,7 @@
       "summary": "Компанія Synaptics надіслала листа про припинення діяльності розробнику-хобісту Ма Ксу Лотіану через його проект відкритих джерел Vino.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true
+      "breaking": false
     },
     {
       "id": 15583,
@@ -1117,25 +1136,6 @@
       "image": "https://opengraph.githubassets.com/1/D4Vinci/Scrapling",
       "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
       "summary": "Сучасний вейб побудований на важких SPA, Cloudflare, капчах та динамічному JS. Через це класичний скрапінг ламається, а налаштування headless-браузерів чи купівля дорогих SaaS-пайплайнів б'є по бюджету. Scrapling вирішує цей біль повністю, об'єднуючи швидкі HTTP-запити, стелс-браузери, адаптивний парсинг і паралельний кравлінг в одній надшвидкій Python-бібліотеці.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false
-    },
-    {
-      "id": 11940,
-      "slug": "epokha-quest-2-ta-pro-dobihaye-kintsya-meta-oholosyla-terminy-zav",
-      "title": "Епоха Quest 2 та Pro добігає кінця: Meta оголосила терміни завершення підтримки",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-03T10:00:47Z",
-      "date_formatted": "3 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://img.mezha.ua/mezha/images/doc/0/8/332909/0808341dd41b6ede03a071d1d59de20e.jpeg",
-      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
-      "summary": "Компанія Meta офіційно окреслила фінальний етап життєвого циклу своїх попередніх поколінь гарнітур віртуальної реальності. Легендарні пристрої поступово поступаються місцем новітній лінійці з підтримкою змішаної реальності.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false
