@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Mon, 09 Nov 2026 08:27:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 09:29:05 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Конфлікт навколо DisplayLink: Synaptics вимагає закрити відкритий драйвер</title>
+      <link>https://yomaxxxi.github.io/news/konflikt-navkolo-displaylink-synaptics-vymahaye-zakryty-vidkrytyy/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/konflikt-navkolo-displaylink-synaptics-vymahaye-zakryty-vidkrytyy/</guid>
+      <pubDate>Mon, 09 Nov 2026 09:29:05 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Компанія Synaptics надіслала листа про припинення діяльності розробнику-хобісту Ма Ксу Лотіану через його проект відкритих джерел Vino.</description>
+    </item>
     <item>
       <title>Українізація Mass Effect: SBT Localization береться за культову трилогію</title>
       <link>https://yomaxxxi.github.io/news/ukrayinizatsiya-mass-effect-sbt-localization-beretsya-za-kultovu-/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 07 Nov 2026 05:01:36 +0000</pubDate>
       <category>Техніка</category>
       <description>Власники класичних систем розумного дому зіткнулися з масовим збоєм, який повністю паралізував трансляцію відео в реальному часі. Проблема зачепила перше покоління дверних дзвінків від пошукового гіганта, відомих як Nest Hello або Nest Doorbell (wired, 1st gen). Користувачі масово скаржаться на те, що додаток Google Home більше не показує живий ефір з камери, хоча базові сповіщення та інтеграція з іншими пристроями продовжують працювати.</description>
-    </item>
-    <item>
-      <title>iOS 27: користувачі масово скаржаться на проблеми з виведенням відео через HDMI</title>
-      <link>https://yomaxxxi.github.io/news/ios-27-korystuvachi-masovo-skarzhatsya-na-problemy-z-vyvedennyam-/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/ios-27-korystuvachi-masovo-skarzhatsya-na-problemy-z-vyvedennyam-/</guid>
-      <pubDate>Sat, 07 Nov 2026 04:00:15 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Оновлення мобільної операційної системи від Apple традиційно супроводжуються технічними нюансами, проте цього разу власники iPhone стикнулися з неприємним апаратним збоєм. На профільних форумах та Reddit дедалі більше користувачів повідомляють про повну відсутність стабільного сигналу під час підключення смартфонів до зовнішніх екранів і моніторів через дріт.</description>
     </item>
   </channel>
 </rss>

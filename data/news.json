@@ -1,6 +1,25 @@
 {
   "articles": [
     {
+      "id": 15610,
+      "slug": "konflikt-navkolo-displaylink-synaptics-vymahaye-zakryty-vidkrytyy",
+      "title": "Конфлікт навколо DisplayLink: Synaptics вимагає закрити відкритий драйвер",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-09T09:29:05Z",
+      "date_formatted": "9 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://cdn.mos.cms.futurecdn.net/2UAKwnmLDdHNiioqp6MpYE-1920-80.png",
+      "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
+      "summary": "Компанія Synaptics надіслала листа про припинення діяльності розробнику-хобісту Ма Ксу Лотіану через його проект відкритих джерел Vino.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true
+    },
+    {
       "id": 15583,
       "slug": "ukrayinizatsiya-mass-effect-sbt-localization-beretsya-za-kultovu-",
       "title": "Українізація Mass Effect: SBT Localization береться за культову трилогію",
@@ -16,7 +35,7 @@
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Відома українська локалізаційна спілка SBT Localization («Шлякбитраф»), яка раніше подарувала гравцям офіційний переклад Baldur’s Gate 3, офіційно анонсувала роботу над масштабним українізатором для Mass Effect Legendary Edition.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true
     },
     {
@@ -55,7 +74,7 @@
       "summary": "Протягом багатьох років інженери по всьому світу фіксували дивні аномалії: рівно кожні 60 секунд частота в енергомережах різних країн і континентів трохи знижувалася. Група вчених під керівництвом Дірка Вітхаута нарешті з'ясувала причину цього глобального явища.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true
+      "breaking": false
     },
     {
       "id": 15449,
@@ -1117,25 +1136,6 @@
       "image": "https://img.mezha.ua/mezha/images/doc/a/8/332908/a877c964c43acc810119a85294461c24.jpeg",
       "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
       "summary": "Інноваційний складаний гадрег від купертинівців зіткнувся з безпрецедентним попитом, який повністю паралізував виробничі потужності ланцюжка постачань компанії.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false
-    },
-    {
-      "id": 11822,
-      "slug": "apple-zarobyla-na-iphone-rekordni-576-mlrd-dopomohly-dorozhchi-mo",
-      "title": "Apple заробила на iPhone рекордні $57,6 млрд – допомогли дорожчі моделі",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-03T06:06:53Z",
-      "date_formatted": "3 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://img.mezha.ua/mezha/images/doc/b/1/332907/b192d4d2807984866877f2c5baa3971b.jpeg",
-      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
-      "summary": "Apple встановила рекорд продажів iPhone, заробивши $57,58 млрд за квартал навіть без нової базової моделі. Загальний дохід компанії зріс на 12% – до $114,5 млрд, попри подорожчання пам'яті та проблеми з постачанням.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false
