@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Mon, 09 Nov 2026 12:31:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 13:24:11 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Боротьба за правду: анонсовано прототип камери CAIM1 проти фейків від ШІ</title>
+      <link>https://yomaxxxi.github.io/news/borotba-za-pravdu-anonsovano-prototyp-kamery-caim1-proty-feykiv-v/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/borotba-za-pravdu-anonsovano-prototyp-kamery-caim1-proty-feykiv-v/</guid>
+      <pubDate>Mon, 09 Nov 2026 13:24:11 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Стартап CAIM1 створює унікальний інструмент для відновлення довіри до цифрових зображень на тлі епідемії глибоких підробок.</description>
+    </item>
     <item>
       <title>Технології, які ми втратили: Вбудований FM-трансмітер</title>
       <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-vbudovanyy-fm-transmiter/</link>
@@ -36,7 +44,7 @@
       <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-zhulinsendaily-stock-analysis-llm-systema-dly/</link>
       <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-zhulinsendaily-stock-analysis-llm-systema-dly/</guid>
       <pubDate>Mon, 09 Nov 2026 10:01:13 +0000</pubDate>
-      <category>Open Source</category>
+      <category>Штучний Інтелект</category>
       <description>Інвестори та трейдери щодня витрачають години на збір ринкових даних, читання новин та побудову технічних індикаторів. Цей проєкт повністю автоматизує рутину, замінюючи дороговартісні термінали та підписки на закриті SaaS-платформи для фінтех-аналітики. Інструмент стрімко увірвався в тренди завдяки поєднанню штучного інтелекту з мультиджерельним трекінгом ринків без потреби у платних серверах.</description>
     </item>
     <item>
@@ -132,7 +140,7 @@
       <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-sherlock-projectsherlock-potuzhnyy-osint-inst/</link>
       <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-sherlock-projectsherlock-potuzhnyy-osint-inst/</guid>
       <pubDate>Sun, 08 Nov 2026 10:06:16 +0000</pubDate>
-      <category>Open Source</category>
+      <category>Штучний Інтелект</category>
       <description>Розслідуєте кібербезпеку, перевіряєте цифрову гігієну чи шукаєте цифрові сліди? Sherlock миттєво сканує понад 400 соцмереж і платформ за єдиним іменем користувача.</description>
     </item>
     <item>
@@ -148,7 +156,7 @@
       <link>https://yomaxxxi.github.io/news/solipsism-browser-innovatsiynyy-vidkrytyy-brauzer-dlya-android-ne/</link>
       <guid isPermaLink="true">https://yomaxxxi.github.io/news/solipsism-browser-innovatsiynyy-vidkrytyy-brauzer-dlya-android-ne/</guid>
       <pubDate>Sun, 08 Nov 2026 08:39:08 +0000</pubDate>
-      <category>Open Source</category>
+      <category>Техніка</category>
       <description>Шукаєте справжню приватну заміну Google Chrome? Зверніть увагу на Solipsism Browser — новий open-source веб-оглядач для Android, який свідомо поширюється поза Google Play Store та ламає звичні принципи мобільного серфінгу.</description>
     </item>
     <item>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 07 Nov 2026 09:42:42 +0000</pubDate>
       <category>Техніка</category>
       <description>Нові медичні інструменти від екосистеми Google вражають своїми можливостями діагностики, проте експерти закликають користувачів дуже уважно читати дрібний шрифт у ліцензійних угодах перед тим, як довіряти алгоритмам власне здоров&#x27;я.</description>
-    </item>
-    <item>
-      <title>Apple TV продовжує кулінарний хіт «Knife Edge: Chasing Michelin Stars» на третій сезон</title>
-      <link>https://yomaxxxi.github.io/news/apple-tv-prodovzhuye-kulinarnyy-khit-knife-edge-chasing-michelin-/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/apple-tv-prodovzhuye-kulinarnyy-khit-knife-edge-chasing-michelin-/</guid>
-      <pubDate>Sat, 07 Nov 2026 08:37:59 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Стрімінговий сервіс Apple продовжує зміцнювати свої позиції в ніші якісного документального та розважального контенту. Одразу після гучного завершення другого сезону шоу про боротьбу ресторанів за найпрестижніші гастрономічні відзнаки отримало офіційне замовлення на продовження. Проєкт, створений за участі Topjaw та зусиллями зіркової команди продюсерів, завоював неймовірну популярність серед глядачів по всьому світу завдяки чесному погляду на закулісся високої кухні.</description>
     </item>
   </channel>
 </rss>
