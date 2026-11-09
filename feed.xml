@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Mon, 09 Nov 2026 04:43:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 05:55:05 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Загадка світових електромереж розгадана: чому частота падає кожні 60 секунд</title>
+      <link>https://yomaxxxi.github.io/news/zahadka-svitovykh-elektromerezh-rozhadana-chomu-chastota-padaye-k/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/zahadka-svitovykh-elektromerezh-rozhadana-chomu-chastota-padaye-k/</guid>
+      <pubDate>Mon, 09 Nov 2026 05:55:05 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Протягом багатьох років інженери по всьому світу фіксували дивні аномалії: рівно кожні 60 секунд частота в енергомережах різних країн і континентів трохи знижувалася. Група вчених під керівництвом Дірка Вітхаута нарешті з&#x27;ясувала причину цього глобального явища.</description>
+    </item>
     <item>
       <title>Чому емуляція аркадних ігор складніша за консолі: уроки від MAME</title>
       <link>https://yomaxxxi.github.io/news/chomu-emulyatsiya-arkadnykh-ihor-skladnisha-za-konsoli-uroky-vid-/</link>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 06 Nov 2026 12:34:23 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>У золоту еру Nokia мобільні камери були справжнім витвором інженерного мистецтва. Поєднання оптики Carl Zeiss та гігантської матриці давало неймовірну деталізацію без жодних алгоритмів штучного інтелекту.</description>
-    </item>
-    <item>
-      <title>ШІ гальмує кар’єру junior-розробників: експерт AWS попередив про приховані ризики індустрії</title>
-      <link>https://yomaxxxi.github.io/news/shi-halmuye-karyeru-junior-rozrobnykiv-ekspert-aws-poperedyv-pro-/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/shi-halmuye-karyeru-junior-rozrobnykiv-ekspert-aws-poperedyv-pro-/</guid>
-      <pubDate>Fri, 06 Nov 2026 12:19:44 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Сучасні інструменти штучного інтелекту змінюють правила гри в IT-сфері, проте їхня масова інтеграція створює серйозні виклики для новачків. Через автоматизацію базових завдань програмування молодші спеціалісти ризикують втратити можливість здобути критично важливий практичний досвід, який раніше був фундаментом для переходу на senior-позиції. Водночас вимоги ринку праці до junior-розробників за останні роки суттєво зросли, що створює розрив між очікуваннями роботодавців та реальною підготовкою кадрів.</description>
     </item>
   </channel>
 </rss>
