@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 16018,
+      "slug": "github-perlyna-dnya-vercel-labsagent-browser-natyvna-cli-utylita-",
+      "title": "GitHub-перлина дня: vercel-labs/agent-browser — Нативна CLI-утиліта на Rust для керування браузером штучним інтелектом (заміна повільним Puppeteer/Playwright скриптам)",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-09T17:03:10Z",
+      "date_formatted": "9 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/1/vercel-labs/agent-browser",
+      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
+      "summary": "Розробники AI-агентів знають біль: змусити LLM клікати по сайтах через важкі обгортки на кшталт Puppeteer чи Selenium — це повільно, дорого по токенах і постійно ламається. Vercel Labs випустила нативний інструмент, який дає агенту повноцінний браузер прямо через CLI.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": "https://github.com/vercel-labs/agent-browser",
+      "github_repo": "vercel-labs/agent-browser"
+    },
+    {
       "id": 15821,
       "slug": "shparhalka-hayd-shvydke-prototypuvannya-interfeysiv-cherez-v0dev-",
       "title": "Шпаргалка / Гайд: Швидке прототипування інтерфейсів через v0.dev та Bolt.new",
@@ -37,7 +58,7 @@
       "image_caption": "Матеріали Engadget / Офіційний реліз",
       "summary": "Стартап CAIM1 створює унікальний інструмент для відновлення довіри до цифрових зображень на тлі епідемії глибоких підробок.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -80,7 +101,7 @@
       "summary": "Через стрімке зростання цін на компонентну базу ринок смартфонів шукає нові шляхи економії.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/boox-go-6-sunlights-scaled.jpg",
       "image_caption": "Матеріали Android Authority / Офіційний реліз",
       "summary": "Сучасні смартфони стали універсальними інструментами, але для вдумливого читання вони абсолютно не пристосовані. Постійні нові нові сповіщення, рекламні пуші та шкідливі звички скролінгу розривають нашу увагу на частини. Навіть найкращі OLED-панелі втомлюють очі вже за кілька хвилин, а мозок не встигає засвоювати інформацію. Спеціалізовані електронні читалки дають змогу повністю змінити цей підхід, повернувши фокус і спокій у щоденну рутину.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 13433,
-      "slug": "mikro-shi-dnya-krea-ai-realnyy-renderynh-za-01-sekundy",
-      "title": "Мікро-ШІ дня: Krea AI — Реальний рендеринг за 0.1 секунди",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-05T07:59:39Z",
-      "date_formatted": "5 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": null,
-      "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
-      "summary": "Більше жодних годин очікування генерації! Цей ШІ перетворює ваші примітивні скетчі та фігури пензлем зліва на фотореалістичний арт праворуч у прямому ефірі просто під час руху миші.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

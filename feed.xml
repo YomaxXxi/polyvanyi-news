@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Mon, 09 Nov 2026 13:34:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 17:03:10 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: vercel-labs/agent-browser — Нативна CLI-утиліта на Rust для керування браузером штучним інтелектом (заміна повільним Puppeteer/Playwright скриптам)</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-vercel-labsagent-browser-natyvna-cli-utylita-/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-vercel-labsagent-browser-natyvna-cli-utylita-/</guid>
+      <pubDate>Mon, 09 Nov 2026 17:03:10 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Розробники AI-агентів знають біль: змусити LLM клікати по сайтах через важкі обгортки на кшталт Puppeteer чи Selenium — це повільно, дорого по токенах і постійно ламається. Vercel Labs випустила нативний інструмент, який дає агенту повноцінний браузер прямо через CLI.</description>
+    </item>
     <item>
       <title>Шпаргалка / Гайд: Швидке прототипування інтерфейсів через v0.dev та Bolt.new</title>
       <link>https://yomaxxxi.github.io/news/shparhalka-hayd-shvydke-prototypuvannya-interfeysiv-cherez-v0dev-/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 07 Nov 2026 12:21:43 +0000</pubDate>
       <category>Техніка</category>
       <description>Свіжа прошивка One UI 9 активно поширюється на пристрої Galaxy, пропонуючи безліч корисних покращень як для звичайних користувачів, так і для фанатів кастомізації. Розбираємо найцікавіші функції, які варто випробувати одразу після оновлення.</description>
-    </item>
-    <item>
-      <title>Британський військовий проігнорував накази з безпеки та став жертвою шантажу</title>
-      <link>https://yomaxxxi.github.io/news/brytanskyy-viyskovyy-proihnoruvav-nakazy-z-bezpeky-ta-stav-zhertv/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/brytanskyy-viyskovyy-proihnoruvav-nakazy-z-bezpeky-ta-stav-zhertv/</guid>
-      <pubDate>Sat, 07 Nov 2026 10:57:46 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Нехтування базовими правилами оперативної безпеки (opsec) під час розгортання військ може мати фатальні наслідки не лише для місії, а й для особистого життя.</description>
     </item>
   </channel>
 </rss>
