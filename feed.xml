@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sun, 08 Nov 2026 13:34:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 04:43:42 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Чому емуляція аркадних ігор складніша за консолі: уроки від MAME</title>
+      <link>https://yomaxxxi.github.io/news/chomu-emulyatsiya-arkadnykh-ihor-skladnisha-za-konsoli-uroky-vid-/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/chomu-emulyatsiya-arkadnykh-ihor-skladnisha-za-konsoli-uroky-vid-/</guid>
+      <pubDate>Mon, 09 Nov 2026 04:43:42 +0000</pubDate>
+      <category>Геймінг</category>
+      <description>Сьогодні навіть потужні смартфони можуть запускати складні консольні ігри, проте старі аркадні автомати продовжують кидати виклик розробникам ігор та ентузіастам вже понад три десятиліття.</description>
+    </item>
     <item>
       <title>Шпаргалка / Гайд: Інженерія промтів: Секрет Few-Shot Prompting (Як навчити модель вашому стилю)</title>
       <link>https://yomaxxxi.github.io/news/shparhalka-hayd-inzheneriya-promtiv-sekret-few-shot-prompting-yak/</link>
@@ -44,7 +52,7 @@
       <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-sherlock-projectsherlock-potuzhnyy-osint-inst/</link>
       <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-sherlock-projectsherlock-potuzhnyy-osint-inst/</guid>
       <pubDate>Sun, 08 Nov 2026 10:06:16 +0000</pubDate>
-      <category>Open Source</category>
+      <category>Штучний Інтелект</category>
       <description>Розслідуєте кібербезпеку, перевіряєте цифрову гігієну чи шукаєте цифрові сліди? Sherlock миттєво сканує понад 400 соцмереж і платформ за єдиним іменем користувача.</description>
     </item>
     <item>
@@ -60,7 +68,7 @@
       <link>https://yomaxxxi.github.io/news/solipsism-browser-innovatsiynyy-vidkrytyy-brauzer-dlya-android-ne/</link>
       <guid isPermaLink="true">https://yomaxxxi.github.io/news/solipsism-browser-innovatsiynyy-vidkrytyy-brauzer-dlya-android-ne/</guid>
       <pubDate>Sun, 08 Nov 2026 08:39:08 +0000</pubDate>
-      <category>Open Source</category>
+      <category>Техніка</category>
       <description>Шукаєте справжню приватну заміну Google Chrome? Зверніть увагу на Solipsism Browser — новий open-source веб-оглядач для Android, який свідомо поширюється поза Google Play Store та ламає звичні принципи мобільного серфінгу.</description>
     </item>
     <item>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 06 Nov 2026 12:19:44 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Сучасні інструменти штучного інтелекту змінюють правила гри в IT-сфері, проте їхня масова інтеграція створює серйозні виклики для новачків. Через автоматизацію базових завдань програмування молодші спеціалісти ризикують втратити можливість здобути критично важливий практичний досвід, який раніше був фундаментом для переходу на senior-позиції. Водночас вимоги ринку праці до junior-розробників за останні роки суттєво зросли, що створює розрив між очікуваннями роботодавців та реальною підготовкою кадрів.</description>
-    </item>
-    <item>
-      <title>Intel готує архітектурну революцію: Nova Lake вимагатимуть новий сокет LGA 1954 та плати серії 900</title>
-      <link>https://yomaxxxi.github.io/news/intel-hotuye-arkhitekturnu-revolyutsiyu-nova-lake-vymahatymut-nov/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/intel-hotuye-arkhitekturnu-revolyutsiyu-nova-lake-vymahatymut-nov/</guid>
-      <pubDate>Fri, 06 Nov 2026 11:06:33 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Індустрія ПК готується до серйозного оновлення платформи. За інсайдерськими даними, масове виробництво десктопних процесорів Intel Nova Lake-S стартує наприкінці Q4 2026, а повноцінний реліз на ринку відбудеться вже у Q1 2027. Процесори принесуть не лише нову архітектуру з кількістю ядер до 52 у флагманських версіях, а й змусять користувачів повністю оновити материнські плати через перехід на абсолютно новий роз&#x27;єм.</description>
     </item>
   </channel>
 </rss>
