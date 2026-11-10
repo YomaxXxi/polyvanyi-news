@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 16406,
+      "slug": "google-deepmind-pidtverdyla-nadiynist-shyfruvannya-signal-ta-what",
+      "title": "Google DeepMind підтвердила надійність шифрування Signal та WhatsApp",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-10T10:57:48Z",
+      "date_formatted": "10 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Google-DeepMind-analysis-proves-Signal-and-WhatsApp-encryption-is-secure.webp",
+      "image_caption": "Матеріали 9to5Mac (Apple) / Офіційний реліз",
+      "summary": "Абсолютний золотий стандарт захисту даних отримав математичне підтвердження своєї стійкості завдяки новітньому аналізу від Google DeepMind.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 16352,
       "slug": "shi-mentorka-na-urokakh-informatyky-novyy-standart-osvity",
       "title": "ШІ-менторка на уроках інформатики: новий стандарт освіти",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "На платформі Дія.Освіта в межах модуля «ІТ-студії» запустили інтерактивну ШІ-менторку для школярів 1–11 класів. Нова помічниця вже з'явилася у шкільних закладах України.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "До довгоочікуваного релізу залишаються лічені дні, і видавець Rockstar Games офіційно відкрив попереднє завантаження гри для власників консолей Xbox Series X|S та PlayStation 5 у більшості регіонів світу. Тепер гравці, які вже оформили передзамовлення, можуть заздалегідь встановити тайтл на накопичувач і не витрачати час у день прем'єри.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": null,
       "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
       "summary": "Цей матеріал вирішує головну проблему взаємодії ШІ з реальними файлами та базами даних без довгих копіювань. Налаштування MCP економить вам мінімум 2 години рутини щодня, даючи Claude прямий доступ до вашої локальної файлової системи, GitHub та баз даних.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 6870,
-      "slug": "tekhnolohiyi-yaki-my-vtratyly-mekhanichni-vysuvni-kamery",
-      "title": "Технології, які ми втратили: Механічні висувні камери",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-05T13:33:30Z",
-      "date_formatted": "5 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=1200",
-      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
-      "summary": "У золоту епоху інженерних експериментів бренди намагалися створити ідеальний безрамковий дисплей. Справжній чистий екран на всю передню панель без жодних огидних чорних дірок, крапель чи чубчиків викликав дикий захват у кожного техногіка.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

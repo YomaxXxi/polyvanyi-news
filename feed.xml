@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 10 Nov 2026 09:45:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 10:57:48 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Google DeepMind підтвердила надійність шифрування Signal та WhatsApp</title>
+      <link>https://yomaxxxi.github.io/news/google-deepmind-pidtverdyla-nadiynist-shyfruvannya-signal-ta-what/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/google-deepmind-pidtverdyla-nadiynist-shyfruvannya-signal-ta-what/</guid>
+      <pubDate>Tue, 10 Nov 2026 10:57:48 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Абсолютний золотий стандарт захисту даних отримав математичне підтвердження своєї стійкості завдяки новітньому аналізу від Google DeepMind.</description>
+    </item>
     <item>
       <title>ШІ-менторка на уроках інформатики: новий стандарт освіти</title>
       <link>https://yomaxxxi.github.io/news/shi-mentorka-na-urokakh-informatyky-novyy-standart-osvity/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 08 Nov 2026 07:18:30 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Інтеграція хмарних великих мовних моделей у побутові пристрої часто створює більше проблем, ніж приносить користі, особливо коли справа доходить до базових завдань.</description>
-    </item>
-    <item>
-      <title>Що таке тип NAT у геймінгу та чому він впливає на онлайн-матчі?</title>
-      <link>https://yomaxxxi.github.io/news/shcho-take-typ-nat-u-heyminhu-ta-chomu-vin-vplyvaye-na-onlayn-mat/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/shcho-take-typ-nat-u-heyminhu-ta-chomu-vin-vplyvaye-na-onlayn-mat/</guid>
-      <pubDate>Sun, 08 Nov 2026 07:08:41 +0000</pubDate>
-      <category>Геймінг</category>
-      <description>Під час налаштування мережі на консолі чи ПК ви могли помічати рядок NAT Type. Розбираємося, що це означає та як воно впливає на ваш ігровий досвід.</description>
     </item>
   </channel>
 </rss>
