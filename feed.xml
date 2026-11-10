@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 10 Nov 2026 12:14:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 12:53:38 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Технології, які ми втратили: Двопозиційна кнопка камери</title>
+      <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-dvopozytsiyna-knopka-kamery/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-dvopozytsiyna-knopka-kamery/</guid>
+      <pubDate>Tue, 10 Nov 2026 12:53:38 +0000</pubDate>
+      <category>Техніка</category>
+      <description>У золоту епоху мобільної фотографії Sony Xperia та Nokia Lumia мали справжню магію — виділену механічну кнопку затвора. Вона працювала рівно як на професійній дзеркалці: легке напівнатискання миттєво фіксувало фокус, а повне — робило кадр. Це давало нереальне відчуття єднання з гаджетом.</description>
+    </item>
     <item>
       <title>Український прорив у ШІ: Elomia Health купує американський сервіс Earkick</title>
       <link>https://yomaxxxi.github.io/news/ukrayinskyy-proryv-u-shi-elomia-health-kupuye-amerykanskyy-servis/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 08 Nov 2026 08:39:08 +0000</pubDate>
       <category>Open Source</category>
       <description>Шукаєте справжню приватну заміну Google Chrome? Зверніть увагу на Solipsism Browser — новий open-source веб-оглядач для Android, який свідомо поширюється поза Google Play Store та ламає звичні принципи мобільного серфінгу.</description>
-    </item>
-    <item>
-      <title>Мікро-ШІ дня: Devv AI — Швидкий пошук рішень та фікс багів для розробників</title>
-      <link>https://yomaxxxi.github.io/news/mikro-shi-dnya-devv-ai-shvydkyy-poshuk-rishen-ta-fiks-bahiv-dlya-/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/mikro-shi-dnya-devv-ai-shvydkyy-poshuk-rishen-ta-fiks-bahiv-dlya-/</guid>
-      <pubDate>Sun, 08 Nov 2026 08:11:32 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Пошук релізів, актуальної документації та фікс помилок у коді тепер займає секунди. Devv AI шукає напряму в репозиторіях GitHub і свіжих тех-базах, видаючи перевірений код замість води із застарілих форумів.</description>
     </item>
   </channel>
 </rss>

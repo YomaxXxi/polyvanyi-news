@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 16531,
+      "slug": "tekhnolohiyi-yaki-my-vtratyly-dvopozytsiyna-knopka-kamery",
+      "title": "Технології, які ми втратили: Двопозиційна кнопка камери",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-10T12:53:38Z",
+      "date_formatted": "10 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Sony_Xperia_1_Mk._V_with_a_White_Case.jpg",
+      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
+      "summary": "У золоту епоху мобільної фотографії Sony Xperia та Nokia Lumia мали справжню магію — виділену механічну кнопку затвора. Вона працювала рівно як на професійній дзеркалці: легке напівнатискання миттєво фіксувало фокус, а повне — робило кадр. Це давало нереальне відчуття єднання з гаджетом.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 16427,
       "slug": "ukrayinskyy-proryv-u-shi-elomia-health-kupuye-amerykanskyy-servis",
       "title": "Український прорив у ШІ: Elomia Health купує американський сервіс Earkick",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Український стартап Elomia Health завоював чергову висоту на глобальному ринку, уклавши угоду про придбання американської платформи Earkick із базою у 250 000 користувачів.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "На платформі Дія.Освіта в межах модуля «ІТ-студії» запустили інтерактивну ШІ-менторку для школярів 1–11 класів. Нова помічниця вже з'явилася у шкільних закладах України.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking.jpg",
       "image_caption": "Матеріали Ars Technica (Technology Lab) / Офіційний реліз",
       "summary": "В індустрії кібербезпеки зафіксовано масштабну загрозу: виявлено десятилітню вразливість, що зачіпає девайси під управлінням Alpine Linux та потенційно інші дистрибутиви. Проблема ховається у специфічній взаємодії між бібліотекою OpenSSH, полегшеною альтернативою libc під назвою musl та відсутністю системи PAM. Атака не потребує жодних спроб підбору і спрацьовує з першого з'єднання.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 13773,
-      "slug": "bilshe-produktyvnosti-z-kozhnoho-bayta-yak-povnyy-stek-vyrishuye-",
-      "title": "Більше продуктивності з кожного байта: як повний стек вирішує проблему пам'яті в ШІ",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-05T15:50:12Z",
-      "date_formatted": "5 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/memory-codesign-1920x1080-1.jpg",
-      "image_caption": "Матеріали Nvidia Newsroom / Офіційний реліз",
-      "summary": "Зростання моделей, розширення контексту та розвиток агентських додатків створюють безпрецедентний тиск на пам'яті графічних процесорів. У світлі дефіциту та зростання цін просте збільшення кількості HBM більше не працює ефективно.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
