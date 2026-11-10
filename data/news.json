@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 16352,
+      "slug": "shi-mentorka-na-urokakh-informatyky-novyy-standart-osvity",
+      "title": "ШІ-менторка на уроках інформатики: новий стандарт освіти",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-10T09:45:17Z",
+      "date_formatted": "10 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://dev.ua/storage/images/66/93/31/73/derived/9a77f3fb08b97cff40107c51b4041e1f.webp",
+      "image_caption": "Матеріали dev.ua / Офіційний реліз",
+      "summary": "На платформі Дія.Освіта в межах модуля «ІТ-студії» запустили інтерактивну ШІ-менторку для школярів 1–11 класів. Нова помічниця вже з'явилася у шкільних закладах України.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 16346,
       "slug": "github-perlyna-dnya-addyosmaniagent-skills-production-grade-inzhe",
       "title": "GitHub-перлина дня: addyosmani/agent-skills — Production-grade інженерні навички для AI-агентів кодування",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
       "summary": "AI-агенти пишуть код швидко, але часто ігнорують правила чистої архітектури та перевірки якості, що змушує нас постійно правити баги вручну.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": "https://github.com/addyosmani/agent-skills",
       "github_repo": "addyosmani/agent-skills"
@@ -59,7 +80,7 @@
       "summary": "Американська фінтех-компанія Ramp вирішила змінити підхід до найму, зробивши ставку на надмотивованих розробників-самоучок без огляду на класичні дипломи та резюме.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1234,27 +1255,6 @@
       "image_caption": "Матеріали Retro Tech / Офіційний реліз",
       "summary": "У золоту епоху інженерних експериментів бренди намагалися створити ідеальний безрамковий дисплей. Справжній чистий екран на всю передню панель без жодних огидних чорних дірок, крапель чи чубчиків викликав дикий захват у кожного техногіка.",
       "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 13715,
-      "slug": "tretyna-ihrovykh-studiy-zakryvayetsya-pislya-prodazhu-shche-trety",
-      "title": "Третина ігрових студій закривається після продажу, ще третина занепадає – масштабне дослідження",
-      "category": "Геймінг",
-      "category_slug": "gaming",
-      "date": "2026-11-05T13:31:09Z",
-      "date_formatted": "5 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://img.mezha.ua/mezha/images/doc/8/9/333378/890c207f8b664153819fae7c84cbd1c8.jpeg",
-      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
-      "summary": "Індустрія відеоігор протягом десятиліть залишається полем для агрегатних поглинань та масових злиттів. Проте за блискучими пресрелізами мільярдних угод ховається жорстка статистика, яка руйнує міфи про синергію великого капіталу. Відомий ігровий продюсер Себастьян Кардосо провів титанічну роботу, проаналізувавши долю 303 студій, придбаних великими видавцями з 2000 року.",
-      "reading_time": "3 хв",
       "featured": false,
       "breaking": false,
       "github_url": null,

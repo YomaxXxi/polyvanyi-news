@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 10 Nov 2026 09:23:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 09:45:17 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ШІ-менторка на уроках інформатики: новий стандарт освіти</title>
+      <link>https://yomaxxxi.github.io/news/shi-mentorka-na-urokakh-informatyky-novyy-standart-osvity/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/shi-mentorka-na-urokakh-informatyky-novyy-standart-osvity/</guid>
+      <pubDate>Tue, 10 Nov 2026 09:45:17 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>На платформі Дія.Освіта в межах модуля «ІТ-студії» запустили інтерактивну ШІ-менторку для школярів 1–11 класів. Нова помічниця вже з&#x27;явилася у шкільних закладах України.</description>
+    </item>
     <item>
       <title>GitHub-перлина дня: addyosmani/agent-skills — Production-grade інженерні навички для AI-агентів кодування</title>
       <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-addyosmaniagent-skills-production-grade-inzhe/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 08 Nov 2026 07:08:41 +0000</pubDate>
       <category>Геймінг</category>
       <description>Під час налаштування мережі на консолі чи ПК ви могли помічати рядок NAT Type. Розбираємося, що це означає та як воно впливає на ваш ігровий досвід.</description>
-    </item>
-    <item>
-      <title>Шпаргалка / Гайд: Як платити за ШІ в 5 разів менше через API-ключі замість підписок</title>
-      <link>https://yomaxxxi.github.io/news/shparhalka-hayd-yak-platyty-za-shi-v-5-raziv-menshe-cherez-api-kl/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/shparhalka-hayd-yak-platyty-za-shi-v-5-raziv-menshe-cherez-api-kl/</guid>
-      <pubDate>Sun, 08 Nov 2026 06:32:56 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Матеріал допомагає оптимізувати витрати на штучний інтелект і заощаджувати до $18 щомісяця на кожному сервісі, використовуючи пряму оплату за реальні токени замість фіксованих щомісячних підписок на ChatGPT Plus чи Claude Pro.</description>
     </item>
   </channel>
 </rss>
