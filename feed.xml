@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 10 Nov 2026 04:17:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 06:27:49 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Новий витік: стали відомі всі сенсори камер серії Samsung Galaxy S27</title>
+      <link>https://yomaxxxi.github.io/news/novyy-vytik-staly-vidomi-vsi-sensory-kamer-seriyi-samsung-galaxy-/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/novyy-vytik-staly-vidomi-vsi-sensory-kamer-seriyi-samsung-galaxy-/</guid>
+      <pubDate>Tue, 10 Nov 2026 06:27:49 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Мережа розкрила детальні специфікації камер майбутньої флагманської лінійки смартфонів від південнокорейського гіганта.</description>
+    </item>
     <item>
       <title>Claude Fable 5.2: прорив у програмуванні та робототехніці</title>
       <link>https://yomaxxxi.github.io/news/claude-fable-52-proryv-u-prohramuvanni-ta-robototekhnitsi/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 07 Nov 2026 13:37:57 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Цей матеріал вирішує вічну біль розробників: як за кілька секунд перетворити сирий код, шматки скриптів чи набір ендпоінтів на преміальну, професійну документацію у стилі Stripe чи Vercel. Економить мінімум 3-4 години ручної роботи над кожним проєктом.</description>
-    </item>
-    <item>
-      <title>Технології, які ми втратили: Moto Mods</title>
-      <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-moto-mods/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-moto-mods/</guid>
-      <pubDate>Sat, 07 Nov 2026 12:35:28 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Пара потужних неодимових магнітів на спинці та контактна група здатні були за секунду перетворити звичайний тонкий смартфон на повноцінний кінотеатр з проєктором, преміальну камеру Hasselblad із 10-кратним оптичним зумом або потужну колонку JBL. Ніякого перезавантаження, очікування драйверів чи заміни чохлів — справжня магія modular design в епоху, коли гаджети ще намагалися дивувати.</description>
     </item>
   </channel>
 </rss>

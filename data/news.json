@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 16242,
+      "slug": "novyy-vytik-staly-vidomi-vsi-sensory-kamer-seriyi-samsung-galaxy-",
+      "title": "Новий витік: стали відомі всі сенсори камер серії Samsung Galaxy S27",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-10T06:27:49Z",
+      "date_formatted": "10 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-series-showing-backs-1.jpg",
+      "image_caption": "Матеріали Android Authority / Офіційний реліз",
+      "summary": "Мережа розкрила детальні специфікації камер майбутньої флагманської лінійки смартфонів від південнокорейського гіганта.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 16229,
       "slug": "claude-fable-52-proryv-u-prohramuvanni-ta-robototekhnitsi",
       "title": "Claude Fable 5.2: прорив у програмуванні та робототехніці",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Android Authority / Офіційний реліз",
       "summary": "Anthropic представила нову модель Claude Fable 5.2 Mythos 5.2, яка демонструє суттєвий приріст продуктивності.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -80,7 +101,7 @@
       "summary": "Стартап CAIM1 створює унікальний інструмент для відновлення довіри до цифрових зображень на тлі епідемії глибоких підробок.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": "https://github.com/garrytan/gstack",
       "github_repo": "garrytan/gstack"
-    },
-    {
-      "id": 13496,
-      "slug": "finansovyy-triumf-sony-prybutky-kompaniyi-strimko-zrosly-zavdyaky",
-      "title": "Фінансовий тріумф Sony: прибутки компанії стрімко зросли завдяки PlayStation такінематографу",
-      "category": "Геймінг",
-      "category_slug": "gaming",
-      "date": "2026-11-05T10:01:47Z",
-      "date_formatted": "5 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/spider-man-brand-new-day.png?quality=90&strip=all&crop=6.6632575757576%2C0%2C86.673484848485%2C100&w=1200",
-      "image_caption": "Матеріали The Verge / Офіційний реліз",
-      "summary": "Японський техногігант продемонстрував вражаючі фінансові результати за другий квартал, зафіксувавши масштабний стрибок прибутків. Головними драйверами успіху стали ігровий підрозділ та кінотеатральні блокбастери, які попри окремі ринкові труднощі забезпечили рекордні надходження до бюджету компанії.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
     }
   ]
 }
