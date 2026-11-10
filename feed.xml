@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 10 Nov 2026 10:57:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 12:14:22 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Український прорив у ШІ: Elomia Health купує американський сервіс Earkick</title>
+      <link>https://yomaxxxi.github.io/news/ukrayinskyy-proryv-u-shi-elomia-health-kupuye-amerykanskyy-servis/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/ukrayinskyy-proryv-u-shi-elomia-health-kupuye-amerykanskyy-servis/</guid>
+      <pubDate>Tue, 10 Nov 2026 12:14:22 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Український стартап Elomia Health завоював чергову висоту на глобальному ринку, уклавши угоду про придбання американської платформи Earkick із базою у 250 000 користувачів.</description>
+    </item>
     <item>
       <title>Google DeepMind підтвердила надійність шифрування Signal та WhatsApp</title>
       <link>https://yomaxxxi.github.io/news/google-deepmind-pidtverdyla-nadiynist-shyfruvannya-signal-ta-what/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 08 Nov 2026 08:11:32 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Пошук релізів, актуальної документації та фікс помилок у коді тепер займає секунди. Devv AI шукає напряму в репозиторіях GitHub і свіжих тех-базах, видаючи перевірений код замість води із застарілих форумів.</description>
-    </item>
-    <item>
-      <title>Штучний інтелект у розумному домі: чому Gemini сповільнила колонки Nest</title>
-      <link>https://yomaxxxi.github.io/news/shtuchnyy-intelekt-u-rozumnomu-domi-chomu-gemini-spovilnyla-kolon/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/shtuchnyy-intelekt-u-rozumnomu-domi-chomu-gemini-spovilnyla-kolon/</guid>
-      <pubDate>Sun, 08 Nov 2026 07:18:30 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Інтеграція хмарних великих мовних моделей у побутові пристрої часто створює більше проблем, ніж приносить користі, особливо коли справа доходить до базових завдань.</description>
     </item>
   </channel>
 </rss>
