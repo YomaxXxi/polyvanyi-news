@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Mon, 09 Nov 2026 17:03:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 04:17:33 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Claude Fable 5.2: прорив у програмуванні та робототехніці</title>
+      <link>https://yomaxxxi.github.io/news/claude-fable-52-proryv-u-prohramuvanni-ta-robototekhnitsi/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/claude-fable-52-proryv-u-prohramuvanni-ta-robototekhnitsi/</guid>
+      <pubDate>Tue, 10 Nov 2026 04:17:33 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Anthropic представила нову модель Claude Fable 5.2 Mythos 5.2, яка демонструє суттєвий приріст продуктивності.</description>
+    </item>
     <item>
       <title>GitHub-перлина дня: vercel-labs/agent-browser — Нативна CLI-утиліта на Rust для керування браузером штучним інтелектом (заміна повільним Puppeteer/Playwright скриптам)</title>
       <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-vercel-labsagent-browser-natyvna-cli-utylita-/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sat, 07 Nov 2026 12:35:28 +0000</pubDate>
       <category>Техніка</category>
       <description>Пара потужних неодимових магнітів на спинці та контактна група здатні були за секунду перетворити звичайний тонкий смартфон на повноцінний кінотеатр з проєктором, преміальну камеру Hasselblad із 10-кратним оптичним зумом або потужну колонку JBL. Ніякого перезавантаження, очікування драйверів чи заміни чохлів — справжня магія modular design в епоху, коли гаджети ще намагалися дивувати.</description>
-    </item>
-    <item>
-      <title>Оновлення Samsung One UI 9: головні фішки та приховані можливості системи</title>
-      <link>https://yomaxxxi.github.io/news/onovlennya-samsung-one-ui-9-holovni-fishky-ta-prykhovani-mozhlyvo/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/onovlennya-samsung-one-ui-9-holovni-fishky-ta-prykhovani-mozhlyvo/</guid>
-      <pubDate>Sat, 07 Nov 2026 12:21:43 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Свіжа прошивка One UI 9 активно поширюється на пристрої Galaxy, пропонуючи безліч корисних покращень як для звичайних користувачів, так і для фанатів кастомізації. Розбираємо найцікавіші функції, які варто випробувати одразу після оновлення.</description>
     </item>
   </channel>
 </rss>
