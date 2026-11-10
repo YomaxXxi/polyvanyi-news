@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 16312,
+      "slug": "gta-6-vzhe-dostupna-dlya-poperednoho-zavantazhennya-hotuyte-vilni",
+      "title": "GTA 6 вже доступна для попереднього завантаження: готуйте вільні гігабайти!",
+      "category": "Геймінг",
+      "category_slug": "gaming",
+      "date": "2026-11-10T08:35:23Z",
+      "date_formatted": "10 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://www.engadget.com/img/gallery/gta-6-is-now-available-for-preload-if-you-have-a-spare-212gb/l-intro-1794304763.jpg",
+      "image_caption": "Матеріали Engadget / Офіційний реліз",
+      "summary": "До довгоочікуваного релізу залишаються лічені дні, і видавець Rockstar Games офіційно відкрив попереднє завантаження гри для власників консолей Xbox Series X|S та PlayStation 5 у більшості регіонів світу. Тепер гравці, які вже оформили передзамовлення, можуть заздалегідь встановити тайтл на накопичувач і не витрачати час у день прем'єри.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 16288,
       "slug": "fintekh-hihant-ramp-vartistyu-60-mlrd-naynyav-14-richnoho-rozrobn",
       "title": "Фінтех-гігант Ramp вартістю $60 млрд найняв 14-річного розробника: чому компанія обирає юні таланти",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Американська фінтех-компанія Ramp вирішила змінити підхід до найму, зробивши ставку на надмотивованих розробників-самоучок без огляду на класичні дипломи та резюме.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Anthropic представила нову модель Claude Fable 5.2 Mythos 5.2, яка демонструє суттєвий приріст продуктивності.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1234,27 +1255,6 @@
       "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
       "summary": "Компанія Motorola продовжує розширювати свою екосистему гаджетів, представивши одразу два флагманські пристрої для персонального моніторингу та аудіо. Новинки отримали глибоку інтеграцію з провідними індустріальними бренди — Polar та Bose, що виводить функціональність фітнес-трекерів та TWS-навушників на новий рівень на тлі жорсткої конкуренції на ринку портативної електроніки.",
       "reading_time": "3 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 13545,
-      "slug": "milyonni-vytraty-na-shi-u-openai-poyasnyly-chomu-zapusk-protsesu-",
-      "title": "Мільйонні витрати на ШІ: у OpenAI пояснили, чому запуск процесу за $1,2 млн є вигідною інвестицією",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-05T11:11:21Z",
-      "date_formatted": "5 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://dev.ua/storage/images/34/46/83/94/derived/fc787c2f9807e7d7df346bd4ce71807f.webp",
-      "image_caption": "Матеріали dev.ua / Офіційний реліз",
-      "summary": "Компанія OpenAI представила новий автономний конвеєр виявлення та виправлення вразливостей, який генерує масивну мережу ШІ-агентів для аналізу коду.",
-      "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
       "github_url": null,

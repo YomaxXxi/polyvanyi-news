@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 10 Nov 2026 07:22:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 08:35:23 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GTA 6 вже доступна для попереднього завантаження: готуйте вільні гігабайти!</title>
+      <link>https://yomaxxxi.github.io/news/gta-6-vzhe-dostupna-dlya-poperednoho-zavantazhennya-hotuyte-vilni/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/gta-6-vzhe-dostupna-dlya-poperednoho-zavantazhennya-hotuyte-vilni/</guid>
+      <pubDate>Tue, 10 Nov 2026 08:35:23 +0000</pubDate>
+      <category>Геймінг</category>
+      <description>До довгоочікуваного релізу залишаються лічені дні, і видавець Rockstar Games офіційно відкрив попереднє завантаження гри для власників консолей Xbox Series X|S та PlayStation 5 у більшості регіонів світу. Тепер гравці, які вже оформили передзамовлення, можуть заздалегідь встановити тайтл на накопичувач і не витрачати час у день прем&#x27;єри.</description>
+    </item>
     <item>
       <title>Фінтех-гігант Ramp вартістю $60 млрд найняв 14-річного розробника: чому компанія обирає юні таланти</title>
       <link>https://yomaxxxi.github.io/news/fintekh-hihant-ramp-vartistyu-60-mlrd-naynyav-14-richnoho-rozrobn/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 08 Nov 2026 06:21:09 +0000</pubDate>
       <category>Геймінг</category>
       <description>Розбираємося, які фізичні носії читає актуальна консоль від Sony та чи варто готуватися до епохи без дисководів.</description>
-    </item>
-    <item>
-      <title>Німий авангард, діагноз &quot;радянщині&quot; та легендарний Миколайчук: 10 знакових українських фільмів до 1991 року</title>
-      <link>https://yomaxxxi.github.io/news/nimyy-avanhard-diahnoz-radyanshchyni-ta-lehendarnyy-mykolaychuk-1/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/nimyy-avanhard-diahnoz-radyanshchyni-ta-lehendarnyy-mykolaychuk-1/</guid>
-      <pubDate>Sun, 08 Nov 2026 06:17:47 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Історія українського кіно — це шлях неймовірних злетів, боротьби з цензурою та створення унікальних шедеврів попри заборони тоталітарної системи.</description>
     </item>
   </channel>
 </rss>
