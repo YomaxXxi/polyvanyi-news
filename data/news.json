@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 16288,
+      "slug": "fintekh-hihant-ramp-vartistyu-60-mlrd-naynyav-14-richnoho-rozrobn",
+      "title": "Фінтех-гігант Ramp вартістю $60 млрд найняв 14-річного розробника: чому компанія обирає юні таланти",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-10T07:22:04Z",
+      "date_formatted": "10 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://dev.ua/storage/images/21/94/29/56/derived/555c7553677705ef0a3f45f15a7d3528.webp",
+      "image_caption": "Матеріали dev.ua / Офіційний реліз",
+      "summary": "Американська фінтех-компанія Ramp вирішила змінити підхід до найму, зробивши ставку на надмотивованих розробників-самоучок без огляду на класичні дипломи та резюме.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 16242,
       "slug": "vytoky-kamer-galaxy-s27-shcho-chekaye-na-novu-seriyu-samsung",
       "title": "Витоки камер Galaxy S27: що чекає на нову серію Samsung?",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Android Authority / Офіційний реліз",
       "summary": "Мережеві інсайдери розкрили деталі про камерні модулі майбутньої лінійки смарт-пристроїв Galaxy S27 series.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Розробники AI-агентів знають біль: змусити LLM клікати по сайтах через важкі обгортки на кшталт Puppeteer чи Selenium — це повільно, дорого по токенах і постійно ламається. Vercel Labs випустила нативний інструмент, який дає агенту повноцінний браузер прямо через CLI.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": "https://github.com/vercel-labs/agent-browser",
       "github_repo": "vercel-labs/agent-browser"
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": null,
       "github_repo": null
-    },
-    {
-      "id": 13525,
-      "slug": "github-perlyna-dnya-garrytangstack-tochnyy-setap-claude-code-vid-",
-      "title": "GitHub-перлина дня: garrytan/gstack — Точний сетап Claude Code від Гаррі Тана з 23 агентськими інструментами, що замінюють увесь топ-менеджмент та QA-відділ",
-      "category": "Open Source",
-      "category_slug": "opensource",
-      "date": "2026-11-05T10:28:43Z",
-      "date_formatted": "5 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/1/garrytan/gstack",
-      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
-      "summary": "Проєкт закриває головний біль соло-розробників та засновників — відсутність якісної команди для рев'ю, дизайну та архітектури. Він перетворює Claude Code на віртуальну інженерну компанію: CEO, дизайн-менеджер, QA та сек'юрити-офіцер.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": "https://github.com/garrytan/gstack",
-      "github_repo": "garrytan/gstack"
     }
   ]
 }

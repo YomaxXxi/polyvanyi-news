@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 10 Nov 2026 06:27:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 07:22:04 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Фінтех-гігант Ramp вартістю $60 млрд найняв 14-річного розробника: чому компанія обирає юні таланти</title>
+      <link>https://yomaxxxi.github.io/news/fintekh-hihant-ramp-vartistyu-60-mlrd-naynyav-14-richnoho-rozrobn/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/fintekh-hihant-ramp-vartistyu-60-mlrd-naynyav-14-richnoho-rozrobn/</guid>
+      <pubDate>Tue, 10 Nov 2026 07:22:04 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Американська фінтех-компанія Ramp вирішила змінити підхід до найму, зробивши ставку на надмотивованих розробників-самоучок без огляду на класичні дипломи та резюме.</description>
+    </item>
     <item>
       <title>Витоки камер Galaxy S27: що чекає на нову серію Samsung?</title>
       <link>https://yomaxxxi.github.io/news/vytoky-kamer-galaxy-s27-shcho-chekaye-na-novu-seriyu-samsung/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 08 Nov 2026 06:17:47 +0000</pubDate>
       <category>Техніка</category>
       <description>Історія українського кіно — це шлях неймовірних злетів, боротьби з цензурою та створення унікальних шедеврів попри заборони тоталітарної системи.</description>
-    </item>
-    <item>
-      <title>Шпаргалка / Гайд: Technical Writer (Генератор ідеального README та API docs)</title>
-      <link>https://yomaxxxi.github.io/news/shparhalka-hayd-technical-writer-henerator-idealnoho-readme-ta-ap/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/shparhalka-hayd-technical-writer-henerator-idealnoho-readme-ta-ap/</guid>
-      <pubDate>Sat, 07 Nov 2026 13:37:57 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Цей матеріал вирішує вічну біль розробників: як за кілька секунд перетворити сирий код, шматки скриптів чи набір ендпоінтів на преміальну, професійну документацію у стилі Stripe чи Vercel. Економить мінімум 3-4 години ручної роботи над кожним проєктом.</description>
     </item>
   </channel>
 </rss>
