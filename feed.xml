@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Tue, 10 Nov 2026 08:35:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 09:23:10 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: addyosmani/agent-skills — Production-grade інженерні навички для AI-агентів кодування</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-addyosmaniagent-skills-production-grade-inzhe/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-addyosmaniagent-skills-production-grade-inzhe/</guid>
+      <pubDate>Tue, 10 Nov 2026 09:23:10 +0000</pubDate>
+      <category>Open Source</category>
+      <description>AI-агенти пишуть код швидко, але часто ігнорують правила чистої архітектури та перевірки якості, що змушує нас постійно правити баги вручну.</description>
+    </item>
     <item>
       <title>GTA 6 вже доступна для попереднього завантаження: готуйте вільні гігабайти!</title>
       <link>https://yomaxxxi.github.io/news/gta-6-vzhe-dostupna-dlya-poperednoho-zavantazhennya-hotuyte-vilni/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 08 Nov 2026 06:32:56 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Матеріал допомагає оптимізувати витрати на штучний інтелект і заощаджувати до $18 щомісяця на кожному сервісі, використовуючи пряму оплату за реальні токени замість фіксованих щомісячних підписок на ChatGPT Plus чи Claude Pro.</description>
-    </item>
-    <item>
-      <title>Які диски підтримує PlayStation 5: повний гайд з сумісності ігор та медіа</title>
-      <link>https://yomaxxxi.github.io/news/yaki-dysky-pidtrymuye-playstation-5-povnyy-hayd-z-sumisnosti-ihor/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/yaki-dysky-pidtrymuye-playstation-5-povnyy-hayd-z-sumisnosti-ihor/</guid>
-      <pubDate>Sun, 08 Nov 2026 06:21:09 +0000</pubDate>
-      <category>Геймінг</category>
-      <description>Розбираємося, які фізичні носії читає актуальна консоль від Sony та чи варто готуватися до епохи без дисководів.</description>
     </item>
   </channel>
 </rss>
