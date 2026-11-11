@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 17346,
+      "slug": "korystuvachi-google-chrome-zitknulysya-z-bahom-google-lens-blokuy",
+      "title": "Користувачі Google Chrome зіткнулися з багом: Google Lens блокує закриття бічної панелі",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-11T15:31:36Z",
+      "date_formatted": "11 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/clever-use-cases-for-google-lens-1.jpg",
+      "image_caption": "Матеріали Android Authority / Офіційний реліз",
+      "summary": "Неприємний технічний збій у браузері залишав юзерів без можливості закрити вікно пошукового інструменту.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 17308,
       "slug": "mikro-shi-dnya-whisper-web-rozshyfrovka-audio-u-tekst-pryamo-v-br",
       "title": "Мікро-ШІ дня: Whisper Web — Розшифровка аудіо у текст прямо в браузері без передачі даних на сервери",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
       "summary": "Перестаньте платити за хмарні сервіси транскрипції на кшталт Otter заради переведення голосових записів, подкастів чи інтерв'ю у текст. Цей інструмент робить всю роботу локально у вашому браузері за лічені секунди і гарантує повну конфіденційність.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "У 2009 році інженери Palm створили магію, до якої гіганти доходили роками. Ви просто кидали свій Palm Pre на похилу круглу шайбу Touchstone — магніти м'яко центрували корпус, телефон надійно фіксувався клацанням і миттєво переходив у стильний нічний режим годинника. Жодних дротів та розхитаних роз'ємів.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/tao-browser-ai-tool-1.jpg",
       "image_caption": "Матеріали Android Authority / Офіційний реліз",
       "summary": "Ринок штучного інтелекту продовжує еволюціонувати від простих чат-ботів до глибоко інтегрованих щоденних інструментів продуктивності. Цього тижня розробники представили одразу кілька цікавих проєктів, серед яких виділяється повноцінна альтернатива популярному браузеру Arc. Користувачі все частіше шукають нестандартні рішення для оптимізації робочих процесів, і нові релізи точно заслуговують на вашу увагу.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 14421,
-      "slug": "tekhnolohiyi-yaki-my-vtratyly-41-mp-sensor-i-ksenon",
-      "title": "Технології, які ми втратили: 41 Мп сенсор і ксенон",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-06T12:34:23Z",
-      "date_formatted": "6 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Nokia_808_PureView_-_panoramio.jpg",
-      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
-      "summary": "У золоту еру Nokia мобільні камери були справжнім витвором інженерного мистецтва. Поєднання оптики Carl Zeiss та гігантської матриці давало неймовірну деталізацію без жодних алгоритмів штучного інтелекту.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
