@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 17110,
+      "slug": "kultovyy-ukrayinskyy-shuter-znykaye-z-mahazynu-skandal-navkolo-yo",
+      "title": "Культовий український шутер зникає з магазину: скандал навколо You Are Empty",
+      "category": "Геймінг",
+      "category_slug": "gaming",
+      "date": "2026-11-11T11:34:32Z",
+      "date_formatted": "11 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://img.mezha.ua/mezha/images/doc/5/e/334085/5e5fc4779618cab610f6fdd93a4c7b79.jpeg",
+      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
+      "summary": "Історія з поверненням класичного українського шутера You Are Empty: Absolute Edition у Steam отримала неочікуваний поворот: проєкт повністю прибрали з продажу після жорсткого конфлікту між авторами та видавцями.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 17047,
       "slug": "vykhid-iz-hlukhoho-kuta-yak-amd-zberihaye-95-produktyvnosti-serve",
       "title": "Вихід із глухого кута: як AMD зберігає 95% продуктивності серверів із половинним об'ємом DRAM",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
       "summary": "Компанія AMD активно розгортає передбачувальний рушій пам'яті MEXT, який дозволяє суттєво зменшити залежність від фізичної пам'яті та боротися з дефіцитом мікросхем на ринку.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Через часті зміни власників, появу трекерів та сумнівні інтеграції Nova Launcher втратив колишню довіру частини користувачів, які тепер шукають відкриту та чисту заміну для своїх смартфонів на Android 17 та старіших версіях.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/wBsiTVdEXUvLhGduqG9Q2d-1500-80.jpg",
       "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
       "summary": "Проєкт за підтримки колишнього CEO Intel Петта Гелсінгера обіцяє поєднати швидкість SRAM із щільністю DRAM безпосередньо на AI-чіпах.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 14242,
-      "slug": "skladni-smartfony-u-2026-rotsi-holovni-prychyny-za-ta-proty-pokup",
-      "title": "Складні смартфони у 2026 році: головні причини «за» та «проти» покупки",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-06T08:39:13Z",
-      "date_formatted": "6 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/samsung-galaxy-z-fold-8-ultra-review-3-scaled.jpg",
-      "image_caption": "Матеріали Android Authority / Офіційний реліз",
-      "summary": "Еволюція формфактора пройшла шлях від тендітних експериментальних гаджетів до надійних щоденних пристроїв. Сучасні складані девайси отримали захист від вологи, потужні процесори та надійні шарніри. Проте висока вартість та технічні компроміси досі змушують користувачів зважувати всі ризики перед покупкою.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

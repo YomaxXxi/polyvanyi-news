@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Wed, 11 Nov 2026 10:16:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 11:34:32 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Культовий український шутер зникає з магазину: скандал навколо You Are Empty</title>
+      <link>https://yomaxxxi.github.io/news/kultovyy-ukrayinskyy-shuter-znykaye-z-mahazynu-skandal-navkolo-yo/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/kultovyy-ukrayinskyy-shuter-znykaye-z-mahazynu-skandal-navkolo-yo/</guid>
+      <pubDate>Wed, 11 Nov 2026 11:34:32 +0000</pubDate>
+      <category>Геймінг</category>
+      <description>Історія з поверненням класичного українського шутера You Are Empty: Absolute Edition у Steam отримала неочікуваний поворот: проєкт повністю прибрали з продажу після жорсткого конфлікту між авторами та видавцями.</description>
+    </item>
     <item>
       <title>Вихід із глухого кута: як AMD зберігає 95% продуктивності серверів із половинним об&#x27;ємом DRAM</title>
       <link>https://yomaxxxi.github.io/news/vykhid-iz-hlukhoho-kuta-yak-amd-zberihaye-95-produktyvnosti-serve/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 08 Nov 2026 12:31:40 +0000</pubDate>
       <category>Техніка</category>
       <description>У золоту епоху HTC One M7 та M8 інженери зуміли створити те, що досі здається недосяжним. Два виділені динаміки на лицьовій панелі дивилися прямо на слухача, перетворюючи звичайний перегляд YouTube на мінікінотеатр. Це був справжній вибух свідомості для мобільного звуку.</description>
-    </item>
-    <item>
-      <title>Що реально можуть зловмисники, маючи вашу IP-адресу?</title>
-      <link>https://yomaxxxi.github.io/news/shcho-realno-mozhut-zlovmysnyky-mayuchy-vashu-ip-adresu/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/shcho-realno-mozhut-zlovmysnyky-mayuchy-vashu-ip-adresu/</guid>
-      <pubDate>Sun, 08 Nov 2026 12:15:31 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Багато користувачів досі вірять міфам про те, що публічний IP може розкрити паролі чи особисті дані. Давайте розберемося, які загрози існують насправді та як працюють сучасні протоколи.</description>
     </item>
   </channel>
 </rss>
