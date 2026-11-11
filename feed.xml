@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Wed, 11 Nov 2026 12:40:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 13:57:36 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Google розкрила всі деталі про функцію Create My Widget для смартфонів Pixel</title>
+      <link>https://yomaxxxi.github.io/news/google-rozkryla-vsi-detali-pro-funktsiyu-create-my-widget-dlya-sm/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/google-rozkryla-vsi-detali-pro-funktsiyu-create-my-widget-dlya-sm/</guid>
+      <pubDate>Wed, 11 Nov 2026 13:57:36 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Компанія Google поділилася новими подробицями про роботу інструменту Create My Widget на базі штучного інтелекту, який дозволяє створювати персоналізовані віджети за допомогою природного мовлення.</description>
+    </item>
     <item>
       <title>Технології, які ми втратили: Магнітна док-станція Touchstone та карткова WebOS</title>
       <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-mahnitna-dok-stantsiya-touchstone-t/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 09 Nov 2026 05:55:05 +0000</pubDate>
       <category>Техніка</category>
       <description>Протягом багатьох років інженери по всьому світу фіксували дивні аномалії: рівно кожні 60 секунд частота в енергомережах різних країн і континентів трохи знижувалася. Група вчених під керівництвом Дірка Вітхаута нарешті з&#x27;ясувала причину цього глобального явища.</description>
-    </item>
-    <item>
-      <title>Чому емуляція аркадних ігор складніша за консолі: уроки від MAME</title>
-      <link>https://yomaxxxi.github.io/news/chomu-emulyatsiya-arkadnykh-ihor-skladnisha-za-konsoli-uroky-vid-/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/chomu-emulyatsiya-arkadnykh-ihor-skladnisha-za-konsoli-uroky-vid-/</guid>
-      <pubDate>Mon, 09 Nov 2026 04:43:42 +0000</pubDate>
-      <category>Геймінг</category>
-      <description>Сьогодні навіть потужні смартфони можуть запускати складні консольні ігри, проте старі аркадні автомати продовжують кидати виклик розробникам ігор та ентузіастам вже понад три десятиліття.</description>
     </item>
   </channel>
 </rss>
