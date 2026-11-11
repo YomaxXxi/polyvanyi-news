@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 16997,
+      "slug": "naykrashcha-alternatyva-nova-launcher-shcho-take-supernova-i-yak-",
+      "title": "Найкраща альтернатива Nova Launcher: що таке Supernova і як її встановити",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-11T08:58:23Z",
+      "date_formatted": "11 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/supernova-launcher-home-screen-2.jpg",
+      "image_caption": "Матеріали Android Authority / Офіційний реліз",
+      "summary": "Через часті зміни власників, появу трекерів та сумнівні інтеграції Nova Launcher втратив колишню довіру частини користувачів, які тепер шукають відкриту та чисту заміну для своїх смартфонів на Android 17 та старіших версіях.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 16589,
       "slug": "apple-arcade-popovnyuyetsya-kultovymy-franshyzamy",
       "title": "Apple Arcade поповнюється культовими франшизами",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали 9to5Mac (Apple) / Офіційний реліз",
       "summary": "Сервіс мобільного геймінгу від Apple отримав чергове масштабне оновлення каталогу, яке приносить як довгоочікувані релізи, так і анонси майбутніх проєктів.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Український стартап Elomia Health завоював чергову висоту на глобальному ринку, уклавши угоду про придбання американської платформи Earkick із базою у 250 000 користувачів.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1234,27 +1255,6 @@
       "image_caption": "Матеріали Android Authority / Офіційний реліз",
       "summary": "Епоха ретро-гаджетів продовжує завойовувати ринок аудіотехніки. Слідом за вінтажними вініловими програвачами та касетними плеєрами компанія Sony вирішила повернути до життя один із найбільш знакових продуктів своєї до-волкенової ери — легендарні навушники MDR-3. Оригінальна модель з'явилася в Японії наприкінці 1970-х і назавжди змінила уявлення про портативний звук, а тепер інженери японського гіганта адаптували культовий формфактор під сучасні реалії, зберігши впізнавану естетику.",
       "reading_time": "3 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 14212,
-      "slug": "shparhalka-hayd-few-shot-prompting-yak-navchyty-model-vashomu-sty",
-      "title": "Шпаргалка / Гайд: Few-Shot Prompting (Як навчити модель вашому стилю)",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-06T06:51:14Z",
-      "date_formatted": "6 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": null,
-      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
-      "summary": "Більшість розробників і користувачів пишуть промти у стилі «напиши статтю» або «зроби аналіз», а потім дивуються «воді», галюцинаціям та нудному формату. Цей матеріал економить вам години правок та вибудовує кристально чітку комунікацію з LLM завдяки техніці Few-Shot Prompting. Додавання всього 2-3 якісних прикладів підвищує точність моделі на 70% і змушує її копіювати ваш унікальний тон і структуру.",
-      "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
       "github_url": null,

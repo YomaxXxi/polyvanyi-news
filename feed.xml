@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Wed, 11 Nov 2026 07:38:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 08:58:23 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Найкраща альтернатива Nova Launcher: що таке Supernova і як її встановити</title>
+      <link>https://yomaxxxi.github.io/news/naykrashcha-alternatyva-nova-launcher-shcho-take-supernova-i-yak-/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/naykrashcha-alternatyva-nova-launcher-shcho-take-supernova-i-yak-/</guid>
+      <pubDate>Wed, 11 Nov 2026 08:58:23 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Через часті зміни власників, появу трекерів та сумнівні інтеграції Nova Launcher втратив колишню довіру частини користувачів, які тепер шукають відкриту та чисту заміну для своїх смартфонів на Android 17 та старіших версіях.</description>
+    </item>
     <item>
       <title>Apple Arcade поповнюється культовими франшизами</title>
       <link>https://yomaxxxi.github.io/news/apple-arcade-popovnyuyetsya-kultovymy-franshyzamy/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 08 Nov 2026 10:06:16 +0000</pubDate>
       <category>Open Source</category>
       <description>Розслідуєте кібербезпеку, перевіряєте цифрову гігієну чи шукаєте цифрові сліди? Sherlock миттєво сканує понад 400 соцмереж і платформ за єдиним іменем користувача.</description>
-    </item>
-    <item>
-      <title>Android отримав першу гру з генерацією кадрів на базі ШІ</title>
-      <link>https://yomaxxxi.github.io/news/android-otrymav-pershu-hru-z-heneratsiyeyu-kadriv-na-bazi-shi/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/android-otrymav-pershu-hru-z-heneratsiyeyu-kadriv-na-bazi-shi/</guid>
-      <pubDate>Sun, 08 Nov 2026 09:47:49 +0000</pubDate>
-      <category>Геймінг</category>
-      <description>Мобільний геймінг офіційно зробив свій власний момент у стилі DLSS, оскільки на платформі з&#x27;явилася перша гра, яка використовує технологію генерації кадрів за допомогою штучного інтелекту.</description>
     </item>
   </channel>
 </rss>
