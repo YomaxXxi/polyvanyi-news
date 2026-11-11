@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Wed, 11 Nov 2026 11:34:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 12:39:30 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Українець створив AI-сервіс для перевірки на брехню: що відомо про Red Rabbit</title>
+      <link>https://yomaxxxi.github.io/news/ukrayinets-stvoryv-ai-servis-dlya-perevirky-na-brekhnyu-shcho-vid/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/ukrayinets-stvoryv-ai-servis-dlya-perevirky-na-brekhnyu-shcho-vid/</guid>
+      <pubDate>Wed, 11 Nov 2026 12:39:30 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Інноваційний застосунок одночасно зчитує міміку, погляд, голос, пульс із камери смартфона, а також дані з Apple Watch і смарт-каблучки.</description>
+    </item>
     <item>
       <title>Культовий український шутер зникає з магазину: скандал навколо You Are Empty</title>
       <link>https://yomaxxxi.github.io/news/kultovyy-ukrayinskyy-shuter-znykaye-z-mahazynu-skandal-navkolo-yo/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 08 Nov 2026 13:34:09 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Більшість людей пишуть промти для ШІ як звичайний пошуковий запит, а потім дивуються галюцинаціям та розмитому тексту. Цей матеріал економить вам години правок і навчить керувати тонким стилем моделі за допомогою техніки Few-Shot Prompting, підвищуючи точність відповідей на 70%.</description>
-    </item>
-    <item>
-      <title>Технології, які ми втратили: Стереодинаміки BoomSound</title>
-      <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-stereodynamiky-boomsound/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-stereodynamiky-boomsound/</guid>
-      <pubDate>Sun, 08 Nov 2026 12:31:40 +0000</pubDate>
-      <category>Техніка</category>
-      <description>У золоту епоху HTC One M7 та M8 інженери зуміли створити те, що досі здається недосяжним. Два виділені динаміки на лицьовій панелі дивилися прямо на слухача, перетворюючи звичайний перегляд YouTube на мінікінотеатр. Це був справжній вибух свідомості для мобільного звуку.</description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 17158,
+      "slug": "ukrayinets-stvoryv-ai-servis-dlya-perevirky-na-brekhnyu-shcho-vid",
+      "title": "Українець створив AI-сервіс для перевірки на брехню: що відомо про Red Rabbit",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-11T12:39:30Z",
+      "date_formatted": "11 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://dev.ua/storage/images/39/73/88/56/derived/4cdc3aa715648f85e985805c4884424c.webp",
+      "image_caption": "Матеріали dev.ua / Офіційний реліз",
+      "summary": "Інноваційний застосунок одночасно зчитує міміку, погляд, голос, пульс із камери смартфона, а також дані з Apple Watch і смарт-каблучки.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 17110,
       "slug": "kultovyy-ukrayinskyy-shuter-znykaye-z-mahazynu-skandal-navkolo-yo",
       "title": "Культовий український шутер зникає з магазину: скандал навколо You Are Empty",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
       "summary": "Історія з поверненням класичного українського шутера You Are Empty: Absolute Edition у Steam отримала неочікуваний поворот: проєкт повністю прибрали з продажу після жорсткого конфлікту між авторами та видавцями.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Проєкт закриває вічну біль студентів, інженерів-початківців та досвідчених девелоперів, яким потрібно швидко реалізувати складні алгоритми без занурення в академічні підручники. Він замінює дорогі платні курси з комп'ютерних наук та закриті платформи на кшталт LeetCode у контексті якісних референсних реалізацій.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": "https://github.com/TheAlgorithms/Java",
       "github_repo": "TheAlgorithms/Java"
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": "https://github.com/react/react",
       "github_repo": "react/react"
-    },
-    {
-      "id": 14266,
-      "slug": "proryv-u-pamyati-dlya-shi-startap-nagare-labs-anonsuvav-rozrobku-",
-      "title": "Прорив у пам'яті для ШІ: стартап Nagare Labs анонсував розробку інноваційної Z2RAM",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-06T09:58:30Z",
-      "date_formatted": "6 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://cdn.mos.cms.futurecdn.net/wBsiTVdEXUvLhGduqG9Q2d-1500-80.jpg",
-      "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
-      "summary": "Проєкт за підтримки колишнього CEO Intel Петта Гелсінгера обіцяє поєднати швидкість SRAM із щільністю DRAM безпосередньо на AI-чіпах.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
     }
   ]
 }
