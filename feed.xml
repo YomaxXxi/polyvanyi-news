@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Wed, 11 Nov 2026 12:39:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 12:40:14 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Технології, які ми втратили: Магнітна док-станція Touchstone та карткова WebOS</title>
+      <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-mahnitna-dok-stantsiya-touchstone-t/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-mahnitna-dok-stantsiya-touchstone-t/</guid>
+      <pubDate>Wed, 11 Nov 2026 12:40:14 +0000</pubDate>
+      <category>Техніка</category>
+      <description>У 2009 році інженери Palm створили магію, до якої гіганти доходили роками. Ви просто кидали свій Palm Pre на похилу круглу шайбу Touchstone — магніти м&#x27;яко центрували корпус, телефон надійно фіксувався клацанням і миттєво переходив у стильний нічний режим годинника. Жодних дротів та розхитаних роз&#x27;ємів.</description>
+    </item>
     <item>
       <title>Українець створив AI-сервіс для перевірки на брехню: що відомо про Red Rabbit</title>
       <link>https://yomaxxxi.github.io/news/ukrayinets-stvoryv-ai-servis-dlya-perevirky-na-brekhnyu-shcho-vid/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 09 Nov 2026 04:43:42 +0000</pubDate>
       <category>Геймінг</category>
       <description>Сьогодні навіть потужні смартфони можуть запускати складні консольні ігри, проте старі аркадні автомати продовжують кидати виклик розробникам ігор та ентузіастам вже понад три десятиліття.</description>
-    </item>
-    <item>
-      <title>Шпаргалка / Гайд: Інженерія промтів: Секрет Few-Shot Prompting (Як навчити модель вашому стилю)</title>
-      <link>https://yomaxxxi.github.io/news/shparhalka-hayd-inzheneriya-promtiv-sekret-few-shot-prompting-yak/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/shparhalka-hayd-inzheneriya-promtiv-sekret-few-shot-prompting-yak/</guid>
-      <pubDate>Sun, 08 Nov 2026 13:34:09 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Більшість людей пишуть промти для ШІ як звичайний пошуковий запит, а потім дивуються галюцинаціям та розмитому тексту. Цей матеріал економить вам години правок і навчить керувати тонким стилем моделі за допомогою техніки Few-Shot Prompting, підвищуючи точність відповідей на 70%.</description>
     </item>
   </channel>
 </rss>

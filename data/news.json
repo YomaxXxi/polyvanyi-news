@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 17177,
+      "slug": "tekhnolohiyi-yaki-my-vtratyly-mahnitna-dok-stantsiya-touchstone-t",
+      "title": "Технології, які ми втратили: Магнітна док-станція Touchstone та карткова WebOS",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-11T12:40:14Z",
+      "date_formatted": "11 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Touchstone_Palm.JPG",
+      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
+      "summary": "У 2009 році інженери Palm створили магію, до якої гіганти доходили роками. Ви просто кидали свій Palm Pre на похилу круглу шайбу Touchstone — магніти м'яко центрували корпус, телефон надійно фіксувався клацанням і миттєво переходив у стильний нічний режим годинника. Жодних дротів та розхитаних роз'ємів.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 17158,
       "slug": "ukrayinets-stvoryv-ai-servis-dlya-perevirky-na-brekhnyu-shcho-vid",
       "title": "Українець створив AI-сервіс для перевірки на брехню: що відомо про Red Rabbit",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Інноваційний застосунок одночасно зчитує міміку, погляд, голос, пульс із камери смартфона, а також дані з Apple Watch і смарт-каблучки.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Компанія AMD активно розгортає передбачувальний рушій пам'яті MEXT, який дозволяє суттєво зменшити залежність від фізичної пам'яті та боротися з дефіцитом мікросхем на ринку.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": null,
       "github_repo": null
-    },
-    {
-      "id": 14304,
-      "slug": "github-perlyna-dnya-reactreact-lehendarna-biblioteka-dlya-stvoren",
-      "title": "GitHub-перлина дня: react/react — Легендарна бібліотека для створення сучасних веб та нативних інтерфейсів",
-      "category": "Open Source",
-      "category_slug": "opensource",
-      "date": "2026-11-06T10:18:17Z",
-      "date_formatted": "6 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/1/react/react",
-      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
-      "summary": "React від команди Meta кардинально змінив підхід до розробки інтерфейсів, позбавивши розробників рутинного маніпулювання DOM-деревом. Він замінює складні імперативні підходи на декларативну парадигму: ви описуєте стан, а фреймворк сам ефективно оновлює UI.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": "https://github.com/react/react",
-      "github_repo": "react/react"
     }
   ]
 }
