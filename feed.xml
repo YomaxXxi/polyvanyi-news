@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Wed, 11 Nov 2026 09:09:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 10:16:27 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Вихід із глухого кута: як AMD зберігає 95% продуктивності серверів із половинним об&#x27;ємом DRAM</title>
+      <link>https://yomaxxxi.github.io/news/vykhid-iz-hlukhoho-kuta-yak-amd-zberihaye-95-produktyvnosti-serve/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/vykhid-iz-hlukhoho-kuta-yak-amd-zberihaye-95-produktyvnosti-serve/</guid>
+      <pubDate>Wed, 11 Nov 2026 10:16:27 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Компанія AMD активно розгортає передбачувальний рушій пам&#x27;яті MEXT, який дозволяє суттєво зменшити залежність від фізичної пам&#x27;яті та боротися з дефіцитом мікросхем на ринку.</description>
+    </item>
     <item>
       <title>GitHub-перлина дня: TheAlgorithms/Java — наймасштабніша відкрита колекція алгоритмів та структур даних для розробників на Java</title>
       <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-thealgorithmsjava-naymasshtabnisha-vidkryta-k/</link>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 08 Nov 2026 12:15:31 +0000</pubDate>
       <category>Техніка</category>
       <description>Багато користувачів досі вірять міфам про те, що публічний IP може розкрити паролі чи особисті дані. Давайте розберемося, які загрози існують насправді та як працюють сучасні протоколи.</description>
-    </item>
-    <item>
-      <title>Скандал з експортом чіпів: китайські компанії-привиди отримали дозвіл на купівлю Nvidia H200</title>
-      <link>https://yomaxxxi.github.io/news/skandal-z-eksportom-chipiv-kytayski-kompaniyi-pryvydy-otrymaly-do/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/skandal-z-eksportom-chipiv-kytayski-kompaniyi-pryvydy-otrymaly-do/</guid>
-      <pubDate>Sun, 08 Nov 2026 11:06:21 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Розслідування виявило серйозні прогалини у перевірках Міністерства торгівлі США під час видачі ліцензій на постачання передових прискорювачів.</description>
     </item>
   </channel>
 </rss>
