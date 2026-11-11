@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 17360,
+      "slug": "github-perlyna-dnya-metaastryx-potuzhna-open-source-dyzayn-system",
+      "title": "GitHub-перлина дня: meta/astryx — Потужна open-source дизайн-система від Meta, створена для людей та AI-агентів",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-11T15:39:46Z",
+      "date_formatted": "11 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/1/meta/astryx",
+      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
+      "summary": "Astryx — це внутрішній титан Meta, який розвивався останні вісім років і тепер став доступним кожному. Він живить понад 13 000 додатків усередині компанії та пропонує понад 150 доступних компонентів із підтримкою темної теми й CLI.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": "https://github.com/meta/astryx",
+      "github_repo": "meta/astryx"
+    },
+    {
       "id": 17346,
       "slug": "korystuvachi-google-chrome-zitknulysya-z-bahom-google-lens-blokuy",
       "title": "Користувачі Google Chrome зіткнулися з багом: Google Lens блокує закриття бічної панелі",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Android Authority / Офіційний реліз",
       "summary": "Неприємний технічний збій у браузері залишав юзерів без можливості закрити вікно пошукового інструменту.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Компанія Google поділилася новими подробицями про роботу інструменту Create My Widget на базі штучного інтелекту, який дозволяє створювати персоналізовані віджети за допомогою природного мовлення.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": null,
       "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
       "summary": "Цей матеріал вирішує головний біль розробників і продуктивних фахівців — як дати ШІ прямий доступ до ваших локальних файлів, баз даних та GitHub без довгих копіювань. Економія часу: мінімум 2 години на ручну налаштування та контекстне перемикання.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 14468,
-      "slug": "4-svizhykh-ai-dodatky-tyzhnya-hid-po-novykh-utylitakh-ta-zamini-a",
-      "title": "4 свіжих AI-додатки тижня: гід по нових утилітах та заміні Arc Browser",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-06T13:35:56Z",
-      "date_formatted": "6 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/tao-browser-ai-tool-1.jpg",
-      "image_caption": "Матеріали Android Authority / Офіційний реліз",
-      "summary": "Ринок штучного інтелекту продовжує еволюціонувати від простих чат-ботів до глибоко інтегрованих щоденних інструментів продуктивності. Цього тижня розробники представили одразу кілька цікавих проєктів, серед яких виділяється повноцінна альтернатива популярному браузеру Arc. Користувачі все частіше шукають нестандартні рішення для оптимізації робочих процесів, і нові релізи точно заслуговують на вашу увагу.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

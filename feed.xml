@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Wed, 11 Nov 2026 15:31:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 15:39:46 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: meta/astryx — Потужна open-source дизайн-система від Meta, створена для людей та AI-агентів</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-metaastryx-potuzhna-open-source-dyzayn-system/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-metaastryx-potuzhna-open-source-dyzayn-system/</guid>
+      <pubDate>Wed, 11 Nov 2026 15:39:46 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Astryx — це внутрішній титан Meta, який розвивався останні вісім років і тепер став доступним кожному. Він живить понад 13 000 додатків усередині компанії та пропонує понад 150 доступних компонентів із підтримкою темної теми й CLI.</description>
+    </item>
     <item>
       <title>Користувачі Google Chrome зіткнулися з багом: Google Lens блокує закриття бічної панелі</title>
       <link>https://yomaxxxi.github.io/news/korystuvachi-google-chrome-zitknulysya-z-bahom-google-lens-blokuy/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 09 Nov 2026 07:32:09 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Більше не потрібно гортати десятки сторінок StackOverflow та старих гілок GitHub у пошуках причини дивного багу. Цей інструмент знаходить точне технічне рішення за лічені секунди прямо у вас в браузері.</description>
-    </item>
-    <item>
-      <title>OSNT.IN виходить з бети: щоденний англомовний бриф про війну з перевіреними джерелами</title>
-      <link>https://yomaxxxi.github.io/news/osntin-vykhodyt-z-bety-shchodennyy-anhlomovnyy-bryf-pro-viynu-z-p/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/osntin-vykhodyt-z-bety-shchodennyy-anhlomovnyy-bryf-pro-viynu-z-p/</guid>
-      <pubDate>Mon, 09 Nov 2026 07:11:37 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Платформа офіційно презентує реліз версії 1.0 для аналітиків, журналістів та дослідників.</description>
     </item>
   </channel>
 </rss>
