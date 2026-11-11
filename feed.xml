@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Wed, 11 Nov 2026 13:57:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 14:40:57 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Мікро-ШІ дня: Whisper Web — Розшифровка аудіо у текст прямо в браузері без передачі даних на сервери</title>
+      <link>https://yomaxxxi.github.io/news/mikro-shi-dnya-whisper-web-rozshyfrovka-audio-u-tekst-pryamo-v-br/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/mikro-shi-dnya-whisper-web-rozshyfrovka-audio-u-tekst-pryamo-v-br/</guid>
+      <pubDate>Wed, 11 Nov 2026 14:40:57 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Перестаньте платити за хмарні сервіси транскрипції на кшталт Otter заради переведення голосових записів, подкастів чи інтерв&#x27;ю у текст. Цей інструмент робить всю роботу локально у вашому браузері за лічені секунди і гарантує повну конфіденційність.</description>
+    </item>
     <item>
       <title>Google розкрила всі деталі про функцію Create My Widget для смартфонів Pixel</title>
       <link>https://yomaxxxi.github.io/news/google-rozkryla-vsi-detali-pro-funktsiyu-create-my-widget-dlya-sm/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 09 Nov 2026 06:34:08 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Цей матеріал вирішує задачу підключення зовнішніх інструментів та баз даних безпосередньо до Claude Desktop через Model Context Protocol, заощаджуючи вам години на ручне копіювання файлів і контексту.</description>
-    </item>
-    <item>
-      <title>Загадка світових електромереж розгадана: чому частота падає кожні 60 секунд</title>
-      <link>https://yomaxxxi.github.io/news/zahadka-svitovykh-elektromerezh-rozhadana-chomu-chastota-padaye-k/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/zahadka-svitovykh-elektromerezh-rozhadana-chomu-chastota-padaye-k/</guid>
-      <pubDate>Mon, 09 Nov 2026 05:55:05 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Протягом багатьох років інженери по всьому світу фіксували дивні аномалії: рівно кожні 60 секунд частота в енергомережах різних країн і континентів трохи знижувалася. Група вчених під керівництвом Дірка Вітхаута нарешті з&#x27;ясувала причину цього глобального явища.</description>
     </item>
   </channel>
 </rss>

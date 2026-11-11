@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 17308,
+      "slug": "mikro-shi-dnya-whisper-web-rozshyfrovka-audio-u-tekst-pryamo-v-br",
+      "title": "Мікро-ШІ дня: Whisper Web — Розшифровка аудіо у текст прямо в браузері без передачі даних на сервери",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-11T14:40:57Z",
+      "date_formatted": "11 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/spaces/Xenova/whisper-web.png",
+      "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
+      "summary": "Перестаньте платити за хмарні сервіси транскрипції на кшталт Otter заради переведення голосових записів, подкастів чи інтерв'ю у текст. Цей інструмент робить всю роботу локально у вашому браузері за лічені секунди і гарантує повну конфіденційність.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 17235,
       "slug": "google-rozkryla-vsi-detali-pro-funktsiyu-create-my-widget-dlya-sm",
       "title": "Google розкрила всі деталі про функцію Create My Widget для смартфонів Pixel",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Android Authority / Офіційний реліз",
       "summary": "Компанія Google поділилася новими подробицями про роботу інструменту Create My Widget на базі штучного інтелекту, який дозволяє створювати персоналізовані віджети за допомогою природного мовлення.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Інноваційний застосунок одночасно зчитує міміку, погляд, голос, пульс із камери смартфона, а також дані з Apple Watch і смарт-каблучки.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Nokia_808_PureView_-_panoramio.jpg",
       "image_caption": "Матеріали Retro Tech / Офіційний реліз",
       "summary": "У золоту еру Nokia мобільні камери були справжнім витвором інженерного мистецтва. Поєднання оптики Carl Zeiss та гігантської матриці давало неймовірну деталізацію без жодних алгоритмів штучного інтелекту.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 14376,
-      "slug": "shi-halmuye-karyeru-junior-rozrobnykiv-ekspert-aws-poperedyv-pro-",
-      "title": "ШІ гальмує кар’єру junior-розробників: експерт AWS попередив про приховані ризики індустрії",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-06T12:19:44Z",
-      "date_formatted": "6 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://dev.ua/storage/images/19/24/96/12/derived/cf0612fc9cb56cd5fac83a65d8783a9b.webp",
-      "image_caption": "Матеріали dev.ua / Офіційний реліз",
-      "summary": "Сучасні інструменти штучного інтелекту змінюють правила гри в IT-сфері, проте їхня масова інтеграція створює серйозні виклики для новачків. Через автоматизацію базових завдань програмування молодші спеціалісти ризикують втратити можливість здобути критично важливий практичний досвід, який раніше був фундаментом для переходу на senior-позиції. Водночас вимоги ринку праці до junior-розробників за останні роки суттєво зросли, що створює розрив між очікуваннями роботодавців та реальною підготовкою кадрів.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
