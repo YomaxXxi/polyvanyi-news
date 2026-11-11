@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 16589,
+      "slug": "apple-arcade-popovnyuyetsya-kultovymy-franshyzamy",
+      "title": "Apple Arcade поповнюється культовими франшизами",
+      "category": "Геймінг",
+      "category_slug": "gaming",
+      "date": "2026-11-11T07:38:28Z",
+      "date_formatted": "11 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-arcade.jpg?quality=82&strip=all&resize=1200,628",
+      "image_caption": "Матеріали 9to5Mac (Apple) / Офіційний реліз",
+      "summary": "Сервіс мобільного геймінгу від Apple отримав чергове масштабне оновлення каталогу, яке приносить як довгоочікувані релізи, так і анонси майбутніх проєктів.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 16531,
       "slug": "tekhnolohiyi-yaki-my-vtratyly-dvopozytsiyna-knopka-kamery",
       "title": "Технології, які ми втратили: Двопозиційна кнопка камери",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Retro Tech / Офіційний реліз",
       "summary": "У золоту епоху мобільної фотографії Sony Xperia та Nokia Lumia мали справжню магію — виділену механічну кнопку затвора. Вона працювала рівно як на професійній дзеркалці: легке напівнатискання миттєво фіксувало фокус, а повне — робило кадр. Це давало нереальне відчуття єднання з гаджетом.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Абсолютний золотий стандарт захисту даних отримав математичне підтвердження своєї стійкості завдяки новітньому аналізу від Google DeepMind.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": null,
       "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
       "summary": "Більшість розробників і користувачів пишуть промти у стилі «напиши статтю» або «зроби аналіз», а потім дивуються «воді», галюцинаціям та нудному формату. Цей матеріал економить вам години правок та вибудовує кристально чітку комунікацію з LLM завдяки техніці Few-Shot Prompting. Додавання всього 2-3 якісних прикладів підвищує точність моделі на 70% і змушує її копіювати ваш унікальний тон і структуру.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 14158,
-      "slug": "vrazlyvist-sshole-dozvolyaye-khakeram-otrymuvaty-ssh-dostup-do-li",
-      "title": "Вразливість *sshole дозволяє хакерам отримувати SSH-доступ до Linux-пристроїв без жодного пароля",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-06T06:04:59Z",
-      "date_formatted": "6 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking.jpg",
-      "image_caption": "Матеріали Ars Technica (Technology Lab) / Офіційний реліз",
-      "summary": "В індустрії кібербезпеки зафіксовано масштабну загрозу: виявлено десятилітню вразливість, що зачіпає девайси під управлінням Alpine Linux та потенційно інші дистрибутиви. Проблема ховається у специфічній взаємодії між бібліотекою OpenSSH, полегшеною альтернативою libc під назвою musl та відсутністю системи PAM. Атака не потребує жодних спроб підбору і спрацьовує з першого з'єднання.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
