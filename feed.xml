@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 12 Nov 2026 11:44:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 12:40:13 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Технології, які ми втратили: Поворотна моторизована камера</title>
+      <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-povorotna-motoryzovana-kamera/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-povorotna-motoryzovana-kamera/</guid>
+      <pubDate>Thu, 12 Nov 2026 12:40:13 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Ця геніальна ідея дозволяла використовувати основну, найпотужнішу оптику смартфона для розкішних селфі та стрімів. Жодних компромісів із «мильними» фронталками у вирізах екрана!</description>
+    </item>
     <item>
       <title>Обхід захисту ШІ: користувач вигадав захоплення заручників заради піратського софту</title>
       <link>https://yomaxxxi.github.io/news/obkhid-zakhystu-shi-korystuvach-vyhadav-zakhoplennya-zaruchnykiv-/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 09 Nov 2026 17:03:10 +0000</pubDate>
       <category>Open Source</category>
       <description>Розробники AI-агентів знають біль: змусити LLM клікати по сайтах через важкі обгортки на кшталт Puppeteer чи Selenium — це повільно, дорого по токенах і постійно ламається. Vercel Labs випустила нативний інструмент, який дає агенту повноцінний браузер прямо через CLI.</description>
-    </item>
-    <item>
-      <title>Шпаргалка / Гайд: Швидке прототипування інтерфейсів через v0.dev та Bolt.new</title>
-      <link>https://yomaxxxi.github.io/news/shparhalka-hayd-shvydke-prototypuvannya-interfeysiv-cherez-v0dev-/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/shparhalka-hayd-shvydke-prototypuvannya-interfeysiv-cherez-v0dev-/</guid>
-      <pubDate>Mon, 09 Nov 2026 13:34:09 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Цей матеріал навчить вас збирати повноцінний Next.js та Tailwind фронтенд всього за 15 хвилин без ручної верстки. Економія часу складає мінімум 80% робочих годин на старті проєкту.</description>
     </item>
   </channel>
 </rss>

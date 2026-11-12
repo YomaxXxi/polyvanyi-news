@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 17955,
+      "slug": "tekhnolohiyi-yaki-my-vtratyly-povorotna-motoryzovana-kamera",
+      "title": "Технології, які ми втратили: Поворотна моторизована камера",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-12T12:40:13Z",
+      "date_formatted": "12 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": null,
+      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
+      "summary": "Ця геніальна ідея дозволяла використовувати основну, найпотужнішу оптику смартфона для розкішних селфі та стрімів. Жодних компромісів із «мильними» фронталками у вирізах екрана!",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 17828,
       "slug": "obkhid-zakhystu-shi-korystuvach-vyhadav-zakhoplennya-zaruchnykiv-",
       "title": "Обхід захисту ШІ: користувач вигадав захоплення заручників заради піратського софту",
@@ -1233,27 +1254,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156853.jpg",
       "image_caption": "Матеріали Ars Technica (Gadgets) / Офіційний реліз",
       "summary": "Нехтування базовими правилами оперативної безпеки (opsec) під час розгортання військ може мати фатальні наслідки не лише для місії, а й для особистого життя.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 14869,
-      "slug": "google-health-u-2026-rotsi-innovatsiyni-fishky-chy-pryvid-dlya-za",
-      "title": "Google Health у 2026 році: інноваційні фішки чи привід для занепокоєння?",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-07T09:42:42Z",
-      "date_formatted": "7 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/google-health-splash-screen-scaled.jpg",
-      "image_caption": "Матеріали Android Authority / Офіційний реліз",
-      "summary": "Нові медичні інструменти від екосистеми Google вражають своїми можливостями діагностики, проте експерти закликають користувачів дуже уважно читати дрібний шрифт у ліцензійних угодах перед тим, як довіряти алгоритмам власне здоров'я.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
