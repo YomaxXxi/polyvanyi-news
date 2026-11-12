@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 17800,
+      "slug": "zahroza-dlya-starykh-iphone-yak-zvychaynyy-perehlyad-saytiv-vede-",
+      "title": "Загроза для старих iPhone: як звичайний перегляд сайтів веде до крадіжки криптогаманців",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-12T10:32:28Z",
+      "date_formatted": "12 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://cdn4.telesco.pe/file/XDNdUwO5RWKfOahQtpMEqfUG0lcCSbEXNq9MKiHjudkRWqxkPIHBK7J8zRwyWJvKIXI7kU8fYxthyOjGhLS4s-2NJ9fgG3KQ4ZasIEPOIwuRew75aiU6XkpqdwSxrNz0QZFKyCoKAf3KGA0-WcU8Lh7Q7y6pa0R5Fxan9hQPwBuaK98eek0CeQCzaKlUBJq19zw5_HK17LInbU38gjrZwhoBdW6GXeLfzis6qWp3UjDj4Lt2hoON5H3O6dDNPJn1cJnd7CYPOyG5XO2XG3HxMjjT5jAb6V0YKz6Henfl0uCNsDS_AW7cmEObcQa8jqPCSSRYymQn1HDALIJ3xd4XTA.jpg",
+      "image_caption": "Матеріали ITC.ua (TG) (Telegram) / Офіційний реліз",
+      "summary": "Власники смартфонів Apple із застарілими версіями iOS опинилися під загрозою масштабних кібератак через вразливості в системі.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 17756,
       "slug": "onovlennya-android-auto-gemini-intelligence-zalyshaye-ne-pixel-pr",
       "title": "Оновлення Android Auto: Gemini Intelligence залишає не-Pixel пристрої позаду",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Android Authority / Офіційний реліз",
       "summary": "Google готує масштабне оновлення для Android Auto, яке принесе проактивні поради асистента безпосередньо в автомобільну систему.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Компанія розробила спеціалізовану систему Control Room, яка дозволяє оперативно припиняти роботу моделей штучного інтелекту у разі виникнення загроз чи непередбачуваної поведінки.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/knife-edge.jpg?quality=82&strip=all&w=1600",
       "image_caption": "Матеріали 9to5Mac (Apple) / Офіційний реліз",
       "summary": "Стрімінговий сервіс Apple продовжує зміцнювати свої позиції в ніші якісного документального та розважального контенту. Одразу після гучного завершення другого сезону шоу про боротьбу ресторанів за найпрестижніші гастрономічні відзнаки отримало офіційне замовлення на продовження. Проєкт, створений за участі Topjaw та зусиллями зіркової команди продюсерів, завоював неймовірну популярність серед глядачів по всьому світу завдяки чесному погляду на закулісся високої кухні.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 14841,
-      "slug": "mintsyfry-zaklykaye-doluchytysya-do-navchannya-ukrayinskoyi-shi-m",
-      "title": "Мінцифри закликає долучитися до навчання української ШІ-моделі «Сяйво»",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-07T07:33:48Z",
-      "date_formatted": "7 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://dev.ua/storage/images/37/06/33/89/derived/08195be17b9312057df18d2120e3ff89.webp",
-      "image_caption": "Матеріали dev.ua / Офіційний реліз",
-      "summary": "Кожен українець тепер може зробити свій внесок у розвиток вітчизняних технологій штучного інтелекту без жодного технічного досвіду.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
