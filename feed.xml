@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 12 Nov 2026 09:09:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 09:23:16 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Оновлення Android Auto: Gemini Intelligence залишає не-Pixel пристрої позаду</title>
+      <link>https://yomaxxxi.github.io/news/onovlennya-android-auto-gemini-intelligence-zalyshaye-ne-pixel-pr/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/onovlennya-android-auto-gemini-intelligence-zalyshaye-ne-pixel-pr/</guid>
+      <pubDate>Thu, 12 Nov 2026 09:23:16 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Google готує масштабне оновлення для Android Auto, яке принесе проактивні поради асистента безпосередньо в автомобільну систему.</description>
+    </item>
     <item>
       <title>GitHub-перлина дня: ggml-org/llama.cpp — найнадійніший нативний рушій для локального запуску та інференсу великих мовних моделей на будь-якому «залізі» без важких фреймворків. Замінює дорогі платні API-рішення та закриті хмарні SaaS від OpenAI чи Anthropic для тих, кому важлива абсолютна приватність і контроль.</title>
       <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-ggml-orgllamacpp-naynadiynishyy-natyvnyy-rush/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 09 Nov 2026 12:31:40 +0000</pubDate>
       <category>Техніка</category>
       <description>У золоту епоху смарт-буму інженери Nokia та Sony Ericsson дарували нам справжню магію. Уявіть: сідаєте в старе авто, жодних дротів, AUX-кабелів чи криво працюючого Bluetooth. Ви просто обираєте в меню улюбленого смартфона вільну хвилю, наприклад 88.5 FM, налаштовуєте магнітолу — і ваш трек-лист лунає на всю потужність аудіосистеми!</description>
-    </item>
-    <item>
-      <title>Дефіцит пам&#x27;яті змушує виробників повторно використовувати чипи зі старих пристроїв</title>
-      <link>https://yomaxxxi.github.io/news/defitsyt-pamyati-zmushuye-vyrobnykiv-povtorno-vykorystovuvaty-chy/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/defitsyt-pamyati-zmushuye-vyrobnykiv-povtorno-vykorystovuvaty-chy/</guid>
-      <pubDate>Mon, 09 Nov 2026 11:56:09 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Через стрімке зростання цін на компонентну базу ринок смартфонів шукає нові шляхи економії.</description>
     </item>
   </channel>
 </rss>
