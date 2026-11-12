@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 17638,
+      "slug": "9to5mac-daily-holovni-podiyi-ta-onovlennya-ekosystemy-apple",
+      "title": "9to5Mac Daily: Головні події та оновлення екосистеми Apple",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-12T04:29:44Z",
+      "date_formatted": "12 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&resize=1200,628",
+      "image_caption": "Матеріали 9to5Mac (Apple) / Офіційний реліз",
+      "summary": "Свіжий дайджест новин компанії приносить чимало цікавих анонсів, включаючи нові функції доступності, зміни в картографії та завершення цілої епохи для легендарних форумів підтримки.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 17360,
       "slug": "github-perlyna-dnya-metaastryx-potuzhna-open-source-dyzayn-system",
       "title": "GitHub-перлина дня: meta/astryx — Потужна open-source дизайн-система від Meta, створена для людей та AI-агентів",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
       "summary": "Astryx — це внутрішній титан Meta, який розвивався останні вісім років і тепер став доступним кожному. Він живить понад 13 000 додатків усередині компанії та пропонує понад 150 доступних компонентів із підтримкою темної теми й CLI.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": "https://github.com/meta/astryx",
       "github_repo": "meta/astryx"
@@ -59,7 +80,7 @@
       "summary": "Перестаньте платити за хмарні сервіси транскрипції на кшталт Otter заради переведення голосових записів, подкастів чи інтерв'ю у текст. Цей інструмент робить всю роботу локально у вашому браузері за лічені секунди і гарантує повну конфіденційність.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/gemini-overlay-sparkle-bubble-animation-ask-gemini-text-box-vivo-x300-ultra.jpg",
       "image_caption": "Матеріали Android Authority / Офіційний реліз",
       "summary": "Екосистема сервісів від пошукового гіганта продовжує еволюціонувати. Інженери корпорації тестують черговий пакет візуальних та функціональних покращень для мобільного додатку. Фокус розробників зосереджений на оптимізації взаємодії користувачів зі штучним інтелектом безпосередньо в інтерфейсі програми, що робить щоденні сценарії використання значно швидшими та комфортнішими.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 14476,
-      "slug": "shparhalka-hayd-yak-nalashtuvaty-mcp-model-context-protoco-14476",
-      "title": "Шпаргалка / Гайд: Як налаштувати MCP (Model Context Protocol) у Claude Desktop за 5 хвилин",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-06T13:40:08Z",
-      "date_formatted": "6 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": null,
-      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
-      "summary": "Цей матеріал вирішує головний біль розробників і продуктивних фахівців — як дати ШІ прямий доступ до ваших локальних файлів, баз даних та GitHub без довгих копіювань. Економія часу: мінімум 2 години на ручну налаштування та контекстне перемикання.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Wed, 11 Nov 2026 15:39:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 04:29:44 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>9to5Mac Daily: Головні події та оновлення екосистеми Apple</title>
+      <link>https://yomaxxxi.github.io/news/9to5mac-daily-holovni-podiyi-ta-onovlennya-ekosystemy-apple/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/9to5mac-daily-holovni-podiyi-ta-onovlennya-ekosystemy-apple/</guid>
+      <pubDate>Thu, 12 Nov 2026 04:29:44 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Свіжий дайджест новин компанії приносить чимало цікавих анонсів, включаючи нові функції доступності, зміни в картографії та завершення цілої епохи для легендарних форумів підтримки.</description>
+    </item>
     <item>
       <title>GitHub-перлина дня: meta/astryx — Потужна open-source дизайн-система від Meta, створена для людей та AI-агентів</title>
       <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-metaastryx-potuzhna-open-source-dyzayn-system/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 09 Nov 2026 08:27:44 +0000</pubDate>
       <category>Техніка</category>
       <description>Відома українська локалізаційна спілка SBT Localization («Шлякбитраф»), яка раніше подарувала гравцям офіційний переклад Baldur’s Gate 3, офіційно анонсувала роботу над масштабним українізатором для Mass Effect Legendary Edition.</description>
-    </item>
-    <item>
-      <title>Мікро-ШІ дня: Devv AI — Швидкий пошук рішень та код без зайвих вкладки</title>
-      <link>https://yomaxxxi.github.io/news/mikro-shi-dnya-devv-ai-shvydkyy-poshuk-rishen-ta-kod-bez-zayvykh-/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/mikro-shi-dnya-devv-ai-shvydkyy-poshuk-rishen-ta-kod-bez-zayvykh-/</guid>
-      <pubDate>Mon, 09 Nov 2026 07:32:09 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Більше не потрібно гортати десятки сторінок StackOverflow та старих гілок GitHub у пошуках причини дивного багу. Цей інструмент знаходить точне технічне рішення за лічені секунди прямо у вас в браузері.</description>
     </item>
   </channel>
 </rss>
