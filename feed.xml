@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 12 Nov 2026 06:03:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 07:04:52 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Кінець хаосу в чатах: Google представила експериментальний ШІ-інструмент Tabletop</title>
+      <link>https://yomaxxxi.github.io/news/kinets-khaosu-v-chatakh-google-predstavyla-eksperymentalnyy-shi-i/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/kinets-khaosu-v-chatakh-google-predstavyla-eksperymentalnyy-shi-i/</guid>
+      <pubDate>Thu, 12 Nov 2026 07:04:52 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Компанія Google Labs випустила новий сервіс Tabletop, створений для того, щоб позбавити користувачів головного болю під час спільного планування подій із друзями чи родиною.</description>
+    </item>
     <item>
       <title>Motorola MA2: новий бездротовий адаптер Android Auto виходить на ринок зі значним подорожчанням</title>
       <link>https://yomaxxxi.github.io/news/motorola-ma2-novyy-bezdrotovyy-adapter-android-auto-vykhodyt-na-r/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 09 Nov 2026 10:01:13 +0000</pubDate>
       <category>Open Source</category>
       <description>Інвестори та трейдери щодня витрачають години на збір ринкових даних, читання новин та побудову технічних індикаторів. Цей проєкт повністю автоматизує рутину, замінюючи дороговартісні термінали та підписки на закриті SaaS-платформи для фінтех-аналітики. Інструмент стрімко увірвався в тренди завдяки поєднанню штучного інтелекту з мультиджерельним трекінгом ринків без потреби у платних серверах.</description>
-    </item>
-    <item>
-      <title>Конфлікт навколо DisplayLink: Synaptics вимагає закрити відкритий драйвер</title>
-      <link>https://yomaxxxi.github.io/news/konflikt-navkolo-displaylink-synaptics-vymahaye-zakryty-vidkrytyy/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/konflikt-navkolo-displaylink-synaptics-vymahaye-zakryty-vidkrytyy/</guid>
-      <pubDate>Mon, 09 Nov 2026 09:29:05 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Компанія Synaptics надіслала листа про припинення діяльності розробнику-хобісту Ма Ксу Лотіану через його проект відкритих джерел Vino.</description>
     </item>
   </channel>
 </rss>

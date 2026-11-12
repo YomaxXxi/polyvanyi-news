@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 17700,
+      "slug": "kinets-khaosu-v-chatakh-google-predstavyla-eksperymentalnyy-shi-i",
+      "title": "Кінець хаосу в чатах: Google представила експериментальний ШІ-інструмент Tabletop",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-12T07:04:52Z",
+      "date_formatted": "12 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/Google-Tabletop.jpg",
+      "image_caption": "Матеріали Android Authority / Офіційний реліз",
+      "summary": "Компанія Google Labs випустила новий сервіс Tabletop, створений для того, щоб позбавити користувачів головного болю під час спільного планування подій із друзями чи родиною.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 17668,
       "slug": "motorola-ma2-novyy-bezdrotovyy-adapter-android-auto-vykhodyt-na-r",
       "title": "Motorola MA2: новий бездротовий адаптер Android Auto виходить на ринок зі значним подорожчанням",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Android Authority / Офіційний реліз",
       "summary": "Компанія випустила наступника культового адаптера, але ціна розчарує багатьох покупців.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Astryx — це внутрішній титан Meta, який розвивався останні вісім років і тепер став доступним кожному. Він живить понад 13 000 додатків усередині компанії та пропонує понад 150 доступних компонентів із підтримкою темної теми й CLI.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": "https://github.com/meta/astryx",
       "github_repo": "meta/astryx"
     },
@@ -1233,27 +1254,6 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2020/07/google_nest_hello_doorbell_1.jpg?quality=82&strip=all&w=1600",
       "image_caption": "Матеріали 9to5Google (Android & Google) / Офіційний реліз",
       "summary": "Власники класичних систем розумного дому зіткнулися з масовим збоєм, який повністю паралізував трансляцію відео в реальному часі. Проблема зачепила перше покоління дверних дзвінків від пошукового гіганта, відомих як Nest Hello або Nest Doorbell (wired, 1st gen). Користувачі масово скаржаться на те, що додаток Google Home більше не показує живий ефір з камери, хоча базові сповіщення та інтеграція з іншими пристроями продовжують працювати.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 14826,
-      "slug": "ios-27-korystuvachi-masovo-skarzhatsya-na-problemy-z-vyvedennyam-",
-      "title": "iOS 27: користувачі масово скаржаться на проблеми з виведенням відео через HDMI",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-07T04:00:15Z",
-      "date_formatted": "7 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/ios-27-video-out-issue/-952x498w6/gsmarena_000.jpg",
-      "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
-      "summary": "Оновлення мобільної операційної системи від Apple традиційно супроводжуються технічними нюансами, проте цього разу власники iPhone стикнулися з неприємним апаратним збоєм. На профільних форумах та Reddit дедалі більше користувачів повідомляють про повну відсутність стабільного сигналу під час підключення смартфонів до зовнішніх екранів і моніторів через дріт.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
