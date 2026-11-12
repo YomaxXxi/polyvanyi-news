@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 17828,
+      "slug": "obkhid-zakhystu-shi-korystuvach-vyhadav-zakhoplennya-zaruchnykiv-",
+      "title": "Обхід захисту ШІ: користувач вигадав захоплення заручників заради піратського софту",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-12T11:44:02Z",
+      "date_formatted": "12 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://dev.ua/storage/images/68/96/60/86/derived/c2b97994d7afe2e5b053d537a4904150.webp",
+      "image_caption": "Матеріали dev.ua / Офіційний реліз",
+      "summary": "Неординарний випадок маніпуляції великою мовною моделлю знову підняв питання безпеки.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 17800,
       "slug": "zahroza-dlya-starykh-iphone-yak-zvychaynyy-perehlyad-saytiv-vede-",
       "title": "Загроза для старих iPhone: як звичайний перегляд сайтів веде до крадіжки криптогаманців",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали ITC.ua (TG) (Telegram) / Офіційний реліз",
       "summary": "Власники смартфонів Apple із застарілими версіями iOS опинилися під загрозою масштабних кібератак через вразливості в системі.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "У розробників часто болить голова через розгортання важких Python-стеків (PyTorch, Transformers) лише для того, щоб запустити кількамодельну архітектуру локально. Проєкт solve цю проблему завдяки чистому C/C++ без зайвих залежностей.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": "https://github.com/ggml-org/llama.cpp",
       "github_repo": "ggml-org/llama.cpp"
     },
@@ -1233,27 +1254,6 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/google-health-splash-screen-scaled.jpg",
       "image_caption": "Матеріали Android Authority / Офіційний реліз",
       "summary": "Нові медичні інструменти від екосистеми Google вражають своїми можливостями діагностики, проте експерти закликають користувачів дуже уважно читати дрібний шрифт у ліцензійних угодах перед тим, як довіряти алгоритмам власне здоров'я.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 14805,
-      "slug": "apple-tv-prodovzhuye-kulinarnyy-khit-knife-edge-chasing-michelin-",
-      "title": "Apple TV продовжує кулінарний хіт «Knife Edge: Chasing Michelin Stars» на третій сезон",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-07T08:37:59Z",
-      "date_formatted": "7 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/knife-edge.jpg?quality=82&strip=all&w=1600",
-      "image_caption": "Матеріали 9to5Mac (Apple) / Офіційний реліз",
-      "summary": "Стрімінговий сервіс Apple продовжує зміцнювати свої позиції в ніші якісного документального та розважального контенту. Одразу після гучного завершення другого сезону шоу про боротьбу ресторанів за найпрестижніші гастрономічні відзнаки отримало офіційне замовлення на продовження. Проєкт, створений за участі Topjaw та зусиллями зіркової команди продюсерів, завоював неймовірну популярність серед глядачів по всьому світу завдяки чесному погляду на закулісся високої кухні.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

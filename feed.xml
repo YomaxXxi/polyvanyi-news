@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 12 Nov 2026 10:32:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 11:44:02 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Обхід захисту ШІ: користувач вигадав захоплення заручників заради піратського софту</title>
+      <link>https://yomaxxxi.github.io/news/obkhid-zakhystu-shi-korystuvach-vyhadav-zakhoplennya-zaruchnykiv-/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/obkhid-zakhystu-shi-korystuvach-vyhadav-zakhoplennya-zaruchnykiv-/</guid>
+      <pubDate>Thu, 12 Nov 2026 11:44:02 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Неординарний випадок маніпуляції великою мовною моделлю знову підняв питання безпеки.</description>
+    </item>
     <item>
       <title>Загроза для старих iPhone: як звичайний перегляд сайтів веде до крадіжки криптогаманців</title>
       <link>https://yomaxxxi.github.io/news/zahroza-dlya-starykh-iphone-yak-zvychaynyy-perehlyad-saytiv-vede-/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 09 Nov 2026 13:34:09 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Цей матеріал навчить вас збирати повноцінний Next.js та Tailwind фронтенд всього за 15 хвилин без ручної верстки. Економія часу складає мінімум 80% робочих годин на старті проєкту.</description>
-    </item>
-    <item>
-      <title>Боротьба за правду: анонсовано прототип камери CAIM1 проти фейків від ШІ</title>
-      <link>https://yomaxxxi.github.io/news/borotba-za-pravdu-anonsovano-prototyp-kamery-caim1-proty-feykiv-v/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/borotba-za-pravdu-anonsovano-prototyp-kamery-caim1-proty-feykiv-v/</guid>
-      <pubDate>Mon, 09 Nov 2026 13:24:11 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Стартап CAIM1 створює унікальний інструмент для відновлення довіри до цифрових зображень на тлі епідемії глибоких підробок.</description>
     </item>
   </channel>
 </rss>
