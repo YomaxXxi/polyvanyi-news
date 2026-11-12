@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 18069,
+      "slug": "lehenda-zaminyuye-lehendu-vidstavka-dzhensena-khuanha-z-posady-ce",
+      "title": "«Легенда замінює легенду»: відставка Дженсена Хуанга з посади CEO Nvidia та несподівані кадрові зміни у техгіганті",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-12T14:37:39Z",
+      "date_formatted": "12 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://dev.ua/storage/images/24/35/66/17/derived/210b5de76c993167d7662ac7faa30c5c.webp",
+      "image_caption": "Матеріали dev.ua / Офіційний реліз",
+      "summary": "Співзасновник та багаторічний керівник Nvidia Дженсен Хуанг залишив усі ключові посади в компанії, спровокувавши масовий резонанс на ринку та оригінальну реакцію Білого дому.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 18040,
       "slug": "shparhalka-hayd-yak-prybraty-rozmyttya-ta-pokrashchyty-selfi-na-g",
       "title": "Шпаргалка / Гайд: Як прибрати розмиття та покращити селфі на Google Pixel",
@@ -37,7 +58,7 @@
       "image_caption": "Матеріали The Verge / Офіційний реліз",
       "summary": "Бренд Ecoflow випустив функціональний пристрій для тих, хто постійно в дорозі та має кілька гаджетів одночасно. Цей ультраємний павербанк здатен одночасно живити до трьох пристроїв на максимальній швидкості.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -101,7 +122,7 @@
       "summary": "Власники смартфонів Apple із застарілими версіями iOS опинилися під загрозою масштабних кібератак через вразливості в системі.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": null,
       "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
       "summary": "Цей матеріал вирішує вічну біль розробників: як за кілька секунд перетворити сирий код, шматки скриптів чи набір ендпоінтів на преміальну, професійну документацію у стилі Stripe чи Vercel. Економить мінімум 3-4 години ручної роботи над кожним проєктом.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 14940,
-      "slug": "tekhnolohiyi-yaki-my-vtratyly-moto-mods",
-      "title": "Технології, які ми втратили: Moto Mods",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-07T12:35:28Z",
-      "date_formatted": "7 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Moto_Z_Hasselblad_True_Zoom_%2832437765910%29.jpg",
-      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
-      "summary": "Пара потужних неодимових магнітів на спинці та контактна група здатні були за секунду перетворити звичайний тонкий смартфон на повноцінний кінотеатр з проєктором, преміальну камеру Hasselblad із 10-кратним оптичним зумом або потужну колонку JBL. Ніякого перезавантаження, очікування драйверів чи заміни чохлів — справжня магія modular design в епоху, коли гаджети ще намагалися дивувати.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

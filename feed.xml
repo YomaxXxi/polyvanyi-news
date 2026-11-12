@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 12 Nov 2026 14:12:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 14:37:39 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>«Легенда замінює легенду»: відставка Дженсена Хуанга з посади CEO Nvidia та несподівані кадрові зміни у техгіганті</title>
+      <link>https://yomaxxxi.github.io/news/lehenda-zaminyuye-lehendu-vidstavka-dzhensena-khuanha-z-posady-ce/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/lehenda-zaminyuye-lehendu-vidstavka-dzhensena-khuanha-z-posady-ce/</guid>
+      <pubDate>Thu, 12 Nov 2026 14:37:39 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Співзасновник та багаторічний керівник Nvidia Дженсен Хуанг залишив усі ключові посади в компанії, спровокувавши масовий резонанс на ринку та оригінальну реакцію Білого дому.</description>
+    </item>
     <item>
       <title>Шпаргалка / Гайд: Як прибрати розмиття та покращити селфі на Google Pixel</title>
       <link>https://yomaxxxi.github.io/news/shparhalka-hayd-yak-prybraty-rozmyttya-ta-pokrashchyty-selfi-na-g/</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 10 Nov 2026 07:22:04 +0000</pubDate>
       <category>Техніка</category>
       <description>Американська фінтех-компанія Ramp вирішила змінити підхід до найму, зробивши ставку на надмотивованих розробників-самоучок без огляду на класичні дипломи та резюме.</description>
-    </item>
-    <item>
-      <title>Витоки камер Galaxy S27: що чекає на нову серію Samsung?</title>
-      <link>https://yomaxxxi.github.io/news/vytoky-kamer-galaxy-s27-shcho-chekaye-na-novu-seriyu-samsung/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/vytoky-kamer-galaxy-s27-shcho-chekaye-na-novu-seriyu-samsung/</guid>
-      <pubDate>Tue, 10 Nov 2026 06:27:49 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Мережеві інсайдери розкрили деталі про камерні модулі майбутньої лінійки смарт-пристроїв Galaxy S27 series.</description>
     </item>
   </channel>
 </rss>
