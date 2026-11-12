@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 12 Nov 2026 04:29:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 06:03:38 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Motorola MA2: новий бездротовий адаптер Android Auto виходить на ринок зі значним подорожчанням</title>
+      <link>https://yomaxxxi.github.io/news/motorola-ma2-novyy-bezdrotovyy-adapter-android-auto-vykhodyt-na-r/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/motorola-ma2-novyy-bezdrotovyy-adapter-android-auto-vykhodyt-na-r/</guid>
+      <pubDate>Thu, 12 Nov 2026 06:03:38 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Компанія випустила наступника культового адаптера, але ціна розчарує багатьох покупців.</description>
+    </item>
     <item>
       <title>9to5Mac Daily: Головні події та оновлення екосистеми Apple</title>
       <link>https://yomaxxxi.github.io/news/9to5mac-daily-holovni-podiyi-ta-onovlennya-ekosystemy-apple/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 09 Nov 2026 09:29:05 +0000</pubDate>
       <category>Техніка</category>
       <description>Компанія Synaptics надіслала листа про припинення діяльності розробнику-хобісту Ма Ксу Лотіану через його проект відкритих джерел Vino.</description>
-    </item>
-    <item>
-      <title>Українізація Mass Effect: SBT Localization береться за культову трилогію</title>
-      <link>https://yomaxxxi.github.io/news/ukrayinizatsiya-mass-effect-sbt-localization-beretsya-za-kultovu-/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/ukrayinizatsiya-mass-effect-sbt-localization-beretsya-za-kultovu-/</guid>
-      <pubDate>Mon, 09 Nov 2026 08:27:44 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Відома українська локалізаційна спілка SBT Localization («Шлякбитраф»), яка раніше подарувала гравцям офіційний переклад Baldur’s Gate 3, офіційно анонсувала роботу над масштабним українізатором для Mass Effect Legendary Edition.</description>
     </item>
   </channel>
 </rss>

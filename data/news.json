@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 17668,
+      "slug": "motorola-ma2-novyy-bezdrotovyy-adapter-android-auto-vykhodyt-na-r",
+      "title": "Motorola MA2: новий бездротовий адаптер Android Auto виходить на ринок зі значним подорожчанням",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-12T06:03:38Z",
+      "date_formatted": "12 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Motorola-Sound-MA2-in-hand.jpg",
+      "image_caption": "Матеріали Android Authority / Офіційний реліз",
+      "summary": "Компанія випустила наступника культового адаптера, але ціна розчарує багатьох покупців.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 17638,
       "slug": "9to5mac-daily-holovni-podiyi-ta-onovlennya-ekosystemy-apple",
       "title": "9to5Mac Daily: Головні події та оновлення екосистеми Apple",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали 9to5Mac (Apple) / Офіційний реліз",
       "summary": "Свіжий дайджест новин компанії приносить чимало цікавих анонсів, включаючи нові функції доступності, зміни в картографії та завершення цілої епохи для легендарних форумів підтримки.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Неприємний технічний збій у браузері залишав юзерів без можливості закрити вікно пошукового інструменту.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://fdn.gsmarena.com/imgroot/news/26/11/ios-27-video-out-issue/-952x498w6/gsmarena_000.jpg",
       "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
       "summary": "Оновлення мобільної операційної системи від Apple традиційно супроводжуються технічними нюансами, проте цього разу власники iPhone стикнулися з неприємним апаратним збоєм. На профільних форумах та Reddit дедалі більше користувачів повідомляють про повну відсутність стабільного сигналу під час підключення смартфонів до зовнішніх екранів і моніторів через дріт.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 14520,
-      "slug": "google-onovlyuye-interfeys-gemini-ohlyad-prykhovanykh-zmin-ta-nov",
-      "title": "Google оновлює інтерфейс Gemini: огляд прихованих змін та нової анімації",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-06T14:46:41Z",
-      "date_formatted": "6 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/gemini-overlay-sparkle-bubble-animation-ask-gemini-text-box-vivo-x300-ultra.jpg",
-      "image_caption": "Матеріали Android Authority / Офіційний реліз",
-      "summary": "Екосистема сервісів від пошукового гіганта продовжує еволюціонувати. Інженери корпорації тестують черговий пакет візуальних та функціональних покращень для мобільного додатку. Фокус розробників зосереджений на оптимізації взаємодії користувачів зі штучним інтелектом безпосередньо в інтерфейсі програми, що робить щоденні сценарії використання значно швидшими та комфортнішими.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
