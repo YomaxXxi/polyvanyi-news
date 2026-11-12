@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 12 Nov 2026 12:40:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 13:30:53 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Потужний павербанк від Ecoflow: швидка зарядка трьох пристроїв всього за $49</title>
+      <link>https://yomaxxxi.github.io/news/potuzhnyy-paverbank-vid-ecoflow-shvydka-zaryadka-trokh-prystroyiv/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/potuzhnyy-paverbank-vid-ecoflow-shvydka-zaryadka-trokh-prystroyiv/</guid>
+      <pubDate>Thu, 12 Nov 2026 13:30:53 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Бренд Ecoflow випустив функціональний пристрій для тих, хто постійно в дорозі та має кілька гаджетів одночасно. Цей ультраємний павербанк здатен одночасно живити до трьох пристроїв на максимальній швидкості.</description>
+    </item>
     <item>
       <title>Технології, які ми втратили: Поворотна моторизована камера</title>
       <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-povorotna-motoryzovana-kamera/</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 10 Nov 2026 04:17:33 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Anthropic представила нову модель Claude Fable 5.2 Mythos 5.2, яка демонструє суттєвий приріст продуктивності.</description>
-    </item>
-    <item>
-      <title>GitHub-перлина дня: vercel-labs/agent-browser — Нативна CLI-утиліта на Rust для керування браузером штучним інтелектом (заміна повільним Puppeteer/Playwright скриптам)</title>
-      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-vercel-labsagent-browser-natyvna-cli-utylita-/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-vercel-labsagent-browser-natyvna-cli-utylita-/</guid>
-      <pubDate>Mon, 09 Nov 2026 17:03:10 +0000</pubDate>
-      <category>Open Source</category>
-      <description>Розробники AI-агентів знають біль: змусити LLM клікати по сайтах через важкі обгортки на кшталт Puppeteer чи Selenium — це повільно, дорого по токенах і постійно ламається. Vercel Labs випустила нативний інструмент, який дає агенту повноцінний браузер прямо через CLI.</description>
     </item>
   </channel>
 </rss>

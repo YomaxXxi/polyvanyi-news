@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 17998,
+      "slug": "potuzhnyy-paverbank-vid-ecoflow-shvydka-zaryadka-trokh-prystroyiv",
+      "title": "Потужний павербанк від Ecoflow: швидка зарядка трьох пристроїв всього за $49",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-12T13:30:53Z",
+      "date_formatted": "12 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ecoflow.png?quality=90&strip=all&crop=0,0,100,100",
+      "image_caption": "Матеріали The Verge / Офіційний реліз",
+      "summary": "Бренд Ecoflow випустив функціональний пристрій для тих, хто постійно в дорозі та має кілька гаджетів одночасно. Цей ультраємний павербанк здатен одночасно живити до трьох пристроїв на максимальній швидкості.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 17955,
       "slug": "tekhnolohiyi-yaki-my-vtratyly-povorotna-motoryzovana-kamera",
       "title": "Технології, які ми втратили: Поворотна моторизована камера",
@@ -37,7 +58,7 @@
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Неординарний випадок маніпуляції великою мовною моделлю знову підняв питання безпеки.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -80,7 +101,7 @@
       "summary": "Google готує масштабне оновлення для Android Auto, яке принесе проактивні поради асистента безпосередньо в автомобільну систему.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://www.engadget.com/img/gallery/10-of-the-coolest-features-in-samsungs-new-one-ui-9-update/l-intro-1793375161.jpg",
       "image_caption": "Матеріали Engadget / Офіційний реліз",
       "summary": "Свіжа прошивка One UI 9 активно поширюється на пристрої Galaxy, пропонуючи безліч корисних покращень як для звичайних користувачів, так і для фанатів кастомізації. Розбираємо найцікавіші функції, які варто випробувати одразу після оновлення.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 14894,
-      "slug": "brytanskyy-viyskovyy-proihnoruvav-nakazy-z-bezpeky-ta-stav-zhertv",
-      "title": "Британський військовий проігнорував накази з безпеки та став жертвою шантажу",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-07T10:57:46Z",
-      "date_formatted": "7 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156853.jpg",
-      "image_caption": "Матеріали Ars Technica (Gadgets) / Офіційний реліз",
-      "summary": "Нехтування базовими правилами оперативної безпеки (opsec) під час розгортання військ може мати фатальні наслідки не лише для місії, а й для особистого життя.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
