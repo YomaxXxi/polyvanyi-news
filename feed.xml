@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 12 Nov 2026 08:05:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 09:09:47 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: ggml-org/llama.cpp — найнадійніший нативний рушій для локального запуску та інференсу великих мовних моделей на будь-якому «залізі» без важких фреймворків. Замінює дорогі платні API-рішення та закриті хмарні SaaS від OpenAI чи Anthropic для тих, кому важлива абсолютна приватність і контроль.</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-ggml-orgllamacpp-naynadiynishyy-natyvnyy-rush/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-ggml-orgllamacpp-naynadiynishyy-natyvnyy-rush/</guid>
+      <pubDate>Thu, 12 Nov 2026 09:09:47 +0000</pubDate>
+      <category>Open Source</category>
+      <description>У розробників часто болить голова через розгортання важких Python-стеків (PyTorch, Transformers) лише для того, щоб запустити кількамодельну архітектуру локально. Проєкт solve цю проблему завдяки чистому C/C++ без зайвих залежностей.</description>
+    </item>
     <item>
       <title>OpenAI створила &quot;червону кнопку&quot; для екстреної зупинки ШІ-моделей</title>
       <link>https://yomaxxxi.github.io/news/openai-stvoryla-chervonu-knopku-dlya-ekstrenoyi-zupynky-shi-model/</link>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 09 Nov 2026 11:56:09 +0000</pubDate>
       <category>Техніка</category>
       <description>Через стрімке зростання цін на компонентну базу ринок смартфонів шукає нові шляхи економії.</description>
-    </item>
-    <item>
-      <title>Скрипт ram-altman: скаржимося Сему Алтману на недостатнє використання оперативної пам&#x27;яті</title>
-      <link>https://yomaxxxi.github.io/news/skrypt-ram-altman-skarzhymosya-semu-altmanu-na-nedostatnye-vykory/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/skrypt-ram-altman-skarzhymosya-semu-altmanu-na-nedostatnye-vykory/</guid>
-      <pubDate>Mon, 09 Nov 2026 10:45:55 +0000</pubDate>
-      <category>Техніка</category>
-      <description>З&#x27;явився кумедний інструмент, який карає користувачів за занадто вільну оперативну пам&#x27;ять на ПК.</description>
     </item>
   </channel>
 </rss>

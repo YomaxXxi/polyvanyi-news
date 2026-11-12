@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 17754,
+      "slug": "github-perlyna-dnya-ggml-orgllamacpp-naynadiynishyy-natyvnyy-rush",
+      "title": "GitHub-перлина дня: ggml-org/llama.cpp — найнадійніший нативний рушій для локального запуску та інференсу великих мовних моделей на будь-якому «залізі» без важких фреймворків. Замінює дорогі платні API-рішення та закриті хмарні SaaS від OpenAI чи Anthropic для тих, кому важлива абсолютна приватність і контроль.",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-12T09:09:47Z",
+      "date_formatted": "12 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/1/ggml-org/llama.cpp",
+      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
+      "summary": "У розробників часто болить голова через розгортання важких Python-стеків (PyTorch, Transformers) лише для того, щоб запустити кількамодельну архітектуру локально. Проєкт solve цю проблему завдяки чистому C/C++ без зайвих залежностей.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": "https://github.com/ggml-org/llama.cpp",
+      "github_repo": "ggml-org/llama.cpp"
+    },
+    {
       "id": 17718,
       "slug": "openai-stvoryla-chervonu-knopku-dlya-ekstrenoyi-zupynky-shi-model",
       "title": "OpenAI створила \"червону кнопку\" для екстреної зупинки ШІ-моделей",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
       "summary": "Компанія розробила спеціалізовану систему Control Room, яка дозволяє оперативно припиняти роботу моделей штучного інтелекту у разі виникнення загроз чи непередбачуваної поведінки.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Компанія випустила наступника культового адаптера, але ціна розчарує багатьох покупців.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": null,
       "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
       "summary": "Цей матеріал економить години робочого часу на дебагінг, закриває вразливості ще до релізу та змушує ШІ думати як досвідчений Principal Engineer, а не як звичайний чат-бот. Забудьте про поверхневі відповіді у стилі 'код виглядає добре'.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 14836,
-      "slug": "samsung-galaxy-buds-on-yevropeyskyy-reliz-otrymav-bilsh-tochni-te",
-      "title": "Samsung Galaxy Buds On: європейський реліз отримав більш точні терміни",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-07T06:23:30Z",
-      "date_formatted": "7 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-buds-on-us/-952x498w6/gsmarena_000.jpg",
-      "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
-      "summary": "Інноваційні бездротові навушники від Samsung нарешті готуються до підкорення європейського ринку. Інсайдерські джерела розкрили конкретніші плани техногіганта щодо старту продажів нової моделі в регіоні.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
