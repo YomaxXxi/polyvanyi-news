@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 18040,
+      "slug": "shparhalka-hayd-yak-prybraty-rozmyttya-ta-pokrashchyty-selfi-na-g",
+      "title": "Шпаргалка / Гайд: Як прибрати розмиття та покращити селфі на Google Pixel",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-12T14:12:50Z",
+      "date_formatted": "12 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": null,
+      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
+      "summary": "Розберемося, чому фронтальна камера Pixel іноді грішить надмірним «милом» на обличчі та які налаштування повернути в норму, щоб знімки стали різкими й деталізованими.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 17998,
       "slug": "potuzhnyy-paverbank-vid-ecoflow-shvydka-zaryadka-trokh-prystroyiv",
       "title": "Потужний павербанк від Ecoflow: швидка зарядка трьох пристроїв всього за $49",
@@ -1233,27 +1254,6 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Moto_Z_Hasselblad_True_Zoom_%2832437765910%29.jpg",
       "image_caption": "Матеріали Retro Tech / Офіційний реліз",
       "summary": "Пара потужних неодимових магнітів на спинці та контактна група здатні були за секунду перетворити звичайний тонкий смартфон на повноцінний кінотеатр з проєктором, преміальну камеру Hasselblad із 10-кратним оптичним зумом або потужну колонку JBL. Ніякого перезавантаження, очікування драйверів чи заміни чохлів — справжня магія modular design в епоху, коли гаджети ще намагалися дивувати.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 14915,
-      "slug": "onovlennya-samsung-one-ui-9-holovni-fishky-ta-prykhovani-mozhlyvo",
-      "title": "Оновлення Samsung One UI 9: головні фішки та приховані можливості системи",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-07T12:21:43Z",
-      "date_formatted": "7 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://www.engadget.com/img/gallery/10-of-the-coolest-features-in-samsungs-new-one-ui-9-update/l-intro-1793375161.jpg",
-      "image_caption": "Матеріали Engadget / Офіційний реліз",
-      "summary": "Свіжа прошивка One UI 9 активно поширюється на пристрої Galaxy, пропонуючи безліч корисних покращень як для звичайних користувачів, так і для фанатів кастомізації. Розбираємо найцікавіші функції, які варто випробувати одразу після оновлення.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

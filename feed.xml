@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 12 Nov 2026 13:30:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 14:12:50 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Шпаргалка / Гайд: Як прибрати розмиття та покращити селфі на Google Pixel</title>
+      <link>https://yomaxxxi.github.io/news/shparhalka-hayd-yak-prybraty-rozmyttya-ta-pokrashchyty-selfi-na-g/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/shparhalka-hayd-yak-prybraty-rozmyttya-ta-pokrashchyty-selfi-na-g/</guid>
+      <pubDate>Thu, 12 Nov 2026 14:12:50 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Розберемося, чому фронтальна камера Pixel іноді грішить надмірним «милом» на обличчі та які налаштування повернути в норму, щоб знімки стали різкими й деталізованими.</description>
+    </item>
     <item>
       <title>Потужний павербанк від Ecoflow: швидка зарядка трьох пристроїв всього за $49</title>
       <link>https://yomaxxxi.github.io/news/potuzhnyy-paverbank-vid-ecoflow-shvydka-zaryadka-trokh-prystroyiv/</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 10 Nov 2026 06:27:49 +0000</pubDate>
       <category>Техніка</category>
       <description>Мережеві інсайдери розкрили деталі про камерні модулі майбутньої лінійки смарт-пристроїв Galaxy S27 series.</description>
-    </item>
-    <item>
-      <title>Claude Fable 5.2: прорив у програмуванні та робототехніці</title>
-      <link>https://yomaxxxi.github.io/news/claude-fable-52-proryv-u-prohramuvanni-ta-robototekhnitsi/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/claude-fable-52-proryv-u-prohramuvanni-ta-robototekhnitsi/</guid>
-      <pubDate>Tue, 10 Nov 2026 04:17:33 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Anthropic представила нову модель Claude Fable 5.2 Mythos 5.2, яка демонструє суттєвий приріст продуктивності.</description>
     </item>
   </channel>
 </rss>
