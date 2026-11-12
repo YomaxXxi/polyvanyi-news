@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Thu, 12 Nov 2026 14:37:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 15:39:46 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: nvm-sh/nvm — Стандарт де-факто для ізольованого менеджменту версій Node.js без конфліктів та болю</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-nvm-shnvm-standart-de-fakto-dlya-izolovanoho-/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-nvm-shnvm-standart-de-fakto-dlya-izolovanoho-/</guid>
+      <pubDate>Thu, 12 Nov 2026 15:39:46 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Розробники знають біль, коли різні проєкти вимагають несумісних версій Node.js. Глобальне встановлення ламає продакшн-скрипти та змушує страждати від прав суперкористувача. nvm повністю закриває цей біль, дозволяючи тримати десятки ізольованих середовищ у домашній директорії.</description>
+    </item>
     <item>
       <title>«Легенда замінює легенду»: відставка Дженсена Хуанга з посади CEO Nvidia та несподівані кадрові зміни у техгіганті</title>
       <link>https://yomaxxxi.github.io/news/lehenda-zaminyuye-lehendu-vidstavka-dzhensena-khuanha-z-posady-ce/</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 10 Nov 2026 08:35:23 +0000</pubDate>
       <category>Геймінг</category>
       <description>До довгоочікуваного релізу залишаються лічені дні, і видавець Rockstar Games офіційно відкрив попереднє завантаження гри для власників консолей Xbox Series X|S та PlayStation 5 у більшості регіонів світу. Тепер гравці, які вже оформили передзамовлення, можуть заздалегідь встановити тайтл на накопичувач і не витрачати час у день прем&#x27;єри.</description>
-    </item>
-    <item>
-      <title>Фінтех-гігант Ramp вартістю $60 млрд найняв 14-річного розробника: чому компанія обирає юні таланти</title>
-      <link>https://yomaxxxi.github.io/news/fintekh-hihant-ramp-vartistyu-60-mlrd-naynyav-14-richnoho-rozrobn/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/fintekh-hihant-ramp-vartistyu-60-mlrd-naynyav-14-richnoho-rozrobn/</guid>
-      <pubDate>Tue, 10 Nov 2026 07:22:04 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Американська фінтех-компанія Ramp вирішила змінити підхід до найму, зробивши ставку на надмотивованих розробників-самоучок без огляду на класичні дипломи та резюме.</description>
     </item>
   </channel>
 </rss>

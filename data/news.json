@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 18149,
+      "slug": "github-perlyna-dnya-nvm-shnvm-standart-de-fakto-dlya-izolovanoho-",
+      "title": "GitHub-перлина дня: nvm-sh/nvm — Стандарт де-факто для ізольованого менеджменту версій Node.js без конфліктів та болю",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-12T15:39:46Z",
+      "date_formatted": "12 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/1/nvm-sh/nvm",
+      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
+      "summary": "Розробники знають біль, коли різні проєкти вимагають несумісних версій Node.js. Глобальне встановлення ламає продакшн-скрипти та змушує страждати від прав суперкористувача. nvm повністю закриває цей біль, дозволяючи тримати десятки ізольованих середовищ у домашній директорії.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": "https://github.com/nvm-sh/nvm",
+      "github_repo": "nvm-sh/nvm"
+    },
+    {
       "id": 18069,
       "slug": "lehenda-zaminyuye-lehendu-vidstavka-dzhensena-khuanha-z-posady-ce",
       "title": "«Легенда замінює легенду»: відставка Дженсена Хуанга з посади CEO Nvidia та несподівані кадрові зміни у техгіганті",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Співзасновник та багаторічний керівник Nvidia Дженсен Хуанг залишив усі ключові посади в компанії, спровокувавши масовий резонанс на ринку та оригінальну реакцію Білого дому.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -101,7 +122,7 @@
       "summary": "Неординарний випадок маніпуляції великою мовною моделлю знову підняв питання безпеки.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://img.mezha.ua/mezha/images/doc/8/0/333636/80baa6bb90eade48af243298df20d335.jpeg?w=1200&q=85&stamp=1793989302",
       "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
       "summary": "Історія українського кіно — це шлях неймовірних злетів, боротьби з цензурою та створення унікальних шедеврів попри заборони тоталітарної системи.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 14965,
-      "slug": "shparhalka-hayd-technical-writer-henerator-idealnoho-readme-ta-ap",
-      "title": "Шпаргалка / Гайд: Technical Writer (Генератор ідеального README та API docs)",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-07T13:37:57Z",
-      "date_formatted": "7 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": null,
-      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
-      "summary": "Цей матеріал вирішує вічну біль розробників: як за кілька секунд перетворити сирий код, шматки скриптів чи набір ендпоінтів на преміальну, професійну документацію у стилі Stripe чи Vercel. Економить мінімум 3-4 години ручної роботи над кожним проєктом.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
