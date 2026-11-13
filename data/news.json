@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 18412,
+      "slug": "oppo-rozkryla-detali-pro-liniyku-reno17-chypy-kamery-ta-batareyi",
+      "title": "Oppo розкрила деталі про лінійку Reno17: чипи, камери та батареї",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-13T04:29:36Z",
+      "date_formatted": "13 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/oppo-reno17-series-chipsets-confirmed/-952x498w6/gsmarena_000.jpg",
+      "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
+      "summary": "Компанія Oppo готується до повноцінного анонсу нових смартфонів Reno17 та Reno17 Pro у Китаї, який відбудеться вже 16 листопада.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 18149,
       "slug": "github-perlyna-dnya-nvm-shnvm-standart-de-fakto-dlya-izolovanoho-",
       "title": "GitHub-перлина дня: nvm-sh/nvm — Стандарт де-факто для ізольованого менеджменту версій Node.js без конфліктів та болю",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
       "summary": "Розробники знають біль, коли різні проєкти вимагають несумісних версій Node.js. Глобальне встановлення ламає продакшн-скрипти та змушує страждати від прав суперкористувача. nvm повністю закриває цей біль, дозволяючи тримати десятки ізольованих середовищ у домашній директорії.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": "https://github.com/nvm-sh/nvm",
       "github_repo": "nvm-sh/nvm"
@@ -80,7 +101,7 @@
       "summary": "Бренд Ecoflow випустив функціональний пристрій для тих, хто постійно в дорозі та має кілька гаджетів одночасно. Цей ультраємний павербанк здатен одночасно живити до трьох пристроїв на максимальній швидкості.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://www.engadget.com/img/gallery/what-discs-can-a-playstation-5-play/l-intro-1793819005.jpg",
       "image_caption": "Матеріали Engadget / Офіційний реліз",
       "summary": "Розбираємося, які фізичні носії читає актуальна консоль від Sony та чи варто готуватися до епохи без дисководів.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 15174,
-      "slug": "nimyy-avanhard-diahnoz-radyanshchyni-ta-lehendarnyy-mykolaychuk-1",
-      "title": "Німий авангард, діагноз \"радянщині\" та легендарний Миколайчук: 10 знакових українських фільмів до 1991 року",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-08T06:17:47Z",
-      "date_formatted": "8 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://img.mezha.ua/mezha/images/doc/8/0/333636/80baa6bb90eade48af243298df20d335.jpeg?w=1200&q=85&stamp=1793989302",
-      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
-      "summary": "Історія українського кіно — це шлях неймовірних злетів, боротьби з цензурою та створення унікальних шедеврів попри заборони тоталітарної системи.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
