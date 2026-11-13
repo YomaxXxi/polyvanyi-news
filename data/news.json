@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 18554,
+      "slug": "msi-crosshair-a16-hx-mlg-edition-produktyvnist-amd-ta-nvidia-u-bi",
+      "title": "MSI Crosshair A16 HX MLG Edition: продуктивність AMD та NVIDIA у білому корпусі",
+      "category": "Геймінг",
+      "category_slug": "gaming",
+      "date": "2026-11-13T09:43:04Z",
+      "date_formatted": "13 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://img.mezha.ua/mezha/images/doc/3/a/334296/3a4a5dfc78e173db38c45f58d26c6ef9.jpeg",
+      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
+      "summary": "Свіжий ігровий ноутбук пропонує потужну комбінацію заліза, швидкий дисплей та розширений комплект постачання у яскравому виконанні Stellar White.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 18547,
       "slug": "github-perlyna-dnya-louislamuptime-kuma-vytonchenyy-self-hosted-i",
       "title": "GitHub-перлина дня: louislam/uptime-kuma — витончений self-hosted інструмент моніторингу, який замінює дорогі SaaS-сервіси типу Statuspage та Pingdom.",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
       "summary": "Розробникам і сисадмінам постійно потрібен надійний контроль доступності сервісів, проте комерційні платформи коштують чималих грошей або вимагають передачі даних стороннім компаніям. Uptime Kuma закриває цей біль повністю самостійно.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": "https://github.com/louislam/uptime-kuma",
       "github_repo": "louislam/uptime-kuma"
@@ -59,7 +80,7 @@
       "summary": "Команда Google почала розгортати велике оновлення пошукового інтерфейсу для месенджера, яке має спростити пошук старого контенту.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": "https://github.com/Kenneth-Cho-InfoSec/Solipsism",
       "github_repo": "Kenneth-Cho-InfoSec/Solipsism"
-    },
-    {
-      "id": 15193,
-      "slug": "mikro-shi-dnya-devv-ai-shvydkyy-poshuk-rishen-ta-fiks-bahiv-dlya-",
-      "title": "Мікро-ШІ дня: Devv AI — Швидкий пошук рішень та фікс багів для розробників",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-08T08:11:32Z",
-      "date_formatted": "8 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": null,
-      "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
-      "summary": "Пошук релізів, актуальної документації та фікс помилок у коді тепер займає секунди. Devv AI шукає напряму в репозиторіях GitHub і свіжих тех-базах, видаючи перевірений код замість води із застарілих форумів.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
     }
   ]
 }

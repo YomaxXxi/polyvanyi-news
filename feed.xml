@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:09:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 09:43:04 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>MSI Crosshair A16 HX MLG Edition: продуктивність AMD та NVIDIA у білому корпусі</title>
+      <link>https://yomaxxxi.github.io/news/msi-crosshair-a16-hx-mlg-edition-produktyvnist-amd-ta-nvidia-u-bi/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/msi-crosshair-a16-hx-mlg-edition-produktyvnist-amd-ta-nvidia-u-bi/</guid>
+      <pubDate>Fri, 13 Nov 2026 09:43:04 +0000</pubDate>
+      <category>Геймінг</category>
+      <description>Свіжий ігровий ноутбук пропонує потужну комбінацію заліза, швидкий дисплей та розширений комплект постачання у яскравому виконанні Stellar White.</description>
+    </item>
     <item>
       <title>GitHub-перлина дня: louislam/uptime-kuma — витончений self-hosted інструмент моніторингу, який замінює дорогі SaaS-сервіси типу Statuspage та Pingdom.</title>
       <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-louislamuptime-kuma-vytonchenyy-self-hosted-i/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 11 Nov 2026 07:38:28 +0000</pubDate>
       <category>Геймінг</category>
       <description>Сервіс мобільного геймінгу від Apple отримав чергове масштабне оновлення каталогу, яке приносить як довгоочікувані релізи, так і анонси майбутніх проєктів.</description>
-    </item>
-    <item>
-      <title>Технології, які ми втратили: Двопозиційна кнопка камери</title>
-      <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-dvopozytsiyna-knopka-kamery/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-dvopozytsiyna-knopka-kamery/</guid>
-      <pubDate>Tue, 10 Nov 2026 12:53:38 +0000</pubDate>
-      <category>Техніка</category>
-      <description>У золоту епоху мобільної фотографії Sony Xperia та Nokia Lumia мали справжню магію — виділену механічну кнопку затвора. Вона працювала рівно як на професійній дзеркалці: легке напівнатискання миттєво фіксувало фокус, а повне — робило кадр. Це давало нереальне відчуття єднання з гаджетом.</description>
     </item>
   </channel>
 </rss>
