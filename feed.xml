@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Fri, 13 Nov 2026 13:31:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 14:40:42 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Мікро-ШІ дня: Tripo3D — створення 3D-моделей з фото за 60 секунд</title>
+      <link>https://yomaxxxi.github.io/news/mikro-shi-dnya-tripo3d-stvorennya-3d-modeley-z-foto-za-60-sekund/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/mikro-shi-dnya-tripo3d-stvorennya-3d-modeley-z-foto-za-60-sekund/</guid>
+      <pubDate>Fri, 13 Nov 2026 14:40:42 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Потрібно терміново додати 3D-об&#x27;єкт у проєкт, а на ручне моделювання та розгортку немає годин? Цей інструмент генерує повноцінну текстуровану 3D-модель за кілька секунд з одного фото або текстового опису, повністю замінюючи важкі платні 3D-редактори.</description>
+    </item>
     <item>
       <title>Власник 32-річного Jeep Cherokee хакнув авто за допомогою Claude, щоб пройти екотест</title>
       <link>https://yomaxxxi.github.io/news/vlasnyk-32-richnoho-jeep-cherokee-khaknuv-avto-za-dopomohoyu-clau/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 11 Nov 2026 12:39:30 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Інноваційний застосунок одночасно зчитує міміку, погляд, голос, пульс із камери смартфона, а також дані з Apple Watch і смарт-каблучки.</description>
-    </item>
-    <item>
-      <title>Культовий український шутер зникає з магазину: скандал навколо You Are Empty</title>
-      <link>https://yomaxxxi.github.io/news/kultovyy-ukrayinskyy-shuter-znykaye-z-mahazynu-skandal-navkolo-yo/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/kultovyy-ukrayinskyy-shuter-znykaye-z-mahazynu-skandal-navkolo-yo/</guid>
-      <pubDate>Wed, 11 Nov 2026 11:34:32 +0000</pubDate>
-      <category>Геймінг</category>
-      <description>Історія з поверненням класичного українського шутера You Are Empty: Absolute Edition у Steam отримала неочікуваний поворот: проєкт повністю прибрали з продажу після жорсткого конфлікту між авторами та видавцями.</description>
     </item>
   </channel>
 </rss>

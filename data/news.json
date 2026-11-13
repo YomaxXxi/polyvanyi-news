@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 18812,
+      "slug": "mikro-shi-dnya-tripo3d-stvorennya-3d-modeley-z-foto-za-60-sekund",
+      "title": "Мікро-ШІ дня: Tripo3D — створення 3D-моделей з фото за 60 секунд",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-13T14:40:42Z",
+      "date_formatted": "13 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://cdn-blog.holymolly.ai/media/production/Tripo3D_og-1.webp",
+      "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
+      "summary": "Потрібно терміново додати 3D-об'єкт у проєкт, а на ручне моделювання та розгортку немає годин? Цей інструмент генерує повноцінну текстуровану 3D-модель за кілька секунд з одного фото або текстового опису, повністю замінюючи важкі платні 3D-редактори.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 18715,
       "slug": "vlasnyk-32-richnoho-jeep-cherokee-khaknuv-avto-za-dopomohoyu-clau",
       "title": "Власник 32-річного Jeep Cherokee хакнув авто за допомогою Claude, щоб пройти екотест",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "ШІ-ентузіаст зміг налаштувати свій класичний позашляховик 1994 року випуску за допомогою штучного інтелекту та бюджетної електроніки.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -80,7 +101,7 @@
       "summary": "Студія Pixar представила яскравий трейлер нової анімаційної стрічки, події якої розгортаються на канальних вулицях італійського міста.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/HTC_One_M8_%2814867991900%29.jpg",
       "image_caption": "Матеріали Retro Tech / Офіційний реліз",
       "summary": "У золоту епоху HTC One M7 та M8 інженери зуміли створити те, що досі здається недосяжним. Два виділені динаміки на лицьовій панелі дивилися прямо на слухача, перетворюючи звичайний перегляд YouTube на мінікінотеатр. Це був справжній вибух свідомості для мобільного звуку.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 15256,
-      "slug": "shcho-realno-mozhut-zlovmysnyky-mayuchy-vashu-ip-adresu",
-      "title": "Що реально можуть зловмисники, маючи вашу IP-адресу?",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-08T12:15:31Z",
-      "date_formatted": "8 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://www.engadget.com/img/gallery/can-a-hacker-really-do-anything-with-your-ip-address/l-intro-1793723874.jpg",
-      "image_caption": "Матеріали Engadget / Офіційний реліз",
-      "summary": "Багато користувачів досі вірять міфам про те, що публічний IP може розкрити паролі чи особисті дані. Давайте розберемося, які загрози існують насправді та як працюють сучасні протоколи.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
