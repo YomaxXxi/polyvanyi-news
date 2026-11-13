@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Fri, 13 Nov 2026 10:47:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 12:07:22 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>McDonald’s в Україні вперше запустив ресторан із шафкою для самовидачі</title>
+      <link>https://yomaxxxi.github.io/news/mcdonalds-v-ukrayini-vpershe-zapustyv-restoran-iz-shafkoyu-dlya-s/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/mcdonalds-v-ukrayini-vpershe-zapustyv-restoran-iz-shafkoyu-dlya-s/</guid>
+      <pubDate>Fri, 13 Nov 2026 12:07:22 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Компанія відкрила новий заклад із інноваційним форматом отримання їжі без прямого контакту з працівниками.</description>
+    </item>
     <item>
       <title>Котяча мафія у Венеції: Pixar показала трейлер мультфільму «Ґатто: Дев&#x27;ять життів Неро» / Gatto</title>
       <link>https://yomaxxxi.github.io/news/kotyacha-mafiya-u-venetsiyi-pixar-pokazala-treyler-multfilmu-gatt/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 11 Nov 2026 09:09:46 +0000</pubDate>
       <category>Open Source</category>
       <description>Проєкт закриває вічну біль студентів, інженерів-початківців та досвідчених девелоперів, яким потрібно швидко реалізувати складні алгоритми без занурення в академічні підручники. Він замінює дорогі платні курси з комп&#x27;ютерних наук та закриті платформи на кшталт LeetCode у контексті якісних референсних реалізацій.</description>
-    </item>
-    <item>
-      <title>Найкраща альтернатива Nova Launcher: що таке Supernova і як її встановити</title>
-      <link>https://yomaxxxi.github.io/news/naykrashcha-alternatyva-nova-launcher-shcho-take-supernova-i-yak-/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/naykrashcha-alternatyva-nova-launcher-shcho-take-supernova-i-yak-/</guid>
-      <pubDate>Wed, 11 Nov 2026 08:58:23 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Через часті зміни власників, появу трекерів та сумнівні інтеграції Nova Launcher втратив колишню довіру частини користувачів, які тепер шукають відкриту та чисту заміну для своїх смартфонів на Android 17 та старіших версіях.</description>
     </item>
   </channel>
 </rss>
