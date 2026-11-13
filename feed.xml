@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:43:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 10:47:22 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Котяча мафія у Венеції: Pixar показала трейлер мультфільму «Ґатто: Дев&#x27;ять життів Неро» / Gatto</title>
+      <link>https://yomaxxxi.github.io/news/kotyacha-mafiya-u-venetsiyi-pixar-pokazala-treyler-multfilmu-gatt/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/kotyacha-mafiya-u-venetsiyi-pixar-pokazala-treyler-multfilmu-gatt/</guid>
+      <pubDate>Fri, 13 Nov 2026 10:47:22 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Студія Pixar представила яскравий трейлер нової анімаційної стрічки, події якої розгортаються на канальних вулицях італійського міста.</description>
+    </item>
     <item>
       <title>MSI Crosshair A16 HX MLG Edition: продуктивність AMD та NVIDIA у білому корпусі</title>
       <link>https://yomaxxxi.github.io/news/msi-crosshair-a16-hx-mlg-edition-produktyvnist-amd-ta-nvidia-u-bi/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 11 Nov 2026 08:58:23 +0000</pubDate>
       <category>Техніка</category>
       <description>Через часті зміни власників, появу трекерів та сумнівні інтеграції Nova Launcher втратив колишню довіру частини користувачів, які тепер шукають відкриту та чисту заміну для своїх смартфонів на Android 17 та старіших версіях.</description>
-    </item>
-    <item>
-      <title>Apple Arcade поповнюється культовими франшизами</title>
-      <link>https://yomaxxxi.github.io/news/apple-arcade-popovnyuyetsya-kultovymy-franshyzamy/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/apple-arcade-popovnyuyetsya-kultovymy-franshyzamy/</guid>
-      <pubDate>Wed, 11 Nov 2026 07:38:28 +0000</pubDate>
-      <category>Геймінг</category>
-      <description>Сервіс мобільного геймінгу від Apple отримав чергове масштабне оновлення каталогу, яке приносить як довгоочікувані релізи, так і анонси майбутніх проєктів.</description>
     </item>
   </channel>
 </rss>
