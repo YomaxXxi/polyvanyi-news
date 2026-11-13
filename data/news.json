@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 18492,
+      "slug": "google-messages-onovlyuye-poshuk-masshtabnyy-redyzayn-dlya-beta-t",
+      "title": "Google Messages оновлює пошук: масштабний редизайн для бета-тестерів",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-13T07:37:53Z",
+      "date_formatted": "13 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/google-messages-2026-redesign-search-button-scaled.jpg",
+      "image_caption": "Матеріали Android Authority / Офіційний реліз",
+      "summary": "Команда Google почала розгортати велике оновлення пошукового інтерфейсу для месенджера, яке має спростити пошук старого контенту.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 18441,
       "slug": "kryza-u-heymdevi-ponad-polovyna-zvilnenykh-rozrobnykiv-dosi-shuka",
       "title": "Криза у геймдеві: понад половина звільнених розробників досі шукають роботу",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
       "summary": "Новий звіт організаторів GDC Festival of Gaming оголив масштабну кризу на ринку праці у сфері розробки відеоігор за останні два роки.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Розробники знають біль, коли різні проєкти вимагають несумісних версій Node.js. Глобальне встановлення ламає продакшн-скрипти та змушує страждати від прав суперкористувача. nvm повністю закриває цей біль, дозволяючи тримати десятки ізольованих середовищ у домашній директорії.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": "https://github.com/nvm-sh/nvm",
       "github_repo": "nvm-sh/nvm"
     },
@@ -1233,27 +1254,6 @@
       "image": "https://www.engadget.com/img/gallery/what-does-nat-type-mean-for-online-gaming/l-intro-1793903325.jpg",
       "image_caption": "Матеріали Engadget / Офіційний реліз",
       "summary": "Під час налаштування мережі на консолі чи ПК ви могли помічати рядок NAT Type. Розбираємося, що це означає та як воно впливає на ваш ігровий досвід.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 15179,
-      "slug": "shparhalka-hayd-yak-platyty-za-shi-v-5-raziv-menshe-cherez-api-kl",
-      "title": "Шпаргалка / Гайд: Як платити за ШІ в 5 разів менше через API-ключі замість підписок",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-08T06:32:56Z",
-      "date_formatted": "8 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": null,
-      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
-      "summary": "Матеріал допомагає оптимізувати витрати на штучний інтелект і заощаджувати до $18 щомісяця на кожному сервісі, використовуючи пряму оплату за реальні токени замість фіксованих щомісячних підписок на ChatGPT Plus чи Claude Pro.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

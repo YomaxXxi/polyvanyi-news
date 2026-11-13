@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Fri, 13 Nov 2026 06:19:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 07:37:53 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Google Messages оновлює пошук: масштабний редизайн для бета-тестерів</title>
+      <link>https://yomaxxxi.github.io/news/google-messages-onovlyuye-poshuk-masshtabnyy-redyzayn-dlya-beta-t/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/google-messages-onovlyuye-poshuk-masshtabnyy-redyzayn-dlya-beta-t/</guid>
+      <pubDate>Fri, 13 Nov 2026 07:37:53 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Команда Google почала розгортати велике оновлення пошукового інтерфейсу для месенджера, яке має спростити пошук старого контенту.</description>
+    </item>
     <item>
       <title>Криза у геймдеві: понад половина звільнених розробників досі шукають роботу</title>
       <link>https://yomaxxxi.github.io/news/kryza-u-heymdevi-ponad-polovyna-zvilnenykh-rozrobnykiv-dosi-shuka/</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 10 Nov 2026 10:57:48 +0000</pubDate>
       <category>Техніка</category>
       <description>Абсолютний золотий стандарт захисту даних отримав математичне підтвердження своєї стійкості завдяки новітньому аналізу від Google DeepMind.</description>
-    </item>
-    <item>
-      <title>ШІ-менторка на уроках інформатики: новий стандарт освіти</title>
-      <link>https://yomaxxxi.github.io/news/shi-mentorka-na-urokakh-informatyky-novyy-standart-osvity/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/shi-mentorka-na-urokakh-informatyky-novyy-standart-osvity/</guid>
-      <pubDate>Tue, 10 Nov 2026 09:45:17 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>На платформі Дія.Освіта в межах модуля «ІТ-студії» запустили інтерактивну ШІ-менторку для школярів 1–11 класів. Нова помічниця вже з&#x27;явилася у шкільних закладах України.</description>
     </item>
   </channel>
 </rss>
