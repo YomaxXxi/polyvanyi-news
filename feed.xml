@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Fri, 13 Nov 2026 14:40:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 14:40:46 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Нова вразливість у Windows: експлойт SignDrop дає зловмисникам системні права</title>
+      <link>https://yomaxxxi.github.io/news/nova-vrazlyvist-u-windows-eksployt-signdrop-daye-zlovmysnykam-sys/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/nova-vrazlyvist-u-windows-eksployt-signdrop-daye-zlovmysnykam-sys/</guid>
+      <pubDate>Fri, 13 Nov 2026 14:40:46 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Дослідник під псевдонімом Nightmare Eclipse опублікував новий zero-day exploit під назвою SignDrop, який дозволяє місцевим користувачам отримувати повні права System на деяких версіях Windows. Атака використовує взаємодію між компонентом CLFS та Windows Defender.</description>
+    </item>
     <item>
       <title>Мікро-ШІ дня: Tripo3D — створення 3D-моделей з фото за 60 секунд</title>
       <link>https://yomaxxxi.github.io/news/mikro-shi-dnya-tripo3d-stvorennya-3d-modeley-z-foto-za-60-sekund/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 11 Nov 2026 12:40:14 +0000</pubDate>
       <category>Техніка</category>
       <description>У 2009 році інженери Palm створили магію, до якої гіганти доходили роками. Ви просто кидали свій Palm Pre на похилу круглу шайбу Touchstone — магніти м&#x27;яко центрували корпус, телефон надійно фіксувався клацанням і миттєво переходив у стильний нічний режим годинника. Жодних дротів та розхитаних роз&#x27;ємів.</description>
-    </item>
-    <item>
-      <title>Українець створив AI-сервіс для перевірки на брехню: що відомо про Red Rabbit</title>
-      <link>https://yomaxxxi.github.io/news/ukrayinets-stvoryv-ai-servis-dlya-perevirky-na-brekhnyu-shcho-vid/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/ukrayinets-stvoryv-ai-servis-dlya-perevirky-na-brekhnyu-shcho-vid/</guid>
-      <pubDate>Wed, 11 Nov 2026 12:39:30 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Інноваційний застосунок одночасно зчитує міміку, погляд, голос, пульс із камери смартфона, а також дані з Apple Watch і смарт-каблучки.</description>
     </item>
   </channel>
 </rss>

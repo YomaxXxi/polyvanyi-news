@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 18810,
+      "slug": "nova-vrazlyvist-u-windows-eksployt-signdrop-daye-zlovmysnykam-sys",
+      "title": "Нова вразливість у Windows: експлойт SignDrop дає зловмисникам системні права",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-13T14:40:46Z",
+      "date_formatted": "13 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg",
+      "image_caption": "Матеріали Ars Technica (Technology Lab) / Офіційний реліз",
+      "summary": "Дослідник під псевдонімом Nightmare Eclipse опублікував новий zero-day exploit під назвою SignDrop, який дозволяє місцевим користувачам отримувати повні права System на деяких версіях Windows. Атака використовує взаємодію між компонентом CLFS та Windows Defender.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 18812,
       "slug": "mikro-shi-dnya-tripo3d-stvorennya-3d-modeley-z-foto-za-60-sekund",
       "title": "Мікро-ШІ дня: Tripo3D — створення 3D-моделей з фото за 60 секунд",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
       "summary": "Потрібно терміново додати 3D-об'єкт у проєкт, а на ручне моделювання та розгортку немає годин? Цей інструмент генерує повноцінну текстуровану 3D-модель за кілька секунд з одного фото або текстового опису, повністю замінюючи важкі платні 3D-редактори.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -80,7 +101,7 @@
       "summary": "Компанія відкрила новий заклад із інноваційним форматом отримання їжі без прямого контакту з працівниками.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": null,
       "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
       "summary": "Більшість людей пишуть промти для ШІ як звичайний пошуковий запит, а потім дивуються галюцинаціям та розмитому тексту. Цей матеріал економить вам години правок і навчить керувати тонким стилем моделі за допомогою техніки Few-Shot Prompting, підвищуючи точність відповідей на 70%.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 15266,
-      "slug": "tekhnolohiyi-yaki-my-vtratyly-stereodynamiky-boomsound",
-      "title": "Технології, які ми втратили: Стереодинаміки BoomSound",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-08T12:31:40Z",
-      "date_formatted": "8 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/HTC_One_M8_%2814867991900%29.jpg",
-      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
-      "summary": "У золоту епоху HTC One M7 та M8 інженери зуміли створити те, що досі здається недосяжним. Два виділені динаміки на лицьовій панелі дивилися прямо на слухача, перетворюючи звичайний перегляд YouTube на мінікінотеатр. Це був справжній вибух свідомості для мобільного звуку.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
