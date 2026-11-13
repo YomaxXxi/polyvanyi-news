@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Fri, 13 Nov 2026 07:37:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 08:41:27 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Еволюція ринку оренди житла в Україні: від паперових оголошень до сучасних платформ</title>
+      <link>https://yomaxxxi.github.io/news/evolyutsiya-rynku-orendy-zhytla-v-ukrayini-vid-paperovykh-oholosh/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/evolyutsiya-rynku-orendy-zhytla-v-ukrayini-vid-paperovykh-oholosh/</guid>
+      <pubDate>Fri, 13 Nov 2026 08:41:27 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Як український ринок оренди пройшов шлях від газетних сторінок до повноцінних цифрових екосистем.</description>
+    </item>
     <item>
       <title>Google Messages оновлює пошук: масштабний редизайн для бета-тестерів</title>
       <link>https://yomaxxxi.github.io/news/google-messages-onovlyuye-poshuk-masshtabnyy-redyzayn-dlya-beta-t/</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 10 Nov 2026 12:14:22 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Український стартап Elomia Health завоював чергову висоту на глобальному ринку, уклавши угоду про придбання американської платформи Earkick із базою у 250 000 користувачів.</description>
-    </item>
-    <item>
-      <title>Google DeepMind підтвердила надійність шифрування Signal та WhatsApp</title>
-      <link>https://yomaxxxi.github.io/news/google-deepmind-pidtverdyla-nadiynist-shyfruvannya-signal-ta-what/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/google-deepmind-pidtverdyla-nadiynist-shyfruvannya-signal-ta-what/</guid>
-      <pubDate>Tue, 10 Nov 2026 10:57:48 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Абсолютний золотий стандарт захисту даних отримав математичне підтвердження своєї стійкості завдяки новітньому аналізу від Google DeepMind.</description>
     </item>
   </channel>
 </rss>

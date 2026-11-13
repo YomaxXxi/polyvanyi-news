@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 18519,
+      "slug": "evolyutsiya-rynku-orendy-zhytla-v-ukrayini-vid-paperovykh-oholosh",
+      "title": "Еволюція ринку оренди житла в Україні: від паперових оголошень до сучасних платформ",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-13T08:41:27Z",
+      "date_formatted": "13 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://cdn.ain.ua/ua/articles/2026-11-13/WJz1YZDZtYETurF7npW8SWy0WwFimwprNXkdwV6g.webp",
+      "image_caption": "Матеріали AIN.ua / Офіційний реліз",
+      "summary": "Як український ринок оренди пройшов шлях від газетних сторінок до повноцінних цифрових екосистем.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 18492,
       "slug": "google-messages-onovlyuye-poshuk-masshtabnyy-redyzayn-dlya-beta-t",
       "title": "Google Messages оновлює пошук: масштабний редизайн для бета-тестерів",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Android Authority / Офіційний реліз",
       "summary": "Команда Google почала розгортати велике оновлення пошукового інтерфейсу для месенджера, яке має спростити пошук старого контенту.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Компанія Oppo готується до повноцінного анонсу нових смартфонів Reno17 та Reno17 Pro у Китаї, який відбудеться вже 16 листопада.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/whatsapp-image-2026-06-25-at-12-46-11-4.jpeg",
       "image_caption": "Матеріали XDA Developers / Офіційний реліз",
       "summary": "Інтеграція хмарних великих мовних моделей у побутові пристрої часто створює більше проблем, ніж приносить користі, особливо коли справа доходить до базових завдань.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 15118,
-      "slug": "shcho-take-typ-nat-u-heyminhu-ta-chomu-vin-vplyvaye-na-onlayn-mat",
-      "title": "Що таке тип NAT у геймінгу та чому він впливає на онлайн-матчі?",
-      "category": "Геймінг",
-      "category_slug": "gaming",
-      "date": "2026-11-08T07:08:41Z",
-      "date_formatted": "8 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://www.engadget.com/img/gallery/what-does-nat-type-mean-for-online-gaming/l-intro-1793903325.jpg",
-      "image_caption": "Матеріали Engadget / Офіційний реліз",
-      "summary": "Під час налаштування мережі на консолі чи ПК ви могли помічати рядок NAT Type. Розбираємося, що це означає та як воно впливає на ваш ігровий досвід.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
