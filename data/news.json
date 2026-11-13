@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 18684,
+      "slug": "tekhnolohiyi-yaki-my-vtratyly-sony-ericsson-xperia-play",
+      "title": "Технології, які ми втратили: Sony Ericsson Xperia Play",
+      "category": "Геймінг",
+      "category_slug": "gaming",
+      "date": "2026-11-13T12:40:13Z",
+      "date_formatted": "13 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": null,
+      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
+      "summary": "У 2011 році Sony об'єднала культовий бренд PlayStation і телефон у кишеньковому шедеврі Xperia Play. Висувна панель дарувала реальні тактильні кнопки управління, що назавжди змінило мобільний геймінг того часу.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 18659,
       "slug": "mcdonalds-v-ukrayini-vpershe-zapustyv-restoran-iz-shafkoyu-dlya-s",
       "title": "McDonald’s в Україні вперше запустив ресторан із шафкою для самовидачі",
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": null,
       "github_repo": null
-    },
-    {
-      "id": 15223,
-      "slug": "github-perlyna-dnya-sherlock-projectsherlock-potuzhnyy-osint-inst",
-      "title": "GitHub-перлина дня: sherlock-project/sherlock — Потужний OSINT-інструмент для пошуку акаунтів за нікнеймом у сотнях соцмереж",
-      "category": "Open Source",
-      "category_slug": "opensource",
-      "date": "2026-11-08T10:06:16Z",
-      "date_formatted": "8 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/1/sherlock-project/sherlock",
-      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
-      "summary": "Розслідуєте кібербезпеку, перевіряєте цифрову гігієну чи шукаєте цифрові сліди? Sherlock миттєво сканує понад 400 соцмереж і платформ за єдиним іменем користувача.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": "https://github.com/sherlock-project/sherlock",
-      "github_repo": "sherlock-project/sherlock"
     }
   ]
 }

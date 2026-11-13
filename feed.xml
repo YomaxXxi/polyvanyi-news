@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Fri, 13 Nov 2026 12:07:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 12:40:13 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Технології, які ми втратили: Sony Ericsson Xperia Play</title>
+      <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-sony-ericsson-xperia-play/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-sony-ericsson-xperia-play/</guid>
+      <pubDate>Fri, 13 Nov 2026 12:40:13 +0000</pubDate>
+      <category>Геймінг</category>
+      <description>У 2011 році Sony об&#x27;єднала культовий бренд PlayStation і телефон у кишеньковому шедеврі Xperia Play. Висувна панель дарувала реальні тактильні кнопки управління, що назавжди змінило мобільний геймінг того часу.</description>
+    </item>
     <item>
       <title>McDonald’s в Україні вперше запустив ресторан із шафкою для самовидачі</title>
       <link>https://yomaxxxi.github.io/news/mcdonalds-v-ukrayini-vpershe-zapustyv-restoran-iz-shafkoyu-dlya-s/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 11 Nov 2026 10:16:27 +0000</pubDate>
       <category>Техніка</category>
       <description>Компанія AMD активно розгортає передбачувальний рушій пам&#x27;яті MEXT, який дозволяє суттєво зменшити залежність від фізичної пам&#x27;яті та боротися з дефіцитом мікросхем на ринку.</description>
-    </item>
-    <item>
-      <title>GitHub-перлина дня: TheAlgorithms/Java — наймасштабніша відкрита колекція алгоритмів та структур даних для розробників на Java</title>
-      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-thealgorithmsjava-naymasshtabnisha-vidkryta-k/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-thealgorithmsjava-naymasshtabnisha-vidkryta-k/</guid>
-      <pubDate>Wed, 11 Nov 2026 09:09:46 +0000</pubDate>
-      <category>Open Source</category>
-      <description>Проєкт закриває вічну біль студентів, інженерів-початківців та досвідчених девелоперів, яким потрібно швидко реалізувати складні алгоритми без занурення в академічні підручники. Він замінює дорогі платні курси з комп&#x27;ютерних наук та закриті платформи на кшталт LeetCode у контексті якісних референсних реалізацій.</description>
     </item>
   </channel>
 </rss>
