@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 18441,
+      "slug": "kryza-u-heymdevi-ponad-polovyna-zvilnenykh-rozrobnykiv-dosi-shuka",
+      "title": "Криза у геймдеві: понад половина звільнених розробників досі шукають роботу",
+      "category": "Геймінг",
+      "category_slug": "gaming",
+      "date": "2026-11-13T06:19:13Z",
+      "date_formatted": "13 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://img.mezha.ua/mezha/images/doc/6/8/334517/68e0d187f6c2f36e2b860aa132b50f67.jpeg",
+      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
+      "summary": "Новий звіт організаторів GDC Festival of Gaming оголив масштабну кризу на ринку праці у сфері розробки відеоігор за останні два роки.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 18412,
       "slug": "oppo-rozkryla-detali-pro-liniyku-reno17-chypy-kamery-ta-batareyi",
       "title": "Oppo розкрила деталі про лінійку Reno17: чипи, камери та батареї",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
       "summary": "Компанія Oppo готується до повноцінного анонсу нових смартфонів Reno17 та Reno17 Pro у Китаї, який відбудеться вже 16 листопада.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Співзасновник та багаторічний керівник Nvidia Дженсен Хуанг залишив усі ключові посади в компанії, спровокувавши масовий резонанс на ринку та оригінальну реакцію Білого дому.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": null,
       "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
       "summary": "Матеріал допомагає оптимізувати витрати на штучний інтелект і заощаджувати до $18 щомісяця на кожному сервісі, використовуючи пряму оплату за реальні токени замість фіксованих щомісячних підписок на ChatGPT Plus чи Claude Pro.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 15122,
-      "slug": "yaki-dysky-pidtrymuye-playstation-5-povnyy-hayd-z-sumisnosti-ihor",
-      "title": "Які диски підтримує PlayStation 5: повний гайд з сумісності ігор та медіа",
-      "category": "Геймінг",
-      "category_slug": "gaming",
-      "date": "2026-11-08T06:21:09Z",
-      "date_formatted": "8 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://www.engadget.com/img/gallery/what-discs-can-a-playstation-5-play/l-intro-1793819005.jpg",
-      "image_caption": "Матеріали Engadget / Офіційний реліз",
-      "summary": "Розбираємося, які фізичні носії читає актуальна консоль від Sony та чи варто готуватися до епохи без дисководів.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
