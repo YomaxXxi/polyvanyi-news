@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 18547,
+      "slug": "github-perlyna-dnya-louislamuptime-kuma-vytonchenyy-self-hosted-i",
+      "title": "GitHub-перлина дня: louislam/uptime-kuma — витончений self-hosted інструмент моніторингу, який замінює дорогі SaaS-сервіси типу Statuspage та Pingdom.",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-13T09:09:47Z",
+      "date_formatted": "13 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/1/louislam/uptime-kuma",
+      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
+      "summary": "Розробникам і сисадмінам постійно потрібен надійний контроль доступності сервісів, проте комерційні платформи коштують чималих грошей або вимагають передачі даних стороннім компаніям. Uptime Kuma закриває цей біль повністю самостійно.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": "https://github.com/louislam/uptime-kuma",
+      "github_repo": "louislam/uptime-kuma"
+    },
+    {
       "id": 18519,
       "slug": "evolyutsiya-rynku-orendy-zhytla-v-ukrayini-vid-paperovykh-oholosh",
       "title": "Еволюція ринку оренди житла в Україні: від паперових оголошень до сучасних платформ",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали AIN.ua / Офіційний реліз",
       "summary": "Як український ринок оренди пройшов шлях від газетних сторінок до повноцінних цифрових екосистем.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Новий звіт організаторів GDC Festival of Gaming оголив масштабну кризу на ринку праці у сфері розробки відеоігор за останні два роки.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": null,
       "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
       "summary": "Пошук релізів, актуальної документації та фікс помилок у коді тепер займає секунди. Devv AI шукає напряму в репозиторіях GitHub і свіжих тех-базах, видаючи перевірений код замість води із застарілих форумів.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 15104,
-      "slug": "shtuchnyy-intelekt-u-rozumnomu-domi-chomu-gemini-spovilnyla-kolon",
-      "title": "Штучний інтелект у розумному домі: чому Gemini сповільнила колонки Nest",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-08T07:18:30Z",
-      "date_formatted": "8 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/whatsapp-image-2026-06-25-at-12-46-11-4.jpeg",
-      "image_caption": "Матеріали XDA Developers / Офіційний реліз",
-      "summary": "Інтеграція хмарних великих мовних моделей у побутові пристрої часто створює більше проблем, ніж приносить користі, особливо коли справа доходить до базових завдань.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

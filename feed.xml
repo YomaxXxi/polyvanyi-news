@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Fri, 13 Nov 2026 08:41:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 09:09:47 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: louislam/uptime-kuma — витончений self-hosted інструмент моніторингу, який замінює дорогі SaaS-сервіси типу Statuspage та Pingdom.</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-louislamuptime-kuma-vytonchenyy-self-hosted-i/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-louislamuptime-kuma-vytonchenyy-self-hosted-i/</guid>
+      <pubDate>Fri, 13 Nov 2026 09:09:47 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Розробникам і сисадмінам постійно потрібен надійний контроль доступності сервісів, проте комерційні платформи коштують чималих грошей або вимагають передачі даних стороннім компаніям. Uptime Kuma закриває цей біль повністю самостійно.</description>
+    </item>
     <item>
       <title>Еволюція ринку оренди житла в Україні: від паперових оголошень до сучасних платформ</title>
       <link>https://yomaxxxi.github.io/news/evolyutsiya-rynku-orendy-zhytla-v-ukrayini-vid-paperovykh-oholosh/</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 10 Nov 2026 12:53:38 +0000</pubDate>
       <category>Техніка</category>
       <description>У золоту епоху мобільної фотографії Sony Xperia та Nokia Lumia мали справжню магію — виділену механічну кнопку затвора. Вона працювала рівно як на професійній дзеркалці: легке напівнатискання миттєво фіксувало фокус, а повне — робило кадр. Це давало нереальне відчуття єднання з гаджетом.</description>
-    </item>
-    <item>
-      <title>Український прорив у ШІ: Elomia Health купує американський сервіс Earkick</title>
-      <link>https://yomaxxxi.github.io/news/ukrayinskyy-proryv-u-shi-elomia-health-kupuye-amerykanskyy-servis/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/ukrayinskyy-proryv-u-shi-elomia-health-kupuye-amerykanskyy-servis/</guid>
-      <pubDate>Tue, 10 Nov 2026 12:14:22 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Український стартап Elomia Health завоював чергову висоту на глобальному ринку, уклавши угоду про придбання американської платформи Earkick із базою у 250 000 користувачів.</description>
     </item>
   </channel>
 </rss>
