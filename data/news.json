@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 18715,
+      "slug": "vlasnyk-32-richnoho-jeep-cherokee-khaknuv-avto-za-dopomohoyu-clau",
+      "title": "Власник 32-річного Jeep Cherokee хакнув авто за допомогою Claude, щоб пройти екотест",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-13T13:31:13Z",
+      "date_formatted": "13 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://dev.ua/storage/images/84/99/92/28/derived/9891ac89e65484b013dcab02f8ed8309.webp",
+      "image_caption": "Матеріали dev.ua / Офіційний реліз",
+      "summary": "ШІ-ентузіаст зміг налаштувати свій класичний позашляховик 1994 року випуску за допомогою штучного інтелекту та бюджетної електроніки.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 18684,
       "slug": "tekhnolohiyi-yaki-my-vtratyly-sony-ericsson-xperia-play",
       "title": "Технології, які ми втратили: Sony Ericsson Xperia Play",
@@ -37,7 +58,7 @@
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Компанія відкрила новий заклад із інноваційним форматом отримання їжі без прямого контакту з працівниками.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -80,7 +101,7 @@
       "summary": "Свіжий ігровий ноутбук пропонує потужну комбінацію заліза, швидкий дисплей та розширений комплект постачання у яскравому виконанні Stellar White.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://www.engadget.com/img/gallery/can-a-hacker-really-do-anything-with-your-ip-address/l-intro-1793723874.jpg",
       "image_caption": "Матеріали Engadget / Офіційний реліз",
       "summary": "Багато користувачів досі вірять міфам про те, що публічний IP може розкрити паролі чи особисті дані. Давайте розберемося, які загрози існують насправді та як працюють сучасні протоколи.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 15236,
-      "slug": "skandal-z-eksportom-chipiv-kytayski-kompaniyi-pryvydy-otrymaly-do",
-      "title": "Скандал з експортом чіпів: китайські компанії-привиди отримали дозвіл на купівлю Nvidia H200",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-08T11:06:21Z",
-      "date_formatted": "8 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://cdn.mos.cms.futurecdn.net/RAnrUYUPEDMbGSwoqAPETM-1920-80.png",
-      "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
-      "summary": "Розслідування виявило серйозні прогалини у перевірках Міністерства торгівлі США під час видачі ліцензій на постачання передових прискорювачів.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

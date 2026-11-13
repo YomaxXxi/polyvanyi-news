@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Fri, 13 Nov 2026 12:40:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 13:31:13 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Власник 32-річного Jeep Cherokee хакнув авто за допомогою Claude, щоб пройти екотест</title>
+      <link>https://yomaxxxi.github.io/news/vlasnyk-32-richnoho-jeep-cherokee-khaknuv-avto-za-dopomohoyu-clau/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/vlasnyk-32-richnoho-jeep-cherokee-khaknuv-avto-za-dopomohoyu-clau/</guid>
+      <pubDate>Fri, 13 Nov 2026 13:31:13 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>ШІ-ентузіаст зміг налаштувати свій класичний позашляховик 1994 року випуску за допомогою штучного інтелекту та бюджетної електроніки.</description>
+    </item>
     <item>
       <title>Технології, які ми втратили: Sony Ericsson Xperia Play</title>
       <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-sony-ericsson-xperia-play/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 11 Nov 2026 11:34:32 +0000</pubDate>
       <category>Геймінг</category>
       <description>Історія з поверненням класичного українського шутера You Are Empty: Absolute Edition у Steam отримала неочікуваний поворот: проєкт повністю прибрали з продажу після жорсткого конфлікту між авторами та видавцями.</description>
-    </item>
-    <item>
-      <title>Вихід із глухого кута: як AMD зберігає 95% продуктивності серверів із половинним об&#x27;ємом DRAM</title>
-      <link>https://yomaxxxi.github.io/news/vykhid-iz-hlukhoho-kuta-yak-amd-zberihaye-95-produktyvnosti-serve/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/vykhid-iz-hlukhoho-kuta-yak-amd-zberihaye-95-produktyvnosti-serve/</guid>
-      <pubDate>Wed, 11 Nov 2026 10:16:27 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Компанія AMD активно розгортає передбачувальний рушій пам&#x27;яті MEXT, який дозволяє суттєво зменшити залежність від фізичної пам&#x27;яті та боротися з дефіцитом мікросхем на ринку.</description>
     </item>
   </channel>
 </rss>
