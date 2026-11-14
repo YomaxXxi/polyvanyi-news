@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 19211,
+      "slug": "skandal-iz-relizom-gta-6-chastyna-korobok-nadiyshla-pokuptsyam-be",
+      "title": "Скандал із релізом GTA 6: частина коробок надійшла покупцям без кодів активації",
+      "category": "Геймінг",
+      "category_slug": "gaming",
+      "date": "2026-11-14T13:43:52Z",
+      "date_formatted": "14 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://img.mezha.ua/mezha/images/doc/6/e/334731/6e2c368489ec012273d705b5de63abe9.jpeg",
+      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
+      "summary": "Старт продажів однієї з найочікуваніших ігор десятиліття супроводжується великим неприємним сюрпризом для гравців.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 19203,
       "slug": "tekhnolohiyi-yaki-my-vtratyly-podviyni-batareyi-power-bridge",
       "title": "Технології, які ми втратили: Подвійні батареї Power Bridge",
@@ -37,7 +58,7 @@
       "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
       "summary": "Приватний сервер на базі старих відеокарт отримав масштабне оновлення, що дозволило значно покращити точність роботи моделі для юридичної практики.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -80,7 +101,7 @@
       "summary": "Новий виток популярності жанру survivors-like приносить свіжі експерименти: від творців стратегії Songs of Conquest вийшов затишний спіноф упізнаваному всесвіті.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Nokia_N900%2C_type_RX-51-7969.jpg",
       "image_caption": "Матеріали Retro Tech / Офіційний реліз",
       "summary": "У золоту епоху смарт-буму інженери Nokia та Sony Ericsson дарували нам справжню магію. Уявіть: сідаєте в старе авто, жодних дротів, AUX-кабелів чи криво працюючого Bluetooth. Ви просто обираєте в меню улюбленого смартфона вільну хвилю, наприклад 88.5 FM, налаштовуєте магнітолу — і ваш трек-лист лунає на всю потужність аудіосистеми!",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 15726,
-      "slug": "defitsyt-pamyati-zmushuye-vyrobnykiv-povtorno-vykorystovuvaty-chy",
-      "title": "Дефіцит пам'яті змушує виробників повторно використовувати чипи зі старих пристроїв",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-09T11:56:09Z",
-      "date_formatted": "9 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://cdn.mos.cms.futurecdn.net/n2zquDeZTzsf5MTjgwrqJc-1920-80.jpg",
-      "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
-      "summary": "Через стрімке зростання цін на компонентну базу ринок смартфонів шукає нові шляхи економії.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

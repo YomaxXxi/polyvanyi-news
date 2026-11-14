@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 14 Nov 2026 12:53:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 13:43:52 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Скандал із релізом GTA 6: частина коробок надійшла покупцям без кодів активації</title>
+      <link>https://yomaxxxi.github.io/news/skandal-iz-relizom-gta-6-chastyna-korobok-nadiyshla-pokuptsyam-be/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/skandal-iz-relizom-gta-6-chastyna-korobok-nadiyshla-pokuptsyam-be/</guid>
+      <pubDate>Sat, 14 Nov 2026 13:43:52 +0000</pubDate>
+      <category>Геймінг</category>
+      <description>Старт продажів однієї з найочікуваніших ігор десятиліття супроводжується великим неприємним сюрпризом для гравців.</description>
+    </item>
     <item>
       <title>Технології, які ми втратили: Подвійні батареї Power Bridge</title>
       <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-podviyni-batareyi-power-bridge/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 12 Nov 2026 10:32:28 +0000</pubDate>
       <category>Техніка</category>
       <description>Власники смартфонів Apple із застарілими версіями iOS опинилися під загрозою масштабних кібератак через вразливості в системі.</description>
-    </item>
-    <item>
-      <title>Оновлення Android Auto: Gemini Intelligence залишає не-Pixel пристрої позаду</title>
-      <link>https://yomaxxxi.github.io/news/onovlennya-android-auto-gemini-intelligence-zalyshaye-ne-pixel-pr/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/onovlennya-android-auto-gemini-intelligence-zalyshaye-ne-pixel-pr/</guid>
-      <pubDate>Thu, 12 Nov 2026 09:23:16 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Google готує масштабне оновлення для Android Auto, яке принесе проактивні поради асистента безпосередньо в автомобільну систему.</description>
     </item>
   </channel>
 </rss>
