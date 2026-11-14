@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 19269,
+      "slug": "github-perlyna-dnya-juliusbrusseecaveman-virusnyy-proksi-dlya-ai-",
+      "title": "GitHub-перлина дня: JuliusBrussee/caveman — вірусний проксі для AI-агентів, що скорочує витрати токенів на 65% через «печерну» мову",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-14T15:52:50Z",
+      "date_formatted": "14 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/1/JuliusBrussee/caveman",
+      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
+      "summary": "Комерційні AI-агенти на кшталт Claude Code чи GitHub Copilot змушують розробників платити шалені гроші за зайвий «ввічливий» контекст. Проєкт Caveman вирішує цей біль, змушуючи AI спілкуватися у стилі caveman: без зайвої води, тегів та форматувань, зберігаючи ідентичну якість написання коду.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": "https://github.com/JuliusBrussee/caveman",
+      "github_repo": "JuliusBrussee/caveman"
+    },
+    {
       "id": 19235,
       "slug": "pytannya-do-nvidia-chy-znala-kompaniya-pro-prodazh-ai-gpu-fiktyvn",
       "title": "Питання до Nvidia: чи знала компанія про продаж AI GPU фіктивним фірмам?",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
       "summary": "Міністр фінансів США Скотт Бессент публічно звернув увагу на проблеми експортного контролю та можливу відповідальність керівництва корпорації.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -101,7 +122,7 @@
       "summary": "Приватний сервер на базі старих відеокарт отримав масштабне оновлення, що дозволило значно покращити точність роботи моделі для юридичної практики.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": "https://github.com/vercel-labs/agent-browser",
       "github_repo": "vercel-labs/agent-browser"
-    },
-    {
-      "id": 15821,
-      "slug": "shparhalka-hayd-shvydke-prototypuvannya-interfeysiv-cherez-v0dev-",
-      "title": "Шпаргалка / Гайд: Швидке прототипування інтерфейсів через v0.dev та Bolt.new",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-09T13:34:09Z",
-      "date_formatted": "9 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": null,
-      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
-      "summary": "Цей матеріал навчить вас збирати повноцінний Next.js та Tailwind фронтенд всього за 15 хвилин без ручної верстки. Економія часу складає мінімум 80% робочих годин на старті проєкту.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
     }
   ]
 }

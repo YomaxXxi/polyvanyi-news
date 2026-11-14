@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 14 Nov 2026 14:55:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 15:52:50 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: JuliusBrussee/caveman — вірусний проксі для AI-агентів, що скорочує витрати токенів на 65% через «печерну» мову</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-juliusbrusseecaveman-virusnyy-proksi-dlya-ai-/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-juliusbrusseecaveman-virusnyy-proksi-dlya-ai-/</guid>
+      <pubDate>Sat, 14 Nov 2026 15:52:50 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Комерційні AI-агенти на кшталт Claude Code чи GitHub Copilot змушують розробників платити шалені гроші за зайвий «ввічливий» контекст. Проєкт Caveman вирішує цей біль, змушуючи AI спілкуватися у стилі caveman: без зайвої води, тегів та форматувань, зберігаючи ідентичну якість написання коду.</description>
+    </item>
     <item>
       <title>Питання до Nvidia: чи знала компанія про продаж AI GPU фіктивним фірмам?</title>
       <link>https://yomaxxxi.github.io/news/pytannya-do-nvidia-chy-znala-kompaniya-pro-prodazh-ai-gpu-fiktyvn/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 12 Nov 2026 13:30:53 +0000</pubDate>
       <category>Техніка</category>
       <description>Бренд Ecoflow випустив функціональний пристрій для тих, хто постійно в дорозі та має кілька гаджетів одночасно. Цей ультраємний павербанк здатен одночасно живити до трьох пристроїв на максимальній швидкості.</description>
-    </item>
-    <item>
-      <title>Технології, які ми втратили: Поворотна моторизована камера</title>
-      <link>https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-povorotna-motoryzovana-kamera/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/tekhnolohiyi-yaki-my-vtratyly-povorotna-motoryzovana-kamera/</guid>
-      <pubDate>Thu, 12 Nov 2026 12:40:13 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Ця геніальна ідея дозволяла використовувати основну, найпотужнішу оптику смартфона для розкішних селфі та стрімів. Жодних компромісів із «мильними» фронталками у вирізах екрана!</description>
     </item>
   </channel>
 </rss>
