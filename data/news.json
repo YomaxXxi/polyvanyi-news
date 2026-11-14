@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 19236,
+      "slug": "shvydkyy-dostup-do-kamery-na-android-ta-ios-v-odyn-klik",
+      "title": "Швидкий доступ до камери на Android та iOS в один клік",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-14T14:25:49Z",
+      "date_formatted": "14 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": null,
+      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
+      "summary": "Вдалий кадр триває секунду. Якщо розблоковувати телефон і шукати іконку застосунку, момент буде втрачено. Показуємо, як налаштувати миттєвий запуск камери на будь-якому смартфоні.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 19211,
       "slug": "skandal-iz-relizom-gta-6-chastyna-korobok-nadiyshla-pokuptsyam-be",
       "title": "Скандал із релізом GTA 6: частина коробок надійшла покупцям без кодів активації",
@@ -1233,27 +1254,6 @@
       "image": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/l-intro-1793382637.jpg",
       "image_caption": "Матеріали Engadget / Офіційний реліз",
       "summary": "Стартап CAIM1 створює унікальний інструмент для відновлення довіри до цифрових зображень на тлі епідемії глибоких підробок.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 15758,
-      "slug": "tekhnolohiyi-yaki-my-vtratyly-vbudovanyy-fm-transmiter",
-      "title": "Технології, які ми втратили: Вбудований FM-трансмітер",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-09T12:31:40Z",
-      "date_formatted": "9 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Nokia_N900%2C_type_RX-51-7969.jpg",
-      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
-      "summary": "У золоту епоху смарт-буму інженери Nokia та Sony Ericsson дарували нам справжню магію. Уявіть: сідаєте в старе авто, жодних дротів, AUX-кабелів чи криво працюючого Bluetooth. Ви просто обираєте в меню улюбленого смартфона вільну хвилю, наприклад 88.5 FM, налаштовуєте магнітолу — і ваш трек-лист лунає на всю потужність аудіосистеми!",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
