@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 14 Nov 2026 09:22:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 09:35:59 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Магія проти лазерів: огляд інді-хіта Wielders of the Essence</title>
+      <link>https://yomaxxxi.github.io/news/mahiya-proty-lazeriv-ohlyad-indi-khita-wielders-of-the-essence/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/mahiya-proty-lazeriv-ohlyad-indi-khita-wielders-of-the-essence/</guid>
+      <pubDate>Sat, 14 Nov 2026 09:35:59 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Новий виток популярності жанру survivors-like приносить свіжі експерименти: від творців стратегії Songs of Conquest вийшов затишний спіноф упізнаваному всесвіті.</description>
+    </item>
     <item>
       <title>GitHub-перлина дня: alibaba/open-code-review — AI-асистент для рев&#x27;ю коду корпоративного рівня з точністю до рядка</title>
       <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-alibabaopen-code-review-ai-asystent-dlya-revy/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 12 Nov 2026 07:04:52 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Компанія Google Labs випустила новий сервіс Tabletop, створений для того, щоб позбавити користувачів головного болю під час спільного планування подій із друзями чи родиною.</description>
-    </item>
-    <item>
-      <title>Motorola MA2: новий бездротовий адаптер Android Auto виходить на ринок зі значним подорожчанням</title>
-      <link>https://yomaxxxi.github.io/news/motorola-ma2-novyy-bezdrotovyy-adapter-android-auto-vykhodyt-na-r/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/motorola-ma2-novyy-bezdrotovyy-adapter-android-auto-vykhodyt-na-r/</guid>
-      <pubDate>Thu, 12 Nov 2026 06:03:38 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Компанія випустила наступника культового адаптера, але ціна розчарує багатьох покупців.</description>
     </item>
   </channel>
 </rss>
