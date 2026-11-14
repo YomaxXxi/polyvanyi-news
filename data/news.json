@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 19146,
+      "slug": "yak-zvilnyty-36-hb-na-android-bez-vydalennya-fotohrafiy",
+      "title": "Як звільнити 36 ГБ на Android без видалення фотографій",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-14T10:41:16Z",
+      "date_formatted": "14 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/Samsung-phone-showing-storage-status-scaled.jpg",
+      "image_caption": "Матеріали Android Authority / Офіційний реліз",
+      "summary": "Більшість сучасних смартфонів, як-от Galaxy S26 із 256 ГБ пам'яті, швидко заповнюються файлами. Проте звільнити гігабайти простору можна без видалення дорогоцінних знімків чи відео.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 19132,
       "slug": "mahiya-proty-lazeriv-ohlyad-indi-khita-wielders-of-the-essence",
       "title": "Магія проти лазерів: огляд інді-хіта Wielders of the Essence",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
       "summary": "Новий виток популярності жанру survivors-like приносить свіжі експерименти: від творців стратегії Songs of Conquest вийшов затишний спіноф упізнаваному всесвіті.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Huawei випустила nova Flip S у Китаї ще в жовтні минулого року, і це був переважно nova Flip з новими кольорами, нижчою ціною та іншим чіпсетом. Його наступник, за чутками, стане набагато більшою зміною.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "github_repo": "ZhuLinsen/daily_stock_analysis"
-    },
-    {
-      "id": 15610,
-      "slug": "konflikt-navkolo-displaylink-synaptics-vymahaye-zakryty-vidkrytyy",
-      "title": "Конфлікт навколо DisplayLink: Synaptics вимагає закрити відкритий драйвер",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-09T09:29:05Z",
-      "date_formatted": "9 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://cdn.mos.cms.futurecdn.net/2UAKwnmLDdHNiioqp6MpYE-1920-80.png",
-      "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
-      "summary": "Компанія Synaptics надіслала листа про припинення діяльності розробнику-хобісту Ма Ксу Лотіану через його проект відкритих джерел Vino.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
     }
   ]
 }

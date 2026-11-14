@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 14 Nov 2026 09:35:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 10:41:16 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Як звільнити 36 ГБ на Android без видалення фотографій</title>
+      <link>https://yomaxxxi.github.io/news/yak-zvilnyty-36-hb-na-android-bez-vydalennya-fotohrafiy/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/yak-zvilnyty-36-hb-na-android-bez-vydalennya-fotohrafiy/</guid>
+      <pubDate>Sat, 14 Nov 2026 10:41:16 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Більшість сучасних смартфонів, як-от Galaxy S26 із 256 ГБ пам&#x27;яті, швидко заповнюються файлами. Проте звільнити гігабайти простору можна без видалення дорогоцінних знімків чи відео.</description>
+    </item>
     <item>
       <title>Магія проти лазерів: огляд інді-хіта Wielders of the Essence</title>
       <link>https://yomaxxxi.github.io/news/mahiya-proty-lazeriv-ohlyad-indi-khita-wielders-of-the-essence/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 12 Nov 2026 08:05:46 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Компанія розробила спеціалізовану систему Control Room, яка дозволяє оперативно припиняти роботу моделей штучного інтелекту у разі виникнення загроз чи непередбачуваної поведінки.</description>
-    </item>
-    <item>
-      <title>Кінець хаосу в чатах: Google представила експериментальний ШІ-інструмент Tabletop</title>
-      <link>https://yomaxxxi.github.io/news/kinets-khaosu-v-chatakh-google-predstavyla-eksperymentalnyy-shi-i/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/kinets-khaosu-v-chatakh-google-predstavyla-eksperymentalnyy-shi-i/</guid>
-      <pubDate>Thu, 12 Nov 2026 07:04:52 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Компанія Google Labs випустила новий сервіс Tabletop, створений для того, щоб позбавити користувачів головного болю під час спільного планування подій із друзями чи родиною.</description>
     </item>
   </channel>
 </rss>
