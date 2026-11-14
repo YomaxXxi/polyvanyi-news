@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 19091,
+      "slug": "faa-vidnovyla-poloty-pislya-zahalnonatsionalnoho-zboyu-v-ssha",
+      "title": "FAA відновила польоти після загальнонаціонального збою в США",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-14T07:09:09Z",
+      "date_formatted": "14 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://www.engadget.com/img/gallery/faa-allows-flights-to-resume-after-hours-long-us-wide-ground-stop/l-intro-1794637444.jpg",
+      "image_caption": "Матеріали Engadget / Офіційний реліз",
+      "summary": "Федеральне авіаційне управління США скасувало загальнонаціональну заборону на польоти, яка зупинила весь повітряний рух на кілька годин 13 листопада 2026 року. Сотні рейсів були скасовані, а мільйони пасажирів заблоковані в аеропортах.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 19095,
       "slug": "blohery-proty-kapitalizmu-ohlyad-filmu-yak-pohrabuvaty-bank",
       "title": "Блогери проти капіталізму: огляд фільму \"Як пограбувати банк\"",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
       "summary": "Стильний, яскравий, але дещо поверхневий кримінальний бойовик від режисера Девіда Літча, який перетворює пограбування банків на вірусне шоу для YouTube та TikTok.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "AI-агенти пишуть код, але сліпі у браузері. Проєкт закриває цей біль, надаючи Claude, Cursor чи Copilot прямий доступ до Chrome DevTools. Забудьте про криві скріншоти та сліпе гадання на кавовій гущі — тепер ваш агент сам бачить мережеві помилки, консоль та швидкодію.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "github_repo": "ChromeDevTools/chrome-devtools-mcp"
     },
@@ -1233,27 +1254,6 @@
       "image": "https://dev.ua/storage/images/54/19/60/58/derived/22c23cb949f8f33d660cbbc7e1f984f0.webp",
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Платформа офіційно презентує реліз версії 1.0 для аналітиків, журналістів та дослідників.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 15547,
-      "slug": "shparhalka-hayd-yak-nalashtuvaty-mcp-model-context-protocol-u-cla",
-      "title": "Шпаргалка / Гайд: Як налаштувати MCP (Model Context Protocol) у Claude Desktop за 5 хвилин",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-09T06:34:08Z",
-      "date_formatted": "9 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": null,
-      "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
-      "summary": "Цей матеріал вирішує задачу підключення зовнішніх інструментів та баз даних безпосередньо до Claude Desktop через Model Context Protocol, заощаджуючи вам години на ручне копіювання файлів і контексту.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

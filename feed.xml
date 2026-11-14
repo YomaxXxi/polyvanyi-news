@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 14 Nov 2026 06:18:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 07:09:09 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>FAA відновила польоти після загальнонаціонального збою в США</title>
+      <link>https://yomaxxxi.github.io/news/faa-vidnovyla-poloty-pislya-zahalnonatsionalnoho-zboyu-v-ssha/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/faa-vidnovyla-poloty-pislya-zahalnonatsionalnoho-zboyu-v-ssha/</guid>
+      <pubDate>Sat, 14 Nov 2026 07:09:09 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Федеральне авіаційне управління США скасувало загальнонаціональну заборону на польоти, яка зупинила весь повітряний рух на кілька годин 13 листопада 2026 року. Сотні рейсів були скасовані, а мільйони пасажирів заблоковані в аеропортах.</description>
+    </item>
     <item>
       <title>Блогери проти капіталізму: огляд фільму &quot;Як пограбувати банк&quot;</title>
       <link>https://yomaxxxi.github.io/news/blohery-proty-kapitalizmu-ohlyad-filmu-yak-pohrabuvaty-bank/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 11 Nov 2026 15:39:46 +0000</pubDate>
       <category>Open Source</category>
       <description>Astryx — це внутрішній титан Meta, який розвивався останні вісім років і тепер став доступним кожному. Він живить понад 13 000 додатків усередині компанії та пропонує понад 150 доступних компонентів із підтримкою темної теми й CLI.</description>
-    </item>
-    <item>
-      <title>Користувачі Google Chrome зіткнулися з багом: Google Lens блокує закриття бічної панелі</title>
-      <link>https://yomaxxxi.github.io/news/korystuvachi-google-chrome-zitknulysya-z-bahom-google-lens-blokuy/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/korystuvachi-google-chrome-zitknulysya-z-bahom-google-lens-blokuy/</guid>
-      <pubDate>Wed, 11 Nov 2026 15:31:36 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Неприємний технічний збій у браузері залишав юзерів без можливості закрити вікно пошукового інструменту.</description>
     </item>
   </channel>
 </rss>
