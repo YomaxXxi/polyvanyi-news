@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 19235,
+      "slug": "pytannya-do-nvidia-chy-znala-kompaniya-pro-prodazh-ai-gpu-fiktyvn",
+      "title": "Питання до Nvidia: чи знала компанія про продаж AI GPU фіктивним фірмам?",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-14T14:55:34Z",
+      "date_formatted": "14 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://cdn.mos.cms.futurecdn.net/jakBnPpBNjF9ncTK4KKtGG-1920-80.jpg",
+      "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
+      "summary": "Міністр фінансів США Скотт Бессент публічно звернув увагу на проблеми експортного контролю та можливу відповідальність керівництва корпорації.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 19236,
       "slug": "shvydkyy-dostup-do-kamery-na-android-ta-ios-v-odyn-klik",
       "title": "Швидкий доступ до камери на Android та iOS в один клік",
@@ -37,7 +58,7 @@
       "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
       "summary": "Старт продажів однієї з найочікуваніших ігор десятиліття супроводжується великим неприємним сюрпризом для гравців.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -101,7 +122,7 @@
       "summary": "Більшість сучасних смартфонів, як-от Galaxy S26 із 256 ГБ пам'яті, швидко заповнюються файлами. Проте звільнити гігабайти простору можна без видалення дорогоцінних знімків чи відео.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": null,
       "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
       "summary": "Цей матеріал навчить вас збирати повноцінний Next.js та Tailwind фронтенд всього за 15 хвилин без ручної верстки. Економія часу складає мінімум 80% робочих годин на старті проєкту.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 15797,
-      "slug": "borotba-za-pravdu-anonsovano-prototyp-kamery-caim1-proty-feykiv-v",
-      "title": "Боротьба за правду: анонсовано прототип камери CAIM1 проти фейків від ШІ",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-09T13:24:11Z",
-      "date_formatted": "9 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/l-intro-1793382637.jpg",
-      "image_caption": "Матеріали Engadget / Офіційний реліз",
-      "summary": "Стартап CAIM1 створює унікальний інструмент для відновлення довіри до цифрових зображень на тлі епідемії глибоких підробок.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

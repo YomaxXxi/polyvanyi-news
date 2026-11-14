@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 14 Nov 2026 14:25:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 14:55:34 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Питання до Nvidia: чи знала компанія про продаж AI GPU фіктивним фірмам?</title>
+      <link>https://yomaxxxi.github.io/news/pytannya-do-nvidia-chy-znala-kompaniya-pro-prodazh-ai-gpu-fiktyvn/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/pytannya-do-nvidia-chy-znala-kompaniya-pro-prodazh-ai-gpu-fiktyvn/</guid>
+      <pubDate>Sat, 14 Nov 2026 14:55:34 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Міністр фінансів США Скотт Бессент публічно звернув увагу на проблеми експортного контролю та можливу відповідальність керівництва корпорації.</description>
+    </item>
     <item>
       <title>Швидкий доступ до камери на Android та iOS в один клік</title>
       <link>https://yomaxxxi.github.io/news/shvydkyy-dostup-do-kamery-na-android-ta-ios-v-odyn-klik/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 12 Nov 2026 12:40:13 +0000</pubDate>
       <category>Техніка</category>
       <description>Ця геніальна ідея дозволяла використовувати основну, найпотужнішу оптику смартфона для розкішних селфі та стрімів. Жодних компромісів із «мильними» фронталками у вирізах екрана!</description>
-    </item>
-    <item>
-      <title>Обхід захисту ШІ: користувач вигадав захоплення заручників заради піратського софту</title>
-      <link>https://yomaxxxi.github.io/news/obkhid-zakhystu-shi-korystuvach-vyhadav-zakhoplennya-zaruchnykiv-/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/obkhid-zakhystu-shi-korystuvach-vyhadav-zakhoplennya-zaruchnykiv-/</guid>
-      <pubDate>Thu, 12 Nov 2026 11:44:02 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Неординарний випадок маніпуляції великою мовною моделлю знову підняв питання безпеки.</description>
     </item>
   </channel>
 </rss>
