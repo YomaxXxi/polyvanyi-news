@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 19095,
+      "slug": "blohery-proty-kapitalizmu-ohlyad-filmu-yak-pohrabuvaty-bank",
+      "title": "Блогери проти капіталізму: огляд фільму \"Як пограбувати банк\"",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-14T06:18:26Z",
+      "date_formatted": "14 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://img.mezha.ua/mezha/images/doc/4/1/334578/4176e399f9e7dd7d21e7fbcc5e955483.jpeg",
+      "image_caption": "Матеріали Mezha.ua / Офіційний реліз",
+      "summary": "Стильний, яскравий, але дещо поверхневий кримінальний бойовик від режисера Девіда Літча, який перетворює пограбування банків на вірусне шоу для YouTube та TikTok.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 19087,
       "slug": "naykrashchyy-i-nayhirshyy-smartfony-roku-skandal-nvidia-ta-novyny",
       "title": "Найкращий і НАЙГІРШИЙ смартфони року! Скандал NVIDIA та новини Apple. KeddrNews",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Keddr (TG) (Telegram) / Офіційний реліз",
       "summary": "Свіжий випуск техно-новин уже на каналі — розбираємо головні анонси, гучні скандали індустрії та найкращі мобільні пристрої поточного періоду.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Дослідник під псевдонімом Nightmare Eclipse опублікував новий zero-day exploit під назвою SignDrop, який дозволяє місцевим користувачам отримувати повні права System на деяких версіях Windows. Атака використовує взаємодію між компонентом CLFS та Windows Defender.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": null,
       "image_caption": "Матеріали Tech & AI Guide / Офіційний реліз",
       "summary": "Цей матеріал вирішує задачу підключення зовнішніх інструментів та баз даних безпосередньо до Claude Desktop через Model Context Protocol, заощаджуючи вам години на ручне копіювання файлів і контексту.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 15520,
-      "slug": "zahadka-svitovykh-elektromerezh-rozhadana-chomu-chastota-padaye-k",
-      "title": "Загадка світових електромереж розгадана: чому частота падає кожні 60 секунд",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-09T05:55:05Z",
-      "date_formatted": "9 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://techcrunch.com/wp-content/uploads/2022/08/electrical-grid-at-night.jpg",
-      "image_caption": "Матеріали TechCrunch / Офіційний реліз",
-      "summary": "Протягом багатьох років інженери по всьому світу фіксували дивні аномалії: рівно кожні 60 секунд частота в енергомережах різних країн і континентів трохи знижувалася. Група вчених під керівництвом Дірка Вітхаута нарешті з'ясувала причину цього глобального явища.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
