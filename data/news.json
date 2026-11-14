@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 19203,
+      "slug": "tekhnolohiyi-yaki-my-vtratyly-podviyni-batareyi-power-bridge",
+      "title": "Технології, які ми втратили: Подвійні батареї Power Bridge",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-14T12:53:17Z",
+      "date_formatted": "14 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": null,
+      "image_caption": "Матеріали Retro Tech / Офіційний реліз",
+      "summary": "Ця система складалася з двох частин: внутрішньої міні-батареї та другої, повноцінної та зовні знімної. Користувач отримував справжню нескінченну автономність без розеток.",
+      "reading_time": "2 хв",
+      "featured": false,
+      "breaking": false,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 19157,
       "slug": "aphreyd-lokalnoho-ai-servera-tochnist-deepseek-ta-novi-vyklyky-za",
       "title": "Апгрейд локального AI-сервера: точність DeepSeek та нові виклики заліза",
@@ -1233,27 +1254,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/n2zquDeZTzsf5MTjgwrqJc-1920-80.jpg",
       "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
       "summary": "Через стрімке зростання цін на компонентну базу ринок смартфонів шукає нові шляхи економії.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 15677,
-      "slug": "skrypt-ram-altman-skarzhymosya-semu-altmanu-na-nedostatnye-vykory",
-      "title": "Скрипт ram-altman: скаржимося Сему Алтману на недостатнє використання оперативної пам'яті",
-      "category": "Техніка",
-      "category_slug": "tech",
-      "date": "2026-11-09T10:45:55Z",
-      "date_formatted": "9 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://cdn.mos.cms.futurecdn.net/NdXst9hGKJ5uK63S9FQhVC-1920-80.jpg",
-      "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
-      "summary": "З'явився кумедний інструмент, який карає користувачів за занадто вільну оперативну пам'ять на ПК.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
