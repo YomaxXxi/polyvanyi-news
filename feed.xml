@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Fri, 13 Nov 2026 15:39:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:49:21 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Найкращий і НАЙГІРШИЙ смартфони року! Скандал NVIDIA та новини Apple. KeddrNews</title>
+      <link>https://yomaxxxi.github.io/news/naykrashchyy-i-nayhirshyy-smartfony-roku-skandal-nvidia-ta-novyny/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/naykrashchyy-i-nayhirshyy-smartfony-roku-skandal-nvidia-ta-novyny/</guid>
+      <pubDate>Sat, 14 Nov 2026 04:49:21 +0000</pubDate>
+      <category>Техніка</category>
+      <description>Свіжий випуск техно-новин уже на каналі — розбираємо головні анонси, гучні скандали індустрії та найкращі мобільні пристрої поточного періоду.</description>
+    </item>
     <item>
       <title>GitHub-перлина дня: ChromeDevTools/chrome-devtools-mcp — Могутній MCP-сервер, що дає AI-агентам повний контроль над браузером Chrome для глибокого дебагу та автоматизації!</title>
       <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-chromedevtoolschrome-devtools-mcp-mohutniy-mc/</link>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 11 Nov 2026 14:40:57 +0000</pubDate>
       <category>Штучний Інтелект</category>
       <description>Перестаньте платити за хмарні сервіси транскрипції на кшталт Otter заради переведення голосових записів, подкастів чи інтерв&#x27;ю у текст. Цей інструмент робить всю роботу локально у вашому браузері за лічені секунди і гарантує повну конфіденційність.</description>
-    </item>
-    <item>
-      <title>Google розкрила всі деталі про функцію Create My Widget для смартфонів Pixel</title>
-      <link>https://yomaxxxi.github.io/news/google-rozkryla-vsi-detali-pro-funktsiyu-create-my-widget-dlya-sm/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/google-rozkryla-vsi-detali-pro-funktsiyu-create-my-widget-dlya-sm/</guid>
-      <pubDate>Wed, 11 Nov 2026 13:57:36 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Компанія Google поділилася новими подробицями про роботу інструменту Create My Widget на базі штучного інтелекту, який дозволяє створювати персоналізовані віджети за допомогою природного мовлення.</description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 19087,
+      "slug": "naykrashchyy-i-nayhirshyy-smartfony-roku-skandal-nvidia-ta-novyny",
+      "title": "Найкращий і НАЙГІРШИЙ смартфони року! Скандал NVIDIA та новини Apple. KeddrNews",
+      "category": "Техніка",
+      "category_slug": "tech",
+      "date": "2026-11-14T04:49:21Z",
+      "date_formatted": "14 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://img.youtube.com/vi/NOUQ4hCAcNs/maxresdefault.jpg",
+      "image_caption": "Матеріали Keddr (TG) (Telegram) / Офіційний реліз",
+      "summary": "Свіжий випуск техно-новин уже на каналі — розбираємо головні анонси, гучні скандали індустрії та найкращі мобільні пристрої поточного періоду.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 18861,
       "slug": "github-perlyna-dnya-chromedevtoolschrome-devtools-mcp-mohutniy-mc",
       "title": "GitHub-перлина дня: ChromeDevTools/chrome-devtools-mcp — Могутній MCP-сервер, що дає AI-агентам повний контроль над браузером Chrome для глибокого дебагу та автоматизації!",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
       "summary": "AI-агенти пишуть код, але сліпі у браузері. Проєкт закриває цей біль, надаючи Claude, Cursor чи Copilot прямий доступ до Chrome DevTools. Забудьте про криві скріншоти та сліпе гадання на кавовій гущі — тепер ваш агент сам бачить мережеві помилки, консоль та швидкодію.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "github_repo": "ChromeDevTools/chrome-devtools-mcp"
@@ -59,7 +80,7 @@
       "summary": "Потрібно терміново додати 3D-об'єкт у проєкт, а на ручне моделювання та розгортку немає годин? Цей інструмент генерує повноцінну текстуровану 3D-модель за кілька секунд з одного фото або текстового опису, повністю замінюючи важкі платні 3D-редактори.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2022/08/electrical-grid-at-night.jpg",
       "image_caption": "Матеріали TechCrunch / Офіційний реліз",
       "summary": "Протягом багатьох років інженери по всьому світу фіксували дивні аномалії: рівно кожні 60 секунд частота в енергомережах різних країн і континентів трохи знижувалася. Група вчених під керівництвом Дірка Вітхаута нарешті з'ясувала причину цього глобального явища.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 15449,
-      "slug": "chomu-emulyatsiya-arkadnykh-ihor-skladnisha-za-konsoli-uroky-vid-",
-      "title": "Чому емуляція аркадних ігор складніша за консолі: уроки від MAME",
-      "category": "Геймінг",
-      "category_slug": "gaming",
-      "date": "2026-11-09T04:43:42Z",
-      "date_formatted": "9 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/playing-cadillacs-and-dinosaurs-on-mame-arcade-emulator-on-pc.jpg",
-      "image_caption": "Матеріали XDA Developers / Офіційний реліз",
-      "summary": "Сьогодні навіть потужні смартфони можуть запускати складні консольні ігри, проте старі аркадні автомати продовжують кидати виклик розробникам ігор та ентузіастам вже понад три десятиліття.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,
