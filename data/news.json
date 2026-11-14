@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 19129,
+      "slug": "github-perlyna-dnya-alibabaopen-code-review-ai-asystent-dlya-revy",
+      "title": "GitHub-перлина дня: alibaba/open-code-review — AI-асистент для рев'ю коду корпоративного рівня з точністю до рядка",
+      "category": "Open Source",
+      "category_slug": "opensource",
+      "date": "2026-11-14T09:22:49Z",
+      "date_formatted": "14 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://opengraph.githubassets.com/1/alibaba/open-code-review",
+      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
+      "summary": "Ручне code review забирає годинник робочого часу сеньйорів, а типові AI-асистенти часто залишають купу шуму та галюцинацій на рівні diff-файлів. Alibaba open-source'нула свій внутрішній інструмент, який два роки перевіряв мільйони рядків коду у виробничому середовищі.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": "https://github.com/alibaba/open-code-review",
+      "github_repo": "alibaba/open-code-review"
+    },
+    {
       "id": 19084,
       "slug": "nastupnyy-huawei-nova-flip-mozhe-pereyty-na-shyrokyy-form-faktor",
       "title": "Наступний Huawei nova Flip може перейти на широкий форм-фактор",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали GSM Arena (Смартфони) / Офіційний реліз",
       "summary": "Huawei випустила nova Flip S у Китаї ще в жовтні минулого року, і це був переважно nova Flip з новими кольорами, нижчою ціною та іншим чіпсетом. Його наступник, за чутками, стане набагато більшою зміною.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Стильний, яскравий, але дещо поверхневий кримінальний бойовик від режисера Девіда Літча, який перетворює пограбування банків на вірусне шоу для YouTube та TikTok.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": null,
       "github_repo": null
     },
@@ -1233,27 +1254,6 @@
       "image": "https://dev.ua/storage/images/73/36/25/89/derived/6bfa55405971270c50c94b14ecfe8724.webp",
       "image_caption": "Матеріали dev.ua / Офіційний реліз",
       "summary": "Відома українська локалізаційна спілка SBT Localization («Шлякбитраф»), яка раніше подарувала гравцям офіційний переклад Baldur’s Gate 3, офіційно анонсувала роботу над масштабним українізатором для Mass Effect Legendary Edition.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": null,
-      "github_repo": null
-    },
-    {
-      "id": 15563,
-      "slug": "mikro-shi-dnya-devv-ai-shvydkyy-poshuk-rishen-ta-kod-bez-zayvykh-",
-      "title": "Мікро-ШІ дня: Devv AI — Швидкий пошук рішень та код без зайвих вкладки",
-      "category": "Штучний Інтелект",
-      "category_slug": "ai",
-      "date": "2026-11-09T07:32:09Z",
-      "date_formatted": "9 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": null,
-      "image_caption": "Матеріали Micro-AI Tools / Офіційний реліз",
-      "summary": "Більше не потрібно гортати десятки сторінок StackOverflow та старих гілок GitHub у пошуках причини дивного багу. Цей інструмент знаходить точне технічне рішення за лічені секунди прямо у вас в браузері.",
       "reading_time": "2 хв",
       "featured": false,
       "breaking": false,

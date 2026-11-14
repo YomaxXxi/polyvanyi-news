@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 14 Nov 2026 08:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 09:22:49 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub-перлина дня: alibaba/open-code-review — AI-асистент для рев&#x27;ю коду корпоративного рівня з точністю до рядка</title>
+      <link>https://yomaxxxi.github.io/news/github-perlyna-dnya-alibabaopen-code-review-ai-asystent-dlya-revy/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/github-perlyna-dnya-alibabaopen-code-review-ai-asystent-dlya-revy/</guid>
+      <pubDate>Sat, 14 Nov 2026 09:22:49 +0000</pubDate>
+      <category>Open Source</category>
+      <description>Ручне code review забирає годинник робочого часу сеньйорів, а типові AI-асистенти часто залишають купу шуму та галюцинацій на рівні diff-файлів. Alibaba open-source&#x27;нула свій внутрішній інструмент, який два роки перевіряв мільйони рядків коду у виробничому середовищі.</description>
+    </item>
     <item>
       <title>Наступний Huawei nova Flip може перейти на широкий форм-фактор</title>
       <link>https://yomaxxxi.github.io/news/nastupnyy-huawei-nova-flip-mozhe-pereyty-na-shyrokyy-form-faktor/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 12 Nov 2026 06:03:38 +0000</pubDate>
       <category>Техніка</category>
       <description>Компанія випустила наступника культового адаптера, але ціна розчарує багатьох покупців.</description>
-    </item>
-    <item>
-      <title>9to5Mac Daily: Головні події та оновлення екосистеми Apple</title>
-      <link>https://yomaxxxi.github.io/news/9to5mac-daily-holovni-podiyi-ta-onovlennya-ekosystemy-apple/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/9to5mac-daily-holovni-podiyi-ta-onovlennya-ekosystemy-apple/</guid>
-      <pubDate>Thu, 12 Nov 2026 04:29:44 +0000</pubDate>
-      <category>Техніка</category>
-      <description>Свіжий дайджест новин компанії приносить чимало цікавих анонсів, включаючи нові функції доступності, зміни в картографії та завершення цілої епохи для легендарних форумів підтримки.</description>
     </item>
   </channel>
 </rss>
