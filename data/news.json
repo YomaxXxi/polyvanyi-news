@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": 19157,
+      "slug": "aphreyd-lokalnoho-ai-servera-tochnist-deepseek-ta-novi-vyklyky-za",
+      "title": "Апгрейд локального AI-сервера: точність DeepSeek та нові виклики заліза",
+      "category": "Штучний Інтелект",
+      "category_slug": "ai",
+      "date": "2026-11-14T11:45:37Z",
+      "date_formatted": "14 листопада 2026",
+      "author": {
+        "name": "Михайло Поливаний",
+        "role": "Головний редактор"
+      },
+      "image": "https://cdn.mos.cms.futurecdn.net/iRobEeMPfpiSTatZm5zucg-1920-80.jpg",
+      "image_caption": "Матеріали Tom's Hardware / Офіційний реліз",
+      "summary": "Приватний сервер на базі старих відеокарт отримав масштабне оновлення, що дозволило значно покращити точність роботи моделі для юридичної практики.",
+      "reading_time": "2 хв",
+      "featured": true,
+      "breaking": true,
+      "github_url": null,
+      "github_repo": null
+    },
+    {
       "id": 19146,
       "slug": "yak-zvilnyty-36-hb-na-android-bez-vydalennya-fotohrafiy",
       "title": "Як звільнити 36 ГБ на Android без видалення фотографій",
@@ -16,7 +37,7 @@
       "image_caption": "Матеріали Android Authority / Офіційний реліз",
       "summary": "Більшість сучасних смартфонів, як-от Galaxy S26 із 256 ГБ пам'яті, швидко заповнюються файлами. Проте звільнити гігабайти простору можна без видалення дорогоцінних знімків чи відео.",
       "reading_time": "2 хв",
-      "featured": true,
+      "featured": false,
       "breaking": true,
       "github_url": null,
       "github_repo": null
@@ -59,7 +80,7 @@
       "summary": "Ручне code review забирає годинник робочого часу сеньйорів, а типові AI-асистенти часто залишають купу шуму та галюцинацій на рівні diff-файлів. Alibaba open-source'нула свій внутрішній інструмент, який два роки перевіряв мільйони рядків коду у виробничому середовищі.",
       "reading_time": "2 хв",
       "featured": false,
-      "breaking": true,
+      "breaking": false,
       "github_url": "https://github.com/alibaba/open-code-review",
       "github_repo": "alibaba/open-code-review"
     },
@@ -1238,27 +1259,6 @@
       "breaking": false,
       "github_url": null,
       "github_repo": null
-    },
-    {
-      "id": 15643,
-      "slug": "github-perlyna-dnya-zhulinsendaily-stock-analysis-llm-systema-dly",
-      "title": "GitHub-перлина дня: ZhuLinsen/daily_stock_analysis — LLM-система для глибокого аналізу фондових ринків з автономними AI-агентами та автоматичним сповіщенням",
-      "category": "Open Source",
-      "category_slug": "opensource",
-      "date": "2026-11-09T10:01:13Z",
-      "date_formatted": "9 листопада 2026",
-      "author": {
-        "name": "Михайло Поливаний",
-        "role": "Головний редактор"
-      },
-      "image": "https://opengraph.githubassets.com/1/ZhuLinsen/daily_stock_analysis",
-      "image_caption": "Матеріали GitHub Trending / Офіційний реліз",
-      "summary": "Інвестори та трейдери щодня витрачають години на збір ринкових даних, читання новин та побудову технічних індикаторів. Цей проєкт повністю автоматизує рутину, замінюючи дороговартісні термінали та підписки на закриті SaaS-платформи для фінтех-аналітики. Інструмент стрімко увірвався в тренди завдяки поєднанню штучного інтелекту з мультиджерельним трекінгом ринків без потреби у платних серверах.",
-      "reading_time": "2 хв",
-      "featured": false,
-      "breaking": false,
-      "github_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "github_repo": "ZhuLinsen/daily_stock_analysis"
     }
   ]
 }

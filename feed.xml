@@ -5,8 +5,16 @@
     <link>https://yomaxxxi.github.io/</link>
     <description>Новини AI, технологій та геймінгу українською</description>
     <language>uk</language>
-    <lastBuildDate>Sat, 14 Nov 2026 10:41:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 11:45:37 +0000</lastBuildDate>
     <atom:link href="https://yomaxxxi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Апгрейд локального AI-сервера: точність DeepSeek та нові виклики заліза</title>
+      <link>https://yomaxxxi.github.io/news/aphreyd-lokalnoho-ai-servera-tochnist-deepseek-ta-novi-vyklyky-za/</link>
+      <guid isPermaLink="true">https://yomaxxxi.github.io/news/aphreyd-lokalnoho-ai-servera-tochnist-deepseek-ta-novi-vyklyky-za/</guid>
+      <pubDate>Sat, 14 Nov 2026 11:45:37 +0000</pubDate>
+      <category>Штучний Інтелект</category>
+      <description>Приватний сервер на базі старих відеокарт отримав масштабне оновлення, що дозволило значно покращити точність роботи моделі для юридичної практики.</description>
+    </item>
     <item>
       <title>Як звільнити 36 ГБ на Android без видалення фотографій</title>
       <link>https://yomaxxxi.github.io/news/yak-zvilnyty-36-hb-na-android-bez-vydalennya-fotohrafiy/</link>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 12 Nov 2026 09:09:47 +0000</pubDate>
       <category>Open Source</category>
       <description>У розробників часто болить голова через розгортання важких Python-стеків (PyTorch, Transformers) лише для того, щоб запустити кількамодельну архітектуру локально. Проєкт solve цю проблему завдяки чистому C/C++ без зайвих залежностей.</description>
-    </item>
-    <item>
-      <title>OpenAI створила &quot;червону кнопку&quot; для екстреної зупинки ШІ-моделей</title>
-      <link>https://yomaxxxi.github.io/news/openai-stvoryla-chervonu-knopku-dlya-ekstrenoyi-zupynky-shi-model/</link>
-      <guid isPermaLink="true">https://yomaxxxi.github.io/news/openai-stvoryla-chervonu-knopku-dlya-ekstrenoyi-zupynky-shi-model/</guid>
-      <pubDate>Thu, 12 Nov 2026 08:05:46 +0000</pubDate>
-      <category>Штучний Інтелект</category>
-      <description>Компанія розробила спеціалізовану систему Control Room, яка дозволяє оперативно припиняти роботу моделей штучного інтелекту у разі виникнення загроз чи непередбачуваної поведінки.</description>
     </item>
   </channel>
 </rss>
